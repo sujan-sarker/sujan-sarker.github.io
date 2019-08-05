@@ -7,20 +7,20 @@ author_profile: true
 
 ## Current Projects
 ----------------
-
 * Pros and Cons Opinion Summarization based on Review Critics
 * Neural Bangla Text Simplification for Children
 * Automatic Summarization of Bangla Text Documents
 
+
 ## Graduate Course Projects [2015-2017]
 ----------------
-* User Review Analysis of Google Play Store Apps.
+* User Review Analysis of Google Play Store Apps. 
 * Modeling Class Scheduling Using Linear Programming.
 * Design of 8-bit ALU & CPU on Xilinx using Verilog HDL.
 
+
 ## Undergraduate Course Projects [2008-2011]
 ----------------
-
 * Developed a Parts of Speech tagger and Stemmer for Bangla Language (*Python*).
 * Developed  a system  that  recognizes  syntactically  correct  affirmative  and negative sentences (*Python*).
 * Built a user centered model “Virtual Shop Guide” for Online Cloth Store with dynamic fictitious graphic characters.
