@@ -21,7 +21,6 @@ author_profile: true
 
 ## Undergraduate Course Projects [2008-2011]
 ----------------
-* Developed a Parts of Speech tagger and Stemmer for Bangla Language (*Python*).
 * Developed  a system  that  recognizes  syntactically  correct  affirmative  and negative sentences (*Python*).
 * Built a user centered model “Virtual Shop Guide” for Online Cloth Store with dynamic fictitious graphic characters.
 * A  multi-player  Game  with  advanced  graphics  like  fog,  lighting,  particle system, reflections and collision detection with improved  speed and appearance (*OpenGl, C++*).
