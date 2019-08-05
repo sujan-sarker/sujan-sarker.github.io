@@ -10,7 +10,7 @@ redirect_from:
 
 # Education
 
-### M.Sc. in Computer Science (2017)
+## M.Sc. in Computer Science (2017)
 ___________________________________
 
 
@@ -22,7 +22,7 @@ ___________________________________
 * **Committee Members:** [Dr. Wendy Osborn](http://directory.uleth.ca/users/wendy.osborn), [Dr. John Anvik ](http://directory.uleth.ca/users/john.anvik)
 
 
-### B.Sc. in Computer Science and Information Technology (2012)
+## B.Sc. in Computer Science and Information Technology (2012)
 ___________________________________
 
 
