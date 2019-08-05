@@ -14,9 +14,9 @@ author_profile: true
 
 ## Graduate Course Projects [2015-2017]
 ----------------
-* User Review Analysis of Google Play Store Apps. [Methods](https://www.facebook.com/)
-* Modeling Class Scheduling Using Linear Programming. [Methods](https://www.facebook.com/)
-* Design of 8-bit ALU & CPU on Xilinx using Verilog HDL. [Methods](https://www.facebook.com/)
+* User Review Analysis of Google Play Store Apps. [[Code]](https://github.com/tafseer-nayeem/CPSC5310-Machine_Learning)[[Data]](https://github.com/tafseer-nayeem/AppReview-dataset)
+* Modeling Class Scheduling Using Linear Programming. [[Code]](https://www.facebook.com/)
+* Design of 8-bit ALU & CPU on Xilinx using Verilog HDL. [[Code]](https://www.facebook.com/)
 
 
 ## Undergraduate Course Projects [2008-2011]
