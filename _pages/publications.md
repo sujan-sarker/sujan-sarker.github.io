@@ -27,7 +27,7 @@ author_profile: true
 
 *  Yllias Chali, Moin Mahmud Tanvee, **Mir Tafseer Nayeem**, [“Towards Abstractive Multi-Document Summarization Using Submodular Function-Based Framework, Sentence Compression and Merging”](http://www.aclweb.org/anthology/I17-2071), In Proceedings of the 8th International Joint Conference on Natural Language Processing (**IJCNLP 2017**), Taipei, Taiwan.
 
-*  **Mir Tafseer Nayeem**, Yllias Chali,  [“Extract with Order for Coherent Multi-Document Summarization”](http://www.aclweb.org/anthology/W17-2407), In Proceedings of TextGraphs-11: the Workshop on Graph-based Methods for Natural Language Processing (**ACL-2017 Workshop**), Vancouver, Canada. [[*Oral Presentation**]](https://tafseer-nayeem.github.io/files/ACL_Workshop_2017_Presentation.pdf)
+*  **Mir Tafseer Nayeem**, Yllias Chali,  [“Extract with Order for Coherent Multi-Document Summarization”](http://www.aclweb.org/anthology/W17-2407), In Proceedings of TextGraphs-11: the Workshop on Graph-based Methods for Natural Language Processing (**ACL-2017 Workshop**), Vancouver, Canada. [[**Oral Presentation**]](https://tafseer-nayeem.github.io/files/ACL_Workshop_2017_Presentation.pdf)
 
 
 ## 2014
@@ -38,4 +38,4 @@ author_profile: true
 
 ## 2012
 -----------
-*  **Mir Tafseer Nayeem**, Md. Saddam Hossain Mukta , Samsuddin Ahmed, and Md. Mahbubur Rahman, [“Use of Human Cognition in HIP Design Via EmotIcons to Defend BOT Attacks”](https://ieeexplore.ieee.org/document/6417291/), In Proceedings of the IEEE 15th International Conference on Computational Science and Engineering (**IEEE CSE 2012**), Nicosia, Cyprus. (Oral Presentation)
+*  **Mir Tafseer Nayeem**, Md. Saddam Hossain Mukta , Samsuddin Ahmed, and Md. Mahbubur Rahman, [“Use of Human Cognition in HIP Design Via EmotIcons to Defend BOT Attacks”](https://ieeexplore.ieee.org/document/6417291/), In Proceedings of the IEEE 15th International Conference on Computational Science and Engineering (**IEEE CSE 2012**), Nicosia, Cyprus. [Oral Presentation]
