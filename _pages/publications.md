@@ -14,7 +14,7 @@ author_profile: true
 -----------
 *  Tanvir Ahmed Fuad*, **Mir Tafseer Nayeem***, Asif Mahmud, and Yllias Chali, ["Neural Sentence Fusion for Diversity Driven Abstractive Multi-Document Summarization"](https://www.sciencedirect.com/science/article/pii/S0885230818303449), Computer Speech & Language, Elsevier 58 (2019): 216-230. [***Equal Contribution**] [[Code]](https://github.com/tafseer-nayeem/NeuFuse-CSL2019) [[PDF]](https://tafseer-nayeem.github.io/files/CSL_Journal_2019.pdf)
 
-*  **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, Yllias Chali, ["Neural Diverse Abstractive Sentence Compression Generation"](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14), In Proceedings of the 41st European Conference on Information Retrieval (**ECIR 2019**), Cologne, Germany.
+*  **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, Yllias Chali, ["Neural Diverse Abstractive Sentence Compression Generation"](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14), In Proceedings of the 41st European Conference on Information Retrieval (**ECIR 2019**), Cologne, Germany. [[PDF]](https://tafseer-nayeem.github.io/files/ECIR_2019_paper.pdf)
 
 ## 2018
 -----------
@@ -23,7 +23,7 @@ author_profile: true
 
 ## 2017
 -----------
-*  **Mir Tafseer Nayeem**, Yllias Chali,  [“Paraphrastic Fusion for Abstractive Multi-Sentence Compression Generation”](https://dl.acm.org/citation.cfm?id=3133106), In Proceedings of the 26th ACM International Conference on Information and Knowledge Management (**CIKM 2017**), Singapore.
+*  **Mir Tafseer Nayeem**, Yllias Chali,  [“Paraphrastic Fusion for Abstractive Multi-Sentence Compression Generation”](https://dl.acm.org/citation.cfm?id=3133106), In Proceedings of the 26th ACM International Conference on Information and Knowledge Management (**CIKM 2017**), Singapore. [[PDF]](https://tafseer-nayeem.github.io/files/CIKM_2017_paper.pdf)
 
 *  Yllias Chali, Moin Mahmud Tanvee, **Mir Tafseer Nayeem**, [“Towards Abstractive Multi-Document Summarization Using Submodular Function-Based Framework, Sentence Compression and Merging”](http://www.aclweb.org/anthology/I17-2071), In Proceedings of the 8th International Joint Conference on Natural Language Processing (**IJCNLP 2017**), Taipei, Taiwan.
 

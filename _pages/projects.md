@@ -7,9 +7,9 @@ author_profile: true
 
 ## Current Projects
 ----------------
-* Pros and Cons Opinion Summarization based on Review Critics
-* Neural Bangla Text Simplification for Children
-* Automatic Summarization of Bangla Text Documents
+* Pros and Cons Opinion Summarization based on Review Critics.
+* Neural Bangla Text Simplification for Children.
+* Automatic Summarization of Bangla Text Documents.
 
 
 ## Graduate Course Projects [2015-2017]
@@ -22,7 +22,7 @@ author_profile: true
 ## Undergraduate Course Projects [2008-2011]
 ----------------
 * Developed  a system  that  recognizes  syntactically  correct  affirmative  and negative sentences (*Python*).
-* Built a user centered model “Virtual Shop Guide” for Online Cloth Store with dynamic fictitious graphic characters.
+* Built a user centered model *“Virtual Shop Guide”* for Online Cloth Store with dynamic fictitious graphic characters.
 * A  multi-player  Game  with  advanced  graphics  like  fog,  lighting,  particle system, reflections and collision detection with improved  speed and appearance (*OpenGl, C++*).
 * A multi-player & multi-level mobile game using NetBeans Game Builder (*J2ME*).
 * JDM: A Multithreaded Java Download Manager with real life features (*JAVA*).
