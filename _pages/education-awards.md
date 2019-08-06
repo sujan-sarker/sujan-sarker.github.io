@@ -44,5 +44,4 @@ ___________________________________
 * Graduate Assistantship (G.A.), UofL (2015 - 2017) [*Amount: 14,400 CAD*]
 * IUT-OIC Full Free Scholarship (International, 2008 - 2011) [*Amount: 12,000 USD*]
 
-
-["Methods"](https://www.facebook.com/)
+___________________________________________

@@ -31,7 +31,6 @@ I am Mir Tafseer Nayeem, currently working as a faculty member at [Ahsanullah Un
 * *[August 03, 2017]* - I attended [ACL 2017](http://acl2017.org/), in Vancouver, and presented a [workshop paper](http://www.aclweb.org/anthology/W17-2407).  
 * *[April 20, 2017]* - Gave a talk on [Introduction to NLTK.](https://tafseer-nayeem.github.io/files/Introduction_to_NLTK.pdf)
 
-
 -----------
 
 

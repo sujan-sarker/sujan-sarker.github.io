@@ -7,7 +7,7 @@ author_profile: true
 
 -----------
 
-<span style="color:blue">**Full publication list can be accessed from the [Google Scholar](https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works&sortby=pubdate).**</span>
+**Full publication list can be accessed from the [Google Scholar](https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works&sortby=pubdate).**
 
 
 ## 2019
