@@ -26,7 +26,7 @@ ___________________________________
 ___________________________________
 
 
-* Islamic University of Technology (IUT), Gazipur, Bangladesh.
+* Islamic University of Technology (IUT), Dhaka, Bangladesh.
 * **CGPA:  3.92** [*out of 4.00* ]
 * **Thesis title:** ["Designing a Probabilistic Path Selection Model for Vehicular Networks"](https://tafseer-nayeem.github.io/files/BSc_Thesis.pdf) 
 * **Thesis Presentation:** [[Presentation]](https://tafseer-nayeem.github.io/files/BSc_Thesis_Presentation.pdf) 
