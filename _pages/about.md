@@ -17,7 +17,7 @@ I am Mir Tafseer Nayeem, currently working as a faculty member at [Ahsanullah Un
 -----------
 
 
-# Recent News
+# Activities 
 
 * <span style="color:Blue"> [May 20, 2019] </span> - One [journal paper](https://www.sciencedirect.com/science/article/pii/S0885230818303449) got accepted to  [Computer Speech & Language](https://www.journals.elsevier.com/computer-speech-and-language).
 * <span style="color:Blue"> [May 11, 2019] </span> - Invited to be part of the **Program Committee** for [ACL 2019](http://www.acl2019.org/EN/index.xhtml).
