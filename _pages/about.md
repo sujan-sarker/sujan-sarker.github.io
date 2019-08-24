@@ -9,7 +9,7 @@ redirect_from:
 ---
 Thanks for stopping by!
 
-I am Mir Tafseer Nayeem, currently working as a faculty member at [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/cse/index.htm) , Dhaka, Bangladesh. I graduated with a M.Sc. degree in Computer Science from [University of Lethbridge (UofL)](https://www.uleth.ca/) , Alberta, Canada under the supervision of [Prof. Yllias Chali](http://www.cs.uleth.ca/~chali/). My research interests lie at the intersection of Natural Language Processing, Deep Learning, and Computational Social Science. 
+My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Science from [University of Lethbridge (UofL)](https://www.uleth.ca/) , Alberta, Canada under the supervision of [Prof. Yllias Chali](http://www.cs.uleth.ca/~chali/). I also worked as a Teaching and Research Assistant at UofL.  My primary research interest lies at the intersection of Natural Language Processing, Deep Learning, and Computational Social Science. Currently, I am working as a faculty member at [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/cse/index.htm) , Dhaka, Bangladesh. 
 
 
 **For additional information, please see my [CV](https://tafseer-nayeem.github.io/cv/) and [publications](https://tafseer-nayeem.github.io/publications/) .**
