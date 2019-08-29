@@ -10,7 +10,7 @@ redirect_from:
 
 # Education
 
-### M.Sc. in Computer Science (2017)
+### M.Sc. in Computer Science (2018)
 ___________________________________
 
 
