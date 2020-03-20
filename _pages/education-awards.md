@@ -30,7 +30,7 @@ ___________________________________
 * **CGPA:  3.92** [*out of 4.00* ]
 * **Thesis title:** ["Designing a Probabilistic Path Selection Model for Vehicular Networks"](https://tafseer-nayeem.github.io/files/BSc_Thesis.pdf) 
 * **Thesis Presentation:** [[Presentation]](https://tafseer-nayeem.github.io/files/BSc_Thesis_Presentation.pdf) 
-* **Supervisor:** [Dr. Muhammad Mahbub Alam](https://scholar.google.com/citations?user=5sjCt8cAAAAJ&hl=en), Professor & Head, CSE Department
+* **Supervisor:** [Dr. Muhammad Mahbub Alam](https://scholar.google.com/citations?user=5sjCt8cAAAAJ&hl=en), Professor, CSE Department
 
 <br /> 
 # Awards
