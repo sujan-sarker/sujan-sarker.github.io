@@ -8,12 +8,12 @@ author_profile: true
 ## Ongoing Projects
 ----------------
 
-## [2020 - Current]
+### [2020 - Current]
 -----------
 * SHUVRO-21: A Comprehensive System for Bengali Text Documents.
 * Modeling Cold Start and User Experience in Recommender Systems.
 
-## [2019 - Current]
+### [2019 - Current]
 -----------
 * Pros and Cons Opinion Summarization based on Review Critics.
 * Neural Bangla Text Simplification for Children.
