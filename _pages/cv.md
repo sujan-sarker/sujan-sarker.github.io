@@ -18,7 +18,7 @@ Ahsanullah University of Science and Technology (AUST). <br />
 Dhaka, Bangladesh. <br /> 
 </address> 
 
-**Email:** mir.nayeem [at] alumni [dot] uleth [dot] ca, <br /> 
+**Email:** mir.nayeem [at] alumni [dot] uleth [dot] [first 2 letters in “canada”], <br /> 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; tafseer.nayeem [at] gmail [dot] com <br />
 **Website:** [https://tafseer-nayeem.github.io](https://tafseer-nayeem.github.io/) <br />
 **Cell:** +880-1912-584949 <br />
