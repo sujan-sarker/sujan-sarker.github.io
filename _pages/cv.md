@@ -27,7 +27,7 @@ Dhaka, Bangladesh. <br />
 You can also find me on [Twitter](https://twitter.com/mtnayeem), and [Github](https://github.com/tafseer-nayeem).
 
 
-<iframe src="https://www.google.com/maps/place/Ahsanullah+University+of+Science+and+Technology/@23.7638664,90.4046279,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c77decb5f845:0xc2eadd2f3b867792!8m2!3d23.7638615!4d90.4068166?hl=en-US" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/place/Ahsanullah+University+of+Science+and+Technology/@23.7638664,90.4046279,17z/data=!3m1!4b1!4m5!3m4!1s0x3755c77decb5f845:0xc2eadd2f3b867792!8m2!3d23.7638615!4d90.4068166" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 
