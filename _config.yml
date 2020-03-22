@@ -83,11 +83,11 @@ author:
   name             : "Mir Tafseer Nayeem"
   avatar           : "profile.jpg"
   bio              : "I want to enable machines to interact intelligently with people via natural language."
-  location         : #"Location"
+  location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  email            :  tafseer.nayeem@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
