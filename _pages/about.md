@@ -22,7 +22,7 @@ My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Scien
 * <span style="color:Blue"> [May 20, 2019] </span> - One [journal paper](https://www.sciencedirect.com/science/article/pii/S0885230818303449) got accepted to  [Computer Speech & Language](https://www.journals.elsevier.com/computer-speech-and-language).
 * <span style="color:Blue"> [May 11, 2019] </span> - Invited to be part of the **Program Committee** for [ACL 2019](http://www.acl2019.org/EN/index.xhtml).
 * <span style="color:Blue"> [December 05, 2018] </span> - One [short paper](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14) got accepted to [ECIR 2019](http://ecir2019.org/).
-* <span style="color:Blue"> [June 14, 2018] </span> - Nominated for the [<span style="color:Red"> **Best Paper Award** </span>](https://tafseer-nayeem.github.io/files/COLING_2018_Area_Chair_Favorite.pdf) at COLING 2018.
+* <span style="color:Blue"> [June 14, 2018] </span> - Nominated for the [<span style="color:Red"> **Best Paper Award** </span>](http://coling2018.org/coling-2018-best-papers/) at COLING 2018.
 * <span style="color:Blue"> [May 17, 2018] </span> - One [long paper](http://aclweb.org/anthology/C18-1102) got accepted to COLING 2018 as [<span style="color:Red"> **Area Chair Favorites** </span>](http://coling2018.org/coling-2018-best-papers/). 
 * <span style="color:Blue"> [November 28, 2017] </span> - A [short paper](http://www.aclweb.org/anthology/I17-2071) was presented at [IJCNLP 2017](http://ijcnlp2017.org/site/page.aspx?pid=901&sid=1133&lang=en).
 * <span style="color:Blue"> [November 06, 2017] </span> - A [short paper ](https://dl.acm.org/citation.cfm?id=3133106) was presented at [CIKM 2017](http://www.cikmconference.org/CIKM2017/index.html).
