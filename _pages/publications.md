@@ -18,7 +18,7 @@ author_profile: true
 
 ## 2018
 -----------
-*  **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, Yllias Chali,  [“Abstractive Unsupervised Multi-Document Summarization using Paraphrastic Sentence Fusion”](http://aclweb.org/anthology/C18-1102), In Proceedings of the 27th International Conference on Computational Linguistics (**COLING 2018**), Santa Fe, New Mexico, USA. [[**Oral Presentation**]](https://tafseer-nayeem.github.io/files/COLING_2018_Presentation.pdf) [<span style="color:Red"> ** [ Best Paper Nomination & Area Chair Favorite ]** </span>](http://coling2018.org/coling-2018-best-papers/) 
+*  **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, Yllias Chali,  [“Abstractive Unsupervised Multi-Document Summarization using Paraphrastic Sentence Fusion”](http://aclweb.org/anthology/C18-1102), In Proceedings of the 27th International Conference on Computational Linguistics (**COLING 2018**), Santa Fe, New Mexico, USA. [[**Oral Presentation**]](https://tafseer-nayeem.github.io/files/COLING_2018_Presentation.pdf) [<span style="color:Red"> ** [Best Paper Nomination & Area Chair Favorite]** </span>](http://coling2018.org/coling-2018-best-papers/) 
 
 
 
