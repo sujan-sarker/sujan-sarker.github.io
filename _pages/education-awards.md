@@ -34,8 +34,8 @@ ___________________________________
 
 <br /> 
 # Awards
-* [<span style="color:Red"> **Best Paper Nomination** </span>](https://tafseer-nayeem.github.io/files/COLING_2018_Area_Chair_Favorite.pdf) at **COLING 2018**.
-* [<span style="color:Red"> **Area Chair Favorites** </span>](https://tafseer-nayeem.github.io/files/COLING_2018_Area_Chair_Favorite.pdf) paper at **COLING 2018**.
+* [<span style="color:Red"> **Best Paper Nomination** </span>](http://coling2018.org/coling-2018-best-papers/) at **COLING 2018**.
+* [<span style="color:Red"> **Area Chair Favorites** </span>](http://coling2018.org/coling-2018-best-papers/) paper at **COLING 2018**.
 * **ACM SIGIR** Student Travel Grant (2017) [*Amount: 800 USD*]
 * School of Graduate Studies (**S.G.S**) Research Dissemination Travel Award (2017) [*Amount: 1500 CAD*]
 * Graduate Student’s Association (**GSA**) Travel Award (2017) [*Amount: 500 CAD*]
