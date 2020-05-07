@@ -18,6 +18,8 @@ redirect_from:
 
 You can also find me on [Twitter](https://twitter.com/mtnayeem), and [Github](https://github.com/tafseer-nayeem).
 
+<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=ipF0iF0Q-RsFHP1VWejYRbFjf-eSQyozfam19f0UfGo"></script>
+
 **Address:**
 <address>
 Department of Computer Science and Engineering (CSE), <br /> 
