@@ -20,7 +20,6 @@ My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Scien
 # Activities 
 
 * <span style="color:Blue"> [May 20, 2019] </span> - One [journal paper](https://www.sciencedirect.com/science/article/pii/S0885230818303449) got accepted to  [Computer Speech & Language](https://www.journals.elsevier.com/computer-speech-and-language).
-#* <span style="color:Blue"> [May 11, 2019] </span> - Invited to be part of the **Program Committee** for [ACL 2019](http://www.acl2019.org/EN/index.xhtml).
 * <span style="color:Blue"> [December 05, 2018] </span> - One [short paper](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14) got accepted to [ECIR 2019](http://ecir2019.org/).
 * <span style="color:Blue"> [June 14, 2018] </span> - Nominated for the [<span style="color:Red"> **Best Paper Award** </span>](http://coling2018.org/coling-2018-best-papers/) at COLING 2018.
 * <span style="color:Blue"> [May 17, 2018] </span> - One [long paper](http://aclweb.org/anthology/C18-1102) got accepted to COLING 2018 as [<span style="color:Red"> **Area Chair Favorites** </span>](http://coling2018.org/coling-2018-best-papers/). 
