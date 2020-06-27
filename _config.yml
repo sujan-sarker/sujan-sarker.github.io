@@ -86,7 +86,7 @@ author:
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works"
   DBLP             : "https://dblp.uni-trier.de/pers/hd/n/Nayeem:Mir_Tafseer"
   email            :  tafseer.nayeem@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
