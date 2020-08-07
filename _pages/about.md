@@ -31,9 +31,9 @@ My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Scien
 <details>
   <summary>Click to expand!</summary>
   
-* <span style="color:Blue"> [Sep 2017]  </span> - Successfully defended my [M.Sc. Thesis](https://opus.uleth.ca/bitstream/handle/10133/4993/NAYEEM_MIR_TAFSEER_MSC_2017.pdf). 
-* <span style="color:Blue"> [Aug 2017] </span> - I attended [ACL 2017](http://acl2017.org/), in Vancouver, and presented a [workshop paper](http://www.aclweb.org/anthology/W17-2407).  
-* <span style="color:Blue"> [Apr 2017] </span> - Gave a talk on [Introduction to NLTK.](https://tafseer-nayeem.github.io/files/Introduction_to_NLTK.pdf)
+	* <span style="color:Blue"> [Sep 2017]  </span> - Successfully defended my [M.Sc. Thesis](https://opus.uleth.ca/bitstream/handle/10133/4993/NAYEEM_MIR_TAFSEER_MSC_2017.pdf). 
+	* <span style="color:Blue"> [Aug 2017] </span> - I attended [ACL 2017](http://acl2017.org/), in Vancouver, and presented a [workshop paper](http://www.aclweb.org/anthology/W17-2407).  
+	* <span style="color:Blue"> [Apr 2017] </span> - Gave a talk on [Introduction to NLTK.](https://tafseer-nayeem.github.io/files/Introduction_to_NLTK.pdf)
 </details>
 
 
