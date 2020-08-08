@@ -34,7 +34,6 @@ My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Scien
 <details>
   <summary>Click to expand!</summary>
   
-  ## Heading
   1. A numbered
   2. list
      * With some
