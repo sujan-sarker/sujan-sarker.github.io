@@ -13,12 +13,12 @@ author_profile: true
 * SHUVRO-21: A Comprehensive System for Bengali Text Documents.
 * Modeling Cold Start and User Experience in Recommender Systems.
 
-### [2019 - *Current* ]
+<!-- ### [2019 - *Current* ]
 -----------
 * Pros and Cons Opinion Summarization based on Review Critics.
 * Neural Bangla Text Simplification for Children.
 * Automatic Summarization of Bangla Text Documents.
-
+-->
 
 ## Graduate Course Projects [2015-2017]
 ----------------
