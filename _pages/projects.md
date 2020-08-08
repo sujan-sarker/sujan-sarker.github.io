@@ -10,7 +10,7 @@ author_profile: true
 
 ### [2020 - *Current* ]
 -----------
-* SHUVRO-21: A Comprehensive System for Bengali Text Documents.
+* SHUVRO-21: A Comprehensive Tool for Bengali Text Documents.
 * Modeling Cold Start and User Experience in Recommender Systems.
 
 <!-- ### [2019 - *Current* ]
