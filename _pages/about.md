@@ -33,7 +33,7 @@ My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Scien
 
 <details><summary markdown="span">Let's see some code!</summary>
 
-* <span style="color:Blue"> [Apr 2017] </span> - Gave a talk on [Introduction to NLTK.](https://tafseer-nayeem.github.io/files/Introduction_to_NLTK.pdf)
+	* <span style="color:Blue"> [Apr 2017] </span> - Gave a talk on [Introduction to NLTK.](https://tafseer-nayeem.github.io/files/Introduction_to_NLTK.pdf)
 
 </details>
 <br/>
