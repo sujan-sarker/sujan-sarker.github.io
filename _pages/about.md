@@ -31,12 +31,16 @@ My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Scien
 * <span style="color:Blue"> [Apr 2017] </span> - Gave a talk on [Introduction to NLTK.](https://tafseer-nayeem.github.io/files/Introduction_to_NLTK.pdf)
 
 
-<details><summary markdown="span">Let's see some code!</summary>
-
-	1. <span style="color:Blue"> [Apr 2017] </span> - Gave a talk on [Introduction to NLTK.](https://tafseer-nayeem.github.io/files/Introduction_to_NLTK.pdf)
-
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
 </details>
-<br/>
+
 
 -----------
 
