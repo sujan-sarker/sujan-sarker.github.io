@@ -16,6 +16,10 @@ author_profile: true
 
 *  **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, Yllias Chali, ["Neural Diverse Abstractive Sentence Compression Generation"](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14), In Proceedings of the 41st European Conference on Information Retrieval (**ECIR 2019**), Cologne, Germany. [[PDF]](https://tafseer-nayeem.github.io/files/ECIR_2019_paper.pdf)
 
+*  Sibendu Sarker, Wayne Franz, **Mir Tafseer Nayeem**, ["Automatic Individual Information Aggregation using Publicly Available Social Media Data"](https://ieeexplore.ieee.org/document/9038402), In Proceedings of the 22nd International Conference on Computer and Information Technology (**ICCIT 2019**), Dhaka, Bangladesh. [[PDF]](https://tafseer-nayeem.github.io/files/ICCIT_2019_paper.pdf)
+
+
+
 ## 2018
 -----------
 *  **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, Yllias Chali,  [“Abstractive Unsupervised Multi-Document Summarization using Paraphrastic Sentence Fusion”](http://aclweb.org/anthology/C18-1102), In Proceedings of the 27th International Conference on Computational Linguistics (**COLING 2018**), Santa Fe, New Mexico, USA. [[**Oral Presentation**]](https://tafseer-nayeem.github.io/files/COLING_2018_Presentation.pdf) [<span style="color:Red"> **Best Paper Nomination & Area Chair Favorite** </span>](http://coling2018.org/coling-2018-best-papers/) 
