@@ -14,17 +14,13 @@ My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Scien
 
 **For additional information, please see my [CV](https://tafseer-nayeem.github.io/cv/) and [publications](https://tafseer-nayeem.github.io/publications/) .**
 
------------
 
 ## Recent Project Demostrations 
 
-* Bengali Document Readability Checker [Demo Video](https://youtu.be/U05Pf9Y4tCQ).
-* Bengali Document Summarization Tool [Demo Video](https://youtu.be/LrnskktiXcg).
+* **Bengali Document Readability Checker** [[Demo Video]](https://youtu.be/U05Pf9Y4tCQ).
+* **Bengali Document Summarization Tool** [[Demo Video]](https://youtu.be/LrnskktiXcg).
 
 
-
-
------------
 
 ## Activities 
 
