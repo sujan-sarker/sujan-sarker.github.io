@@ -16,14 +16,14 @@ My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Scien
 
 -----------
 
-# Recent Project Demostrations 
+## Recent Project Demostrations 
 
 
 
 
 -----------
 
-# Activities 
+## Activities 
 
 * <span style="color:Blue"> [Oct 2020] </span> - One paper **promoted to Phase II review** at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
 * <span style="color:Blue"> [Oct 2020] </span> - One paper **under review** at [EACL 2021](https://2021.eacl.org/).
