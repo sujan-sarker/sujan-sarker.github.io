@@ -107,14 +107,14 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "mtnayeem"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          :  https://www.youtube.com/channel/UCfFEgu4mEqFNoqyJOvjKtQg
   wikipedia        :
 
 
