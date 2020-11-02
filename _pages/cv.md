@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download Full CV](https://tafseer-nayeem.github.io/files/resume_tafseer_August2019.pdf) [<ins>*Last Updated on Aug 21, 2019*</ins>]
+[Download Full CV](https://tafseer-nayeem.github.io/files/resume_tafseer_Nov2020.pdf) [<ins>*Last Updated on Nov 01, 2020*</ins>]
 
 ## Contact Me
 -------------
