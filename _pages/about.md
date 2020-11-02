@@ -12,9 +12,9 @@ Thanks for stopping by!
 
 My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Science from [University of Lethbridge (UofL)](https://www.uleth.ca/), Alberta, Canada. I also worked as a Teaching and Research Assistant at UofL.  My primary research interest lies at the intersection of Natural Language Processing, Computational Social Science, and Information Retrieval. My work was nominated for [<span style="color:Red"> **Best Paper Award**</span>](http://coling2018.org/coling-2018-best-papers/) and selected as <span style="color:Red"> **Area Chair Favorite Paper** </span> at [COLING 2018](http://coling2018.org). Currently, I am working as a faculty member at [Ahsanullah University of Science and Technology (AUST)](http://aust.edu/cse/index.htm), Dhaka, Bangladesh. 
 
-**For additional information, please see my [CV](https://tafseer-nayeem.github.io/cv/) and [publications](https://tafseer-nayeem.github.io/publications/) .**
+**For additional information, please see my [CV](https://tafseer-nayeem.github.io/cv/) and [publications](https://tafseer-nayeem.github.io/publications/).**
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:1px solid gray"> 
 
 ## Recent Project Demostrations 
 
