@@ -13,7 +13,7 @@ author_profile: true
 * SHUVRO-21: A Comprehensive Tool for Bengali Text Documents.
 * Modeling Cold Start and User Experience in Recommender Systems.
 * Domain Independent Sentiment Classification.
-* Information Extraction from Privacy Policy Documents
+* Information Extraction from Privacy Policy Documents.
 
 <!-- ### [2019 - *Current* ]
 -----------
