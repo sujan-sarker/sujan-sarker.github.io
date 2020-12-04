@@ -9,6 +9,11 @@ author_profile: true
 
 **Full publication list can be accessed from the [Google Scholar](https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works).**
 
+## 2021
+-----------
+
+* Susmoy Chakraborty*, Mir Tafseer Nayeem*, Wasi Ahmad, “Simple or Complex? Learning to Predict Readability of Bengali Texts”, In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021)  [*Equal Contribution]
+
 
 ## 2019
 -----------
