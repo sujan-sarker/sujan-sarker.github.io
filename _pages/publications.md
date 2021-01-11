@@ -13,7 +13,7 @@ author_profile: true
 -----------
 * Susmoy Chakraborty\*, **Mir Tafseer Nayeem\***, Wasi Uddin Ahmad, ["Simple or Complex? Learning to Predict Readability of Bengali Texts"](https://arxiv.org/abs/2012.07701), In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI 2021**) [\****Equal Contribution***] [[PDF]](https://arxiv.org/pdf/2012.07701.pdf) [[Code & Dataset]](https://github.com/tafseer-nayeem/BengaliReadability) [[Demo Video]](https://youtu.be/U05Pf9Y4tCQ)
 
-
+* Radia Rayan Chowdhury\*, **Mir Tafseer Nayeem\***, Tahsin Tasnim Mim, Md. Saifur Rahman Chowdhury and Taufiqul Jannat, "Unsupervised Abstractive Summarization of Bengali Text Documents", In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (**EACL 2021**) [\****Equal Contribution***] [[Code & Dataset]](https://github.com/tafseer-nayeem) [[Demo Video]](https://youtu.be/LrnskktiXcg)
 
 ## 2019
 -----------
