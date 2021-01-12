@@ -15,7 +15,7 @@ My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Scien
 **For additional information, please see my [CV](https://tafseer-nayeem.github.io/cv/) and [publications](https://tafseer-nayeem.github.io/publications/).**
 
 
-<img src="https://tafseer-nayeem.github.io/images/pubs.png" alt="Publications"
+<img style="float: right;" src="https://tafseer-nayeem.github.io/images/pubs.png" alt="Publications"
 	title="Publications Venues" width="600" height="200" />
 
 ## Activities 
