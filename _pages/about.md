@@ -45,6 +45,6 @@ My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Scien
 
 | Left-aligned | Center-aligned | Right-aligned |
 |    :---:     |     :---:      |     :---:     |
-| git status   | git status     | git status    |
+| (https://tafseer-nayeem.github.io/images/logos/ecir2019.png "Logo Title Text 1") | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
