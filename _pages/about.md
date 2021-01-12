@@ -17,13 +17,6 @@ My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Scien
 [](<hr style="border:0.05px solid gray">)
 
 
-## Recent Project Demonstrations 
-
-* Bengali Document Readability Checker [[Demo Video]](https://youtu.be/U05Pf9Y4tCQ).
-* Bengali Document Summarization Tool [[Demo Video]](https://youtu.be/LrnskktiXcg).
-* Unbiased Summarization of User Reviews [[Coming Soon]](https://www.youtube.com/channel/UCfFEgu4mEqFNoqyJOvjKtQg).
-
-
 ![alt text](https://tafseer-nayeem.github.io/images/pubs.png "Logo Title Text 1")
 
 ## Activities 
@@ -43,10 +36,13 @@ My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Scien
 
 -----------
 
+## Recent Project Demonstrations 
 
-<!--- | Left-aligned | Center-aligned | Right-aligned |
-|    :---:     |     :---:      |     :---:     |
-|  | git status     | git status    |
-| git diff     | git diff       | git diff      | -->
+* Bengali Document Readability Checker [[Demo Video]](https://youtu.be/U05Pf9Y4tCQ).
+* Bengali Document Summarization Tool [[Demo Video]](https://youtu.be/LrnskktiXcg).
+* Unbiased Summarization of User Reviews [[Coming Soon]](https://www.youtube.com/channel/UCfFEgu4mEqFNoqyJOvjKtQg).
+
+-----------
+
 
 
