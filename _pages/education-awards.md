@@ -50,6 +50,6 @@ ___________________________________________
 * **IUT-OIC** Full Free Scholarship (International, 2008 - 2011) [*Amount: 12,000 USD*]
 
 <a href="https://tafseer-nayeem.github.io/education-awards/"> <img src="https://tafseer-nayeem.github.io/images/awards.png" alt="Awards"
-	title="Awards" width="550" height="40"> </a>
+	title="Awards" width="500" height="30"> </a>
 
 ___________________________________________
