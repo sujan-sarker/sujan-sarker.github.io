@@ -34,7 +34,7 @@ ___________________________________
 
 
 <a href="https://tafseer-nayeem.github.io/education-awards/"> <img src="https://tafseer-nayeem.github.io/images/educations.png" alt="Education"
-	title="Education" width="600" height="80"> </a>
+	title="Education" width="600" height="60"> </a>
 	
 ___________________________________________
 
