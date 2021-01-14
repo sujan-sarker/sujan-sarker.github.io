@@ -49,4 +49,7 @@ ___________________________________________
 * Graduate Assistantship (**G.A.**), UofL (2015 - 2017) [*Amount: 14,400 CAD*]
 * **IUT-OIC** Full Free Scholarship (International, 2008 - 2011) [*Amount: 12,000 USD*]
 
+<a href="https://tafseer-nayeem.github.io/education-awards/"> <img src="https://tafseer-nayeem.github.io/images/awards.png" alt="Awards"
+	title="Awards" width="550" height="50"> </a>
+
 ___________________________________________
