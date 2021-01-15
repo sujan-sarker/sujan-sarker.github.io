@@ -29,7 +29,7 @@ author_profile: true
 * Design of 8-bit ALU & CPU on Xilinx using Verilog HDL. [[Code]](https://github.com/tafseer-nayeem/CPSC5210-VLSI_Design) [[Presentation]](https://tafseer-nayeem.github.io/files/VLSI_Design_Course_Presentation.pdf)
 
 
-## Undergraduate Course Projects [2008-2011]
+## Undergraduate Course Projects [2008-2012]
 ----------------
 * Developed  a system  that  recognizes  syntactically  correct  affirmative  and negative sentences (*Python*).
 * Built a user centered model *“Virtual Shop Guide”* for Online Cloth Store with dynamic fictitious graphic characters.
