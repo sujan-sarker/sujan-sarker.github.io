@@ -11,9 +11,10 @@ author_profile: true
 
 ## 2021
 -----------
-* Susmoy Chakraborty\*, **Mir Tafseer Nayeem\***, Wasi Uddin Ahmad, ["Simple or Complex? Learning to Predict Readability of Bengali Texts"](https://arxiv.org/abs/2012.07701), In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI 2021**) [\****Equal Contribution***] [[PDF]](https://arxiv.org/pdf/2012.07701.pdf) [[Code & Dataset]](https://github.com/tafseer-nayeem/BengaliReadability) [[Demo Video]](https://youtu.be/U05Pf9Y4tCQ)
+* Susmoy Chakraborty\*, **Mir Tafseer Nayeem\***, Wasi Uddin Ahmad, ["Simple or Complex? Learning to Predict Readability of Bengali Texts"](https://arxiv.org/abs/2012.07701), In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI 2021**) [\****Equal Contribution***] [[PDF]](https://arxiv.org/pdf/2012.07701.pdf) [[Code & Dataset]](https://github.com/tafseer-nayeem/BengaliReadability) [[Presentation]](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_full.pdf) [[Poster]](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_poster.pdf) [[Demo Video]](https://youtu.be/U05Pf9Y4tCQ)
 
 * Radia Rayan Chowdhury\*, **Mir Tafseer Nayeem\***, Tahsin Tasnim Mim, Md. Saifur Rahman Chowdhury, and Taufiqul Jannat, *"Unsupervised Abstractive Summarization of Bengali Text Documents"*, In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (**EACL 2021**) [\****Equal Contribution***] [[Code & Dataset]](https://github.com/tafseer-nayeem/BengaliSummarization) [[Demo Video]](https://youtu.be/LrnskktiXcg)
+
 
 ## 2019
 -----------
@@ -24,11 +25,9 @@ author_profile: true
 *  Sibendu Sarker, Wayne Franz, **Mir Tafseer Nayeem**, ["Automatic Individual Information Aggregation using Publicly Available Social Media Data"](https://ieeexplore.ieee.org/document/9038402), In Proceedings of the 22nd International Conference on Computer and Information Technology (**ICCIT 2019**), Dhaka, Bangladesh. [[PDF]](https://tafseer-nayeem.github.io/files/ICCIT_2019_paper.pdf)
 
 
-
 ## 2018
 -----------
 *  **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, Yllias Chali,  [“Abstractive Unsupervised Multi-Document Summarization using Paraphrastic Sentence Fusion”](http://aclweb.org/anthology/C18-1102), In Proceedings of the 27th International Conference on Computational Linguistics (**COLING 2018**), Santa Fe, New Mexico, USA. [[**Oral Presentation**]](https://tafseer-nayeem.github.io/files/COLING_2018_Presentation.pdf) [<span style="color:Red"> **Best Paper Nomination & Area Chair Favorite** </span>](http://coling2018.org/coling-2018-best-papers/) 
-
 
 
 ## 2017
@@ -45,6 +44,7 @@ author_profile: true
 *  **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir, [“Design of a Human Interaction Proof (HIP) using Human Cognition in Contextual Natural Conversation”](https://ieeexplore.ieee.org/document/6921454/), In Proceedings of the IEEE 13th International Conference on Cognitive Informatics and Cognitive Computing (**IEEE ICCI*CC’14**), London, UK.
 
 *  **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir, [“Human Cognition in Automated Turing Test Design”](https://dl.acm.org/citation.cfm?id=2807119), International Journal of Software Science and Computational Intelligence (**IJSSCI**) 6.4 (2014): 1-19.
+
 
 ## 2012
 -----------
