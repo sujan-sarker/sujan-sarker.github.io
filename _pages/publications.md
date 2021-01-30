@@ -48,4 +48,4 @@ author_profile: true
 
 ## 2012
 -----------
-*  **Mir Tafseer Nayeem**, Md. Saddam Hossain Mukta , Samsuddin Ahmed, and Md. Mahbubur Rahman, [“Use of Human Cognition in HIP Design Via EmotIcons to Defend BOT Attacks”](https://ieeexplore.ieee.org/document/6417291/), In Proceedings of the IEEE 15th International Conference on Computational Science and Engineering (**IEEE CSE 2012**), Nicosia, Cyprus. [<span style ="color:Green"> **Oral Presentation** </span>]
+*  **Mir Tafseer Nayeem**, Md. Saddam Hossain Mukta , Samsuddin Ahmed, and Md. Mahbubur Rahman, [“Use of Human Cognition in HIP Design Via EmotIcons to Defend BOT Attacks”](https://ieeexplore.ieee.org/document/6417291/), In Proceedings of the IEEE 15th International Conference on Computational Science and Engineering (**IEEE CSE 2012**), Nicosia, Cyprus. <span style ="color:Green"> **[Oral Presentation]** </span>
