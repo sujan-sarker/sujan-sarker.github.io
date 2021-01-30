@@ -12,7 +12,8 @@ author_profile: true
 ## 2021
 -----------
 
-* ["Simple or Complex? Learning to Predict Readability of Bengali Texts"](https://arxiv.org/abs/2012.07701)
+ ["Simple or Complex? Learning to Predict Readability of Bengali Texts"](https://arxiv.org/abs/2012.07701)
+ * Susmoy Chakraborty\*, **Mir Tafseer Nayeem\***, Wasi Uddin Ahmad
 In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI 2021**) [\****Equal Contribution***]
 [<span style ="color:Green"> [**Code & Dataset**] </span>](https://github.com/tafseer-nayeem/BengaliReadability) [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_full.pdf) [<span style ="color:Green"> [**Poster**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_poster.pdf) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/U05Pf9Y4tCQ)
 
