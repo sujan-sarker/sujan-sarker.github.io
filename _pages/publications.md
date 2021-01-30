@@ -11,7 +11,7 @@ author_profile: true
 
 ## 2021
 -----------
-* Susmoy Chakraborty\*, **Mir Tafseer Nayeem\***, Wasi Uddin Ahmad, ["Simple or Complex? Learning to Predict Readability of Bengali Texts"](https://arxiv.org/abs/2012.07701), In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI 2021**) [\****Equal Contribution***] [<span style ="color:Green"> [**Code & Dataset**] </span>](https://github.com/tafseer-nayeem/BengaliReadability) [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_full.pdf) [<span style ="color:Green"> [**Poster**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_poster.pdf) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/U05Pf9Y4tCQ)
+* Susmoy Chakraborty\*, **Mir Tafseer Nayeem\***, Wasi Uddin Ahmad, ["Simple or Complex? Learning to Predict Readability of Bengali Texts"](https://arxiv.org/abs/2012.07701), In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI 2021**) [\****Equal Contribution***] <span style ="color:Green"> [**Code & Dataset**] </span>(https://github.com/tafseer-nayeem/BengaliReadability) [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_full.pdf) [<span style ="color:Green"> [**Poster**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_poster.pdf) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/U05Pf9Y4tCQ)
 
 * Radia Rayan Chowdhury\*, **Mir Tafseer Nayeem\***, Tahsin Tasnim Mim, Md. Saifur Rahman Chowdhury, and Taufiqul Jannat, *"Unsupervised Abstractive Summarization of Bengali Text Documents"*, In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (**EACL 2021**) [\****Equal Contribution***] [<span style ="color:Green"> [**Code & Dataset**] </span>](https://github.com/tafseer-nayeem/BengaliSummarization) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/LrnskktiXcg)
 
@@ -48,4 +48,4 @@ author_profile: true
 
 ## 2012
 -----------
-*  **Mir Tafseer Nayeem**, Md. Saddam Hossain Mukta , Samsuddin Ahmed, and Md. Mahbubur Rahman, [“Use of Human Cognition in HIP Design Via EmotIcons to Defend BOT Attacks”](https://ieeexplore.ieee.org/document/6417291/), In Proceedings of the IEEE 15th International Conference on Computational Science and Engineering (**IEEE CSE 2012**), Nicosia, Cyprus. [<span style ="color:Green"> [**Oral Presentation**] </span>]
+*  **Mir Tafseer Nayeem**, Md. Saddam Hossain Mukta , Samsuddin Ahmed, and Md. Mahbubur Rahman, [“Use of Human Cognition in HIP Design Via EmotIcons to Defend BOT Attacks”](https://ieeexplore.ieee.org/document/6417291/), In Proceedings of the IEEE 15th International Conference on Computational Science and Engineering (**IEEE CSE 2012**), Nicosia, Cyprus. [<span style ="color:Green"> **Oral Presentation** </span>]
