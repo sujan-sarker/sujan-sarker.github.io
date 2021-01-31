@@ -41,7 +41,7 @@ author_profile: true
 
 ## 2014
 -----------
-*  **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir, [“Design of a Human Interaction Proof (HIP) using Human Cognition in Contextual Natural Conversation”](https://ieeexplore.ieee.org/document/6921454/), In Proceedings of the IEEE 13th International Conference on Cognitive Informatics and Cognitive Computing (**IEEE ICCI*CC’14**), London, UK. [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/IEEE_ICCICC14_paper.pdf)
+*  **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir, [“Design of a Human Interaction Proof (HIP) using Human Cognition in Contextual Natural Conversation”](https://ieeexplore.ieee.org/document/6921454/), In Proceedings of the IEEE 13th International Conference on Cognitive Informatics and Cognitive Computing (**IEEE ICCI*CC’14**), London, UK.
 
 *  **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir, [“Human Cognition in Automated Turing Test Design”](https://dl.acm.org/citation.cfm?id=2807119), International Journal of Software Science and Computational Intelligence (**IJSSCI**) 6.4 (2014): 1-19.
 
