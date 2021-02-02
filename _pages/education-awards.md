@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
 # Education
 
 ## M.Sc. in Computer Science
@@ -30,7 +29,7 @@ ___________________________________
 * **CGPA:  3.92** <span style ="color:Green"> [*out of 4.00* ] </span>
 * **Thesis title:** ["Designing a Probabilistic Path Selection Model for Vehicular Networks"](https://tafseer-nayeem.github.io/files/BSc_Thesis.pdf) 
 * **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/BSc_Thesis_Presentation.pdf) 
-* **Supervisor:** [Dr. Muhammad Mahbub Alam](https://scholar.google.com/citations?user=5sjCt8cAAAAJ&hl=en), Professor, CSE Department
+* **Supervisor:** [Dr. Muhammad Mahbub Alam](https://scholar.google.com/citations?user=5sjCt8cAAAAJ&hl=en), Professor, CSE Department.
 
 
 <a href="https://tafseer-nayeem.github.io/education-awards/"> <img src="https://tafseer-nayeem.github.io/images/educations.png" alt="Education"
