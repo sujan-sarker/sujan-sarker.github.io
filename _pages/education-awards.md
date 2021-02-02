@@ -14,7 +14,7 @@ redirect_from:
 ___________________________________
 
 
-* [University of Lethbridge (UofL), Alberta, Canada.](https://www.uleth.ca/)
+* [University of Lethbridge (UofL)](https://www.uleth.ca/), Alberta, Canada.
 * **CGPA:  4.00** <span style ="color:Green"> [*out of 4.00* ] </span>
 * **Thesis Title:** ["Methods of Sentence Extraction, Abstraction, and Ordering for Automatic Text Summarization"](https://opus.uleth.ca/bitstream/handle/10133/4993/NAYEEM_MIR_TAFSEER_MSC_2017.pdf) 
 * **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/MSc_Thesis_Presenation.pdf) 
