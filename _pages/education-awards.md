@@ -10,7 +10,7 @@ redirect_from:
 
 # Education
 
-### M.Sc. in Computer Science
+## M.Sc. in Computer Science
 ___________________________________
 
 
@@ -22,7 +22,7 @@ ___________________________________
 * **Committee Members:** [Dr. Wendy Osborn](http://directory.uleth.ca/users/wendy.osborn), [Dr. John Anvik ](http://directory.uleth.ca/users/john.anvik)
 
 
-### B.Sc. in Computer Science and Information Technology
+## B.Sc. in Computer Science and Information Technology
 ___________________________________
 
 
