@@ -18,7 +18,7 @@ author_profile: true
 
 ## Invited Talks
 ----------------
-- <span style="color:Blue"> [Apr 2017] </span> - Talk on [Introduction to NLTK.](https://tafseer-nayeem.github.io/files/Introduction_to_NLTK.pdf), University of Lethbrdige, Alberta, Canada. 
+- <span style="color:Blue"> [Apr 2017] </span> - Talk on [Introduction to NLTK](https://tafseer-nayeem.github.io/files/Introduction_to_NLTK.pdf), University of Lethbrdige, Alberta, Canada. 
 
 ## Leadership Activities
 ------------------------
