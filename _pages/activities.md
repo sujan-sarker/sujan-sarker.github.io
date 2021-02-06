@@ -9,9 +9,9 @@ author_profile: true
 -------------------------
 
 1. **Program Committee/Reviewer**
-	- 2021: AAAI (*invited*) 
+	- 2021: AAAI*
 	- 2020: ICCIT 
-	- 2019: ACL (*invited*), ICIET
+	- 2019: ACL*, ICIET
 	- 2015: SysCon
 2. **Journal Reviewer**
 	- IJSSCI, Computer Speech & Language
@@ -32,3 +32,5 @@ author_profile: true
 - Organizing committee member in the IUT ICT Fest 2011, held at IUT. 
 
 __________________________________________________
+
+\* [*invited*]
