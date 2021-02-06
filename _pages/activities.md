@@ -22,9 +22,9 @@ author_profile: true
 
 ## Leadership Activities
 ------------------------
-- Organizing committee, Commonwealth of Learning (COL) TEL AUST Project [report]
+- Organizing Committee Member & Researcher, **Commonwealth of Learning (COL) TEL AUST** Project [report](http://oasis.col.org/handle/11599/3220)
 - Member, Logistics & IT Support Committee, ICCIT 2020
-- Organizer and Host, Intel Nervana AI Academy - Workshop [2017]
+- **Organizer and Host**, Intel Nervana AI Academy - Workshop [2017]
 - Member, Bangladeshi Students' Organization at the University of Lethbridge (BSOUL).
 - Convener, Project Showcasing, AUST CSE WEEK 2018.
 - Organizing committee member in the AUST CSE Fest 2013 and 2014, held at AUST.
