@@ -3,8 +3,6 @@ layout: archive
 title: "Education & Awards"
 permalink: /education-awards/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 # Education
