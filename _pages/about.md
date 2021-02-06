@@ -18,7 +18,7 @@ My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Scien
 <a href="https://tafseer-nayeem.github.io/publications/"> <img src="https://tafseer-nayeem.github.io/images/pubs.png" alt="Publication Venues"
 	title="Publication Venues" width="600" height="200"> </a>
 
-## Activities 
+## Recent Activities 
 
 * <span style="color:Blue"> [Jan 2021] </span> - One paper got accepted at [EACL 2021](https://2021.eacl.org/).
 * <span style="color:Blue"> [Dec 2020] </span> - One paper got accepted at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
