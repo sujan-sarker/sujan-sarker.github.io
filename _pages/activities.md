@@ -14,7 +14,7 @@ author_profile: true
 	- 2019: ACL*, ICIET
 	- 2015: IEEE SysCon
 2. **Journal Reviewer**
-	- [IJSSCI] (https://www.igi-global.com/journal/international-journal-software-science-computational/1124), [Computer Speech & Language](https://www.journals.elsevier.com/computer-speech-and-language)
+	- [IJSSCI](https://www.igi-global.com/journal/international-journal-software-science-computational/1124), [Computer Speech & Language](https://www.journals.elsevier.com/computer-speech-and-language)
 
 ## Invited Talks
 ----------------
