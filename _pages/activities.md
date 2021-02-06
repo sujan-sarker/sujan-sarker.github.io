@@ -22,7 +22,7 @@ author_profile: true
 
 ## Leadership Activities
 ------------------------
-- Organizing Committee Member & Researcher, **Commonwealth of Learning (COL) TEL AUST** Project [<span style ="color:Green"> [**Report**] </span>](http://oasis.col.org/handle/11599/3220)
+- Organizing Committee Member & Researcher, **Commonwealth of Learning ([COL](https://www.col.org/)) TEL AUST** Project [<span style ="color:Green"> [**Report**] </span>](http://oasis.col.org/handle/11599/3220)
 - Member, Logistics & IT Support Committee, [ICCIT 2020](http://iccit.org.bd/2020/)
 - **Organizer and Host:** [Intel Nervana AI Academy - Workshop](https://www.intel.ai/).
 - Member, *Bangladeshi Students' Organization at the University of Lethbridge* ([**BSOUL**](https://www.facebook.com/BSOULpage/)), Alberta, Canada. 
