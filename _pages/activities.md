@@ -10,6 +10,7 @@ author_profile: true
 
 1. Program Committee/Reviewer
 	- 2021: AAAI (*invited*), 
-
+2. Journal Reviewer
+	- IJSSCI, Computer Speech & Language
 
 __________________________________________________
