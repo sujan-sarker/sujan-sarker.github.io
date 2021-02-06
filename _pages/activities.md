@@ -9,10 +9,10 @@ author_profile: true
 -------------------------
 
 1. **Program Committee/Reviewer**
-	- 2021: AAAI*
-	- 2020: ICCIT 
-	- 2019: ACL*, ICIET
-	- 2015: IEEE SysCon
+	- **2021:** [AAAI](https://aaai.org/Conferences/AAAI-21/)*
+	- **2020:** [ICCIT](http://iccit.org.bd/2020/) 
+	- **2019:** [ACL](https://acl2019.org/EN/index.xhtml.html)*, [ICIET](http://www.enggtech.du.ac.bd/iciet-2019/)
+	- **2015:** [IEEE SysCon](https://2021.ieeesyscon.org/)
 2. **Journal Reviewer**
 	- [IJSSCI](https://www.igi-global.com/journal/international-journal-software-science-computational/1124), [Computer Speech & Language](https://www.journals.elsevier.com/computer-speech-and-language)
 
