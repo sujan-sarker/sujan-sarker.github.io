@@ -7,9 +7,7 @@ author_profile: true
 
 -----------
 
-[[Google Scholar](https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works&sortby=pubdate) \| [DBLP](https://dblp.org/pid/125/2693.html)]<span style ="color:BlueViolet"> [\****Equal Contribution***]
-
-**Full publication list can be accessed from the [Google Scholar](https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works).**
+[[**Google Scholar**](https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works&sortby=pubdate) \| [**DBLP**](https://dblp.org/pid/125/2693.html)]<span style ="color:BlueViolet"> [\****Equal Contribution***]
 
 ## 2021
 -----------
