@@ -38,6 +38,7 @@ ___________________________________________
 # Awards
 🏆 [<span style="color:Red"> **Best Paper Nomination** </span>](http://coling2018.org/coling-2018-best-papers/) at **COLING 2018**.
 <br/>
+<br/>
 🏆  [<span style="color:Red"> **Area Chair Favorites** </span>](http://coling2018.org/coling-2018-best-papers/) paper at **COLING 2018**.
 <br/>
 🏆  **ACM SIGIR** Student Travel Grant (2017) [*Amount: 800 USD*]
