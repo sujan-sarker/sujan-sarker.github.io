@@ -36,11 +36,11 @@ ___________________________________
 ___________________________________________
 
 # Awards
-* [<span style="color:Red"> **Best Paper Nomination** </span>](http://coling2018.org/coling-2018-best-papers/) at **COLING 2018**.
-* [<span style="color:Red"> **Area Chair Favorites** </span>](http://coling2018.org/coling-2018-best-papers/) paper at **COLING 2018**.
-* **ACM SIGIR** Student Travel Grant (2017) [*Amount: 800 USD*]
-* School of Graduate Studies (**S.G.S**) Research Dissemination Travel Award (2017) [*Amount: 1,500 CAD*]
-* Graduate Student’s Association (**GSA**) Travel Award (2017) [*Amount: 500 CAD*]
+🏆 [<span style="color:Red"> **Best Paper Nomination** </span>](http://coling2018.org/coling-2018-best-papers/) at **COLING 2018**.
+🏆  [<span style="color:Red"> **Area Chair Favorites** </span>](http://coling2018.org/coling-2018-best-papers/) paper at **COLING 2018**.
+🏆  **ACM SIGIR** Student Travel Grant (2017) [*Amount: 800 USD*]
+* 🏆 School of Graduate Studies (**S.G.S**) Research Dissemination Travel Award (2017) [*Amount: 1,500 CAD*]
+* 🏆 Graduate Student’s Association (**GSA**) Travel Award (2017) [*Amount: 500 CAD*]
 * School of Graduate Studies (**S.G.S**) Dean’s Scholarship, UofL (2015 - 2017) [*Amount: 20,000 CAD*]
 * School of Graduate Studies (**S.G.S**) International Tuition Award, UofL (2015 - 2017) [*Amount: 17,000 CAD*]
 * Graduate Assistantship (**G.A.**), UofL (2015 - 2017) [*Amount: 14,400 CAD*]
