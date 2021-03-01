@@ -16,7 +16,10 @@ Susmoy Chakraborty\*, **Mir Tafseer Nayeem\***, Wasi Uddin Ahmad <span style ="c
 📰 Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI 2021**) <br/> 
 [<span style ="color:Green"> [**Code & Dataset**] </span>](https://github.com/tafseer-nayeem/BengaliReadability) [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_full.pdf) [<span style ="color:Green"> [**Poster**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_poster.pdf) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/U05Pf9Y4tCQ)
 
-* Radia Rayan Chowdhury\*, **Mir Tafseer Nayeem\***, Tahsin Tasnim Mim, Md. Saifur Rahman Chowdhury, and Taufiqul Jannat, [*"Unsupervised Abstractive Summarization of Bengali Text Documents"*](https://arxiv.org/abs/2102.04490), In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (**EACL 2021**) <span style ="color:BlueViolet"> [\****Equal Contribution***]</span> [<span style ="color:Green"> [**Code & Dataset**] </span>](https://github.com/tafseer-nayeem/BengaliSummarization) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/LrnskktiXcg)
+* [**Unsupervised Abstractive Summarization of Bengali Text Documents**](https://arxiv.org/abs/2102.04490)<br/>
+Radia Rayan Chowdhury\*, **Mir Tafseer Nayeem\***, Tahsin Tasnim Mim, Md. Saifur Rahman Chowdhury, and Taufiqul Jannat <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
+📰 16th Conference of the European Chapter of the Association for Computational Linguistics (**EACL 2021**) <br/>
+[<span style ="color:Green"> [**Code & Dataset**] </span>](https://github.com/tafseer-nayeem/BengaliSummarization) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/LrnskktiXcg)
 
 
 ## 2019
