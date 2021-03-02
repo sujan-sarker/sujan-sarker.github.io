@@ -34,13 +34,13 @@ author_profile: true
 
 ## Undergraduate Course Projects [2008-2012]
 ----------------
-<span style="color:white"> * </span> Developed  a system  that  recognizes  syntactically  correct  affirmative  and negative sentences (*Python*).
-* Built a user centered model *“Virtual Shop Guide”* for Online Cloth Store with dynamic fictitious graphic characters.
-* A  multi-player  Game  with  advanced  graphics  like  fog,  lighting,  particle system, reflections and collision detection with improved  speed and appearance (*OpenGl, C++*).
-* A multi-player & multi-level mobile game using NetBeans Game Builder (*J2ME*).
-* JDM: A Multithreaded Java Download Manager with real life features (*JAVA*).
-* Online Cloth Store with advanced features (*ASP.net, JavaScript and AJAX*).
-* Swap or Exchange Website integrated with paypal.com (*PHP, MySQL*).
+* ✔️ Developed  a system  that  recognizes  syntactically  correct  affirmative  and negative sentences (*Python*).
+* ✔️ Built a user centered model *“Virtual Shop Guide”* for Online Cloth Store with dynamic fictitious graphic characters.
+* ✔️ A  multi-player  Game  with  advanced  graphics  like  fog,  lighting,  particle system, reflections and collision detection with improved  speed and appearance (*OpenGl, C++*).
+* ✔️ A multi-player & multi-level mobile game using NetBeans Game Builder (*J2ME*).
+* ✔️ JDM: A Multithreaded Java Download Manager with real life features (*JAVA*).
+* ✔️ Online Cloth Store with advanced features (*ASP.net, JavaScript and AJAX*).
+* ✔️ Swap or Exchange Website integrated with paypal.com (*PHP, MySQL*).
 * Personal Scheduler and Appointment Manager (*PHP framework Code Igniter, MySQL*).
 * Case Study: Implementing and documenting a Web Based Music CD Store using UML.
 * Analysis and Design of Routine Management System (*Visual Basic, MS Access*).
