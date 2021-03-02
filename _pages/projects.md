@@ -41,11 +41,11 @@ author_profile: true
 * ✔️ JDM: A Multithreaded Java Download Manager with real life features (*JAVA*).
 * ✔️ Online Cloth Store with advanced features (*ASP.net, JavaScript and AJAX*).
 * ✔️ Swap or Exchange Website integrated with paypal.com (*PHP, MySQL*).
-* Personal Scheduler and Appointment Manager (*PHP framework Code Igniter, MySQL*).
-* Case Study: Implementing and documenting a Web Based Music CD Store using UML.
-* Analysis and Design of Routine Management System (*Visual Basic, MS Access*).
-* Cafeteria Management System Software (*Visual Basic, MS Access*).
-* Displaying Bangla Characters using Segment Displays (*Software Used: DSCH*).
-* Hall Management System Software (*Language: Turbo C with excellent GUI*).
+* ✔️ Personal Scheduler and Appointment Manager (*PHP framework Code Igniter, MySQL*).
+* ✔️ Case Study: Implementing and documenting a Web Based Music CD Store using UML.
+* ✔️ Analysis and Design of Routine Management System (*Visual Basic, MS Access*).
+* ✔️ Cafeteria Management System Software (*Visual Basic, MS Access*).
+* ✔️ Displaying Bangla Characters using Segment Displays (*Software Used: DSCH*).
+* ✔️ Hall Management System Software (*Language: Turbo C with excellent GUI*).
 
 __________________________________________________
