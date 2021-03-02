@@ -41,7 +41,7 @@ author_profile: true
 ## 2018
 -----------
 * [**Abstractive Unsupervised Multi-Document Summarization using Paraphrastic Sentence Fusion**](http://aclweb.org/anthology/C18-1102) <br/>
-🤓**Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, and Yllias Chali <br/>
+🤓 **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, and Yllias Chali <br/>
 📰 27th International Conference on Computational Linguistics (**COLING 2018**), Santa Fe, New Mexico, USA. <br/>
 👉 [<span style ="color:Green"> [**Oral Presentation**] </span>](https://tafseer-nayeem.github.io/files/COLING_2018_Presentation.pdf) <br/>
 🏆 [<span style="color:Red"> [**Best Paper Nomination & Area Chair Favorite**] </span>](http://coling2018.org/coling-2018-best-papers/)  
@@ -49,7 +49,10 @@ author_profile: true
 
 ## 2017
 -----------
-*  **Mir Tafseer Nayeem**, Yllias Chali,  [*“Paraphrastic Fusion for Abstractive Multi-Sentence Compression Generation”*](https://dl.acm.org/citation.cfm?id=3133106), In Proceedings of the 26th ACM International Conference on Information and Knowledge Management (**CIKM 2017**), Singapore. [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CIKM_2017_paper.pdf)
+* [**Paraphrastic Fusion for Abstractive Multi-Sentence Compression Generation**](https://dl.acm.org/citation.cfm?id=3133106) <br/>
+🤓 **Mir Tafseer Nayeem** and Yllias Chali
+📰 26th ACM International Conference on Information and Knowledge Management (**CIKM 2017**), Singapore. 
+👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CIKM_2017_paper.pdf)
 
 *  Yllias Chali, Moin Mahmud Tanvee, **Mir Tafseer Nayeem**, [*“Towards Abstractive Multi-Document Summarization Using Submodular Function-Based Framework, Sentence Compression and Merging”*](http://www.aclweb.org/anthology/I17-2071), In Proceedings of the 8th International Joint Conference on Natural Language Processing (**IJCNLP 2017**), Taipei, Taiwan.
 
