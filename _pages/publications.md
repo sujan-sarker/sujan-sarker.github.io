@@ -10,7 +10,7 @@ author_profile: true
 ## 2021
 -----------
 * [**Simple or Complex? Learning to Predict Readability of Bengali Texts**](https://arxiv.org/abs/2012.07701)<br/>
-🤓 Susmoy Chakraborty\*, **Mir Tafseer Nayeem\***, Wasi Uddin Ahmad <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
+🤓 Susmoy Chakraborty\*, **Mir Tafseer Nayeem\***, and Wasi Uddin Ahmad <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
 📰 Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI 2021**) <br/> 
 👉 [<span style ="color:Green"> [**Code & Dataset**] </span>](https://github.com/tafseer-nayeem/BengaliReadability) [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_full.pdf) [<span style ="color:Green"> [**Poster**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_poster.pdf) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/U05Pf9Y4tCQ)
 
@@ -23,24 +23,27 @@ author_profile: true
 ## 2019
 -----------
 * [**Neural Diverse Abstractive Sentence Compression Generation**](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14)<br/>
-🤓 **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, Yllias Chali <br/>
+🤓 **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, and Yllias Chali <br/>
 📰 41st European Conference on Information Retrieval (**ECIR 2019**), Cologne, Germany. <br/>
 👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/ECIR_2019_paper.pdf)
 
 * [**"Neural Sentence Fusion for Diversity Driven Abstractive Multi-Document Summarization"**](https://www.sciencedirect.com/science/article/pii/S0885230818303449) <br/>
 🤓 Tanvir Ahmed Fuad\*, **Mir Tafseer Nayeem\***, Asif Mahmud, and Yllias Chali <span style ="color:BlueViolet"> [\****Equal Contribution***]</span> <br/>
 📰 **Computer Speech & Language**, Elsevier 58 (2019): 216-230. <br/>  
-👉 [<span style ="color:Green"> [**Code**] </span>](https://github.com/tafseer-nayeem/NeuFuse-CSL2019) [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CSL_Journal_2019.pdf) <br/>
+👉 [<span style ="color:Green"> [**Code**] </span>](https://github.com/tafseer-nayeem/NeuFuse-CSL2019) [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CSL_Journal_2019.pdf) 
 
-* [**"Automatic Individual Information Aggregation using Publicly Available Social Media Data"**](https://ieeexplore.ieee.org/document/9038402) 
-🤓 Sibendu Sarker, Wayne Franz, **Mir Tafseer Nayeem** 
-📰 22nd International Conference on Computer and Information Technology (**ICCIT 2019**), Dhaka, Bangladesh. 
+* [**"Automatic Individual Information Aggregation using Publicly Available Social Media Data"**](https://ieeexplore.ieee.org/document/9038402) <br/>
+🤓 Sibendu Sarker, Wayne Franz, and **Mir Tafseer Nayeem** <br/>
+📰 22nd International Conference on Computer and Information Technology (**ICCIT 2019**), Dhaka, Bangladesh. <br/>
 👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/ICCIT_2019_paper.pdf)
 
 
 ## 2018
 -----------
-*  **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, Yllias Chali,  [*“Abstractive Unsupervised Multi-Document Summarization using Paraphrastic Sentence Fusion”*](http://aclweb.org/anthology/C18-1102), In Proceedings of the 27th International Conference on Computational Linguistics (**COLING 2018**), Santa Fe, New Mexico, USA. [<span style ="color:Green"> [**Oral Presentation**] </span>](https://tafseer-nayeem.github.io/files/COLING_2018_Presentation.pdf) [<span style="color:Red"> [**Best Paper Nomination & Area Chair Favorite**] </span>](http://coling2018.org/coling-2018-best-papers/) 
+* [**“Abstractive Unsupervised Multi-Document Summarization using Paraphrastic Sentence Fusion”**](http://aclweb.org/anthology/C18-1102) <br/>
+🤓**Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, and Yllias Chali <br/>
+📰 27th International Conference on Computational Linguistics (**COLING 2018**), Santa Fe, New Mexico, USA. <br/>
+👉 [<span style ="color:Green"> [**Oral Presentation**] </span>](https://tafseer-nayeem.github.io/files/COLING_2018_Presentation.pdf) [<span style="color:Red"> [**Best Paper Nomination & Area Chair Favorite**] </span>](http://coling2018.org/coling-2018-best-papers/) 
 
 
 ## 2017
