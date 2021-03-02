@@ -27,9 +27,15 @@ author_profile: true
 📰 41st European Conference on Information Retrieval (**ECIR 2019**), Cologne, Germany. <br/>
 👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/ECIR_2019_paper.pdf)
 
-*  Tanvir Ahmed Fuad\*, **Mir Tafseer Nayeem\***, Asif Mahmud, and Yllias Chali, [*"Neural Sentence Fusion for Diversity Driven Abstractive Multi-Document Summarization"*](https://www.sciencedirect.com/science/article/pii/S0885230818303449), **Computer Speech & Language**, Elsevier 58 (2019): 216-230. <span style ="color:BlueViolet"> [\****Equal Contribution***]</span> [<span style ="color:Green"> [**Code**] </span>](https://github.com/tafseer-nayeem/NeuFuse-CSL2019) [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CSL_Journal_2019.pdf)
+* [**"Neural Sentence Fusion for Diversity Driven Abstractive Multi-Document Summarization"**](https://www.sciencedirect.com/science/article/pii/S0885230818303449) <br/>
+🤓 Tanvir Ahmed Fuad\*, **Mir Tafseer Nayeem\***, Asif Mahmud, and Yllias Chali <span style ="color:BlueViolet"> [\****Equal Contribution***]</span> <br/>
+📰 **Computer Speech & Language**, Elsevier 58 (2019): 216-230. <br/>  
+👉 [<span style ="color:Green"> [**Code**] </span>](https://github.com/tafseer-nayeem/NeuFuse-CSL2019) [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CSL_Journal_2019.pdf) <br/>
 
-*  Sibendu Sarker, Wayne Franz, **Mir Tafseer Nayeem**, [*"Automatic Individual Information Aggregation using Publicly Available Social Media Data"*](https://ieeexplore.ieee.org/document/9038402), In Proceedings of the 22nd International Conference on Computer and Information Technology (**ICCIT 2019**), Dhaka, Bangladesh. [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/ICCIT_2019_paper.pdf)
+* [**"Automatic Individual Information Aggregation using Publicly Available Social Media Data"**](https://ieeexplore.ieee.org/document/9038402) 
+🤓 Sibendu Sarker, Wayne Franz, **Mir Tafseer Nayeem** 
+📰 22nd International Conference on Computer and Information Technology (**ICCIT 2019**), Dhaka, Bangladesh. 
+👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/ICCIT_2019_paper.pdf)
 
 
 ## 2018
