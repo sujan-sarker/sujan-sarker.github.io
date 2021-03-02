@@ -11,7 +11,7 @@ author_profile: true
 -------------
 
 📧 **Email:** mir.nayeem [at] alumni [dot] uleth [dot] [*first 2 letters in “canada”*], <br /> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tafseer.nayeem [at] gmail [dot] com <br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tafseer.nayeem [at] gmail [dot] com <br />
 📒 **Website:** [https://tafseer-nayeem.github.io](https://tafseer-nayeem.github.io/) <br />
 
 You can also find me on [Twitter](https://twitter.com/mtnayeem) and [Github](https://github.com/tafseer-nayeem).
