@@ -14,7 +14,7 @@ author_profile: true
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tafseer.nayeem [at] gmail [dot] com <br />
 📒 **Website:** [https://tafseer-nayeem.github.io](https://tafseer-nayeem.github.io/) <br />
 
-You can also find me on [Twitter](https://twitter.com/mtnayeem), and [Github](https://github.com/tafseer-nayeem).
+You can also find me on [Twitter](https://twitter.com/mtnayeem) and [Github](https://github.com/tafseer-nayeem).
 
 
 **Address:**
