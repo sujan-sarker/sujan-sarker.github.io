@@ -29,7 +29,7 @@ author_profile: true
 
 * [**Neural Sentence Fusion for Diversity Driven Abstractive Multi-Document Summarization**](https://www.sciencedirect.com/science/article/pii/S0885230818303449) <br/>
 🤓 Tanvir Ahmed Fuad\*, **Mir Tafseer Nayeem\***, Asif Mahmud, and Yllias Chali <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
-📰 **Computer Speech & Language**, Elsevier 58 (2019): 216-230. 
+📰 **Computer Speech & Language**, Elsevier 58 (2019): 216-230. <br/>
 👉 [<span style ="color:Green"> [**Code**] </span>](https://github.com/tafseer-nayeem/NeuFuse-CSL2019) [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CSL_Journal_2019.pdf) 
 
 * [**Automatic Individual Information Aggregation using Publicly Available Social Media Data**](https://ieeexplore.ieee.org/document/9038402) <br/>
@@ -50,8 +50,8 @@ author_profile: true
 ## 2017
 -----------
 * [**Paraphrastic Fusion for Abstractive Multi-Sentence Compression Generation**](https://dl.acm.org/citation.cfm?id=3133106) <br/>
-🤓 **Mir Tafseer Nayeem** and Yllias Chali
-📰 26th ACM International Conference on Information and Knowledge Management (**CIKM 2017**), Singapore. 
+🤓 **Mir Tafseer Nayeem** and Yllias Chali <br/>
+📰 26th ACM International Conference on Information and Knowledge Management (**CIKM 2017**), Singapore. <br/>
 👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CIKM_2017_paper.pdf)
 
 *  Yllias Chali, Moin Mahmud Tanvee, **Mir Tafseer Nayeem**, [*“Towards Abstractive Multi-Document Summarization Using Submodular Function-Based Framework, Sentence Compression and Merging”*](http://www.aclweb.org/anthology/I17-2071), In Proceedings of the 8th International Joint Conference on Natural Language Processing (**IJCNLP 2017**), Taipei, Taiwan.
