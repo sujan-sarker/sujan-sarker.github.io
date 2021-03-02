@@ -58,17 +58,21 @@ author_profile: true
 🤓 Yllias Chali, Moin Mahmud Tanvee, and **Mir Tafseer Nayeem** <br/>
 📰 8th International Joint Conference on Natural Language Processing (**IJCNLP 2017**), Taipei, Taiwan.
 
-* [**Extract with Order for Coherent Multi-Document Summarization**](http://www.aclweb.org/anthology/W17-2407) 
-🤓 **Mir Tafseer Nayeem**, Yllias Chali
-📰 55th Annual Meeting of the Association for Computational Linguistics (**ACL-2017 Workshop**), Vancouver, Canada. 
+* [**Extract with Order for Coherent Multi-Document Summarization**](http://www.aclweb.org/anthology/W17-2407) <br/>
+🤓 **Mir Tafseer Nayeem** and Yllias Chali <br/>
+📰 55th Annual Meeting of the Association for Computational Linguistics (**ACL-2017 Workshop**), Vancouver, Canada. <br/>
 👉 [<span style ="color:Green"> [**Oral Presentation**] </span>](https://tafseer-nayeem.github.io/files/ACL_Workshop_2017_Presentation.pdf)
 
 
 ## 2014
 -----------
-*  **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir, [*“Design of a Human Interaction Proof (HIP) using Human Cognition in Contextual Natural Conversation”*](https://ieeexplore.ieee.org/document/6921454/), In Proceedings of the IEEE 13th International Conference on Cognitive Informatics and Cognitive Computing (**IEEE ICCI*CC’14**), London, UK.
+* [**Design of a Human Interaction Proof (HIP) using Human Cognition in Contextual Natural Conversation**](https://ieeexplore.ieee.org/document/6921454/) <br/>
+🤓 **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir <br/>
+📰 IEEE 13th International Conference on Cognitive Informatics and Cognitive Computing (**IEEE ICCI*CC’14**), London, UK.
 
-*  **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir, [*“Human Cognition in Automated Turing Test Design”*](https://dl.acm.org/citation.cfm?id=2807119), International Journal of Software Science and Computational Intelligence (**IJSSCI**) 6.4 (2014): 1-19.
+* [**Human Cognition in Automated Turing Test Design**](https://dl.acm.org/citation.cfm?id=2807119) <br/>
+🤓 **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir <br/>
+📰 International Journal of Software Science and Computational Intelligence (**IJSSCI**) 6.4 (2014): 1-19.
 
 
 ## 2012
