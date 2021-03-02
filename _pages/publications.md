@@ -58,7 +58,10 @@ author_profile: true
 🤓 Yllias Chali, Moin Mahmud Tanvee, and **Mir Tafseer Nayeem** <br/>
 📰 8th International Joint Conference on Natural Language Processing (**IJCNLP 2017**), Taipei, Taiwan.
 
-*  **Mir Tafseer Nayeem**, Yllias Chali,  [*“Extract with Order for Coherent Multi-Document Summarization”*](http://www.aclweb.org/anthology/W17-2407), In Proceedings of TextGraphs-11: the Workshop on Graph-based Methods for Natural Language Processing (**ACL-2017 Workshop**), Vancouver, Canada. [<span style ="color:Green"> [**Oral Presentation**] </span>](https://tafseer-nayeem.github.io/files/ACL_Workshop_2017_Presentation.pdf)
+* [**Extract with Order for Coherent Multi-Document Summarization**](http://www.aclweb.org/anthology/W17-2407) 
+🤓 **Mir Tafseer Nayeem**, Yllias Chali
+📰 55th Annual Meeting of the Association for Computational Linguistics (**ACL-2017 Workshop**), Vancouver, Canada. 
+👉 [<span style ="color:Green"> [**Oral Presentation**] </span>](https://tafseer-nayeem.github.io/files/ACL_Workshop_2017_Presentation.pdf)
 
 
 ## 2014
