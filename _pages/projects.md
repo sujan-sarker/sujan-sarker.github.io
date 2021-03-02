@@ -25,7 +25,7 @@ author_profile: true
 ## Graduate Course Projects [2015-2017]
 ----------------
 * **User Review Analysis of Google Play Store Apps** <br/>
-👉 [<span style ="color:Green"> [Code](https://github.com/tafseer-nayeem/CPSC5310-Machine_Learning) </span>] [<span style ="color:Green"> [Data](https://github.com/tafseer-nayeem/AppReview-dataset) </span>] [<span style ="color:Green"> [Report](https://tafseer-nayeem.github.io/files/Machine_Learning_Project_Report.pdf) </span>] [<span style ="color:Green"> [Presentation](https://tafseer-nayeem.github.io/files/Machine_Learning_Project_Presentation.pdf) </span>]
+👉 [[Code]](https://github.com/tafseer-nayeem/CPSC5310-Machine_Learning) [[Data]](https://github.com/tafseer-nayeem/AppReview-dataset) [[Report]](https://tafseer-nayeem.github.io/files/Machine_Learning_Project_Report.pdf) [[Presentation]](https://tafseer-nayeem.github.io/files/Machine_Learning_Project_Presentation.pdf)
 * **Modeling Class Scheduling Using Linear Programming** <br/>
 👉 [[Code]](https://github.com/tafseer-nayeem/CPSC5110-Computational_Optimization) [[Data]](https://tafseer-nayeem.github.io/files/Optimization_project_courseData.pdf) [[Report]](https://tafseer-nayeem.github.io/files/Optimization_Project_Report.pdf)
 * **Design of 8-bit ALU & CPU on Xilinx using Verilog HDL** <br/>
