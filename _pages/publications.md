@@ -44,7 +44,7 @@ author_profile: true
 🤓 **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, and Yllias Chali <br/>
 📰 27th International Conference on Computational Linguistics (**COLING 2018**), Santa Fe, New Mexico, USA. <br/>
 👉 [<span style ="color:Green"> [**Oral Presentation**] </span>](https://tafseer-nayeem.github.io/files/COLING_2018_Presentation.pdf) <br/>
-🏆 [<span style="color:Red"> [**Best Paper Nomination & Area Chair Favorite**] </span>](http://coling2018.org/coling-2018-best-papers/)  
+🏆 [<span style="color:Red"> **Best Paper Nomination & Area Chair Favorite** </span>](http://coling2018.org/coling-2018-best-papers/)  
 
 
 ## 2017
@@ -53,6 +53,9 @@ author_profile: true
 🤓 **Mir Tafseer Nayeem** and Yllias Chali <br/>
 📰 26th ACM International Conference on Information and Knowledge Management (**CIKM 2017**), Singapore. <br/>
 👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CIKM_2017_paper.pdf)
+🏆 [<span style="color:Red"> **ACM SIGIR Student Travel Grant**] </span>](https://sigir.org/general-information/travel-grants/)
+
+
 
 * [**Towards Abstractive Multi-Document Summarization Using Submodular Function-Based Framework, Sentence Compression and Merging**](http://www.aclweb.org/anthology/I17-2071) <br/>
 🤓 Yllias Chali, Moin Mahmud Tanvee, and **Mir Tafseer Nayeem** <br/>
