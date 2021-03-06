@@ -53,7 +53,7 @@ author_profile: true
 🤓 **Mir Tafseer Nayeem** and Yllias Chali <br/>
 📰 26th ACM International Conference on Information and Knowledge Management (**CIKM 2017**), Singapore. <br/>
 👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CIKM_2017_paper.pdf) <br/>
-🏆 [<span style="color:Red"> **ACM SIGIR Student Travel Grant**] </span>](https://sigir.org/general-information/travel-grants/)
+🏆 [<span style="color:Red"> **ACM SIGIR Student Travel Grant** </span>](https://sigir.org/general-information/travel-grants/)
 
 
 
