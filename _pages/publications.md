@@ -86,18 +86,9 @@ author_profile: true
 📰 IEEE 15th International Conference on Computational Science and Engineering (**IEEE CSE 2012**), Nicosia, Cyprus. <br/>
 👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/IEEE_CSE12_paper.pdf) <span style ="color:Green"> **[Oral Presentation]** </span>
 
-<!-- 
-<table style="width:60%">
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table>
--->
+
+#Favotire Quotes
+
+<img src="https://tafseer-nayeem.github.io/images/quotes.png" alt="Favotire Quotes"
+	title="Favotire Quotes" width="500" height="50">
 
