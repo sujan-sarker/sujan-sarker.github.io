@@ -85,7 +85,7 @@ author_profile: true
 📰 IEEE 15th International Conference on Computational Science and Engineering (**IEEE CSE 2012**), Nicosia, Cyprus. <br/>
 👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/IEEE_CSE12_paper.pdf) <span style ="color:Green"> **[Oral Presentation]** </span>
 
-
+<!-- 
 <table style="width:60%">
   <tr>
     <td>Jill</td>
@@ -98,5 +98,5 @@ author_profile: true
     <td>94</td>
   </tr>
 </table>
-
+-->
 
