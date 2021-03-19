@@ -86,7 +86,7 @@ author_profile: true
 👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/IEEE_CSE12_paper.pdf) <span style ="color:Green"> **[Oral Presentation]** </span>
 
 
-<table style="width:100%">
+<table style="width:60%">
   <tr>
     <th>Firstname</th>
     <th>Lastname</th>
