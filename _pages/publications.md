@@ -87,7 +87,8 @@ author_profile: true
 👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/IEEE_CSE12_paper.pdf) <span style ="color:Green"> **[Oral Presentation]** </span>
 
 
-#Favotire Quotes
+# Favotire Quotes
+-----------
 
 <img src="https://tafseer-nayeem.github.io/images/quotes.png" alt="Favotire Quotes"
 	title="Favotire Quotes" width="500" height="50">
