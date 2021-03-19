@@ -88,9 +88,9 @@ author_profile: true
 
 <br/>
 
-# Favotire Quotes
+# Favorite Quotes
 -----------
 
-<img src="https://tafseer-nayeem.github.io/images/quotes.png" alt="Favotire Quotes"
-	title="Favotire Quotes" width="840" height="70">
+<img src="https://tafseer-nayeem.github.io/images/quotes.png" alt="Favorite Quotes"
+	title="Favorite Quotes" width="840" height="70">
 
