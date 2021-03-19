@@ -92,5 +92,5 @@ author_profile: true
 -----------
 
 <img src="https://tafseer-nayeem.github.io/images/quotes.png" alt="Favotire Quotes"
-	title="Favotire Quotes" width="800" height="70">
+	title="Favotire Quotes" width="840" height="70">
 
