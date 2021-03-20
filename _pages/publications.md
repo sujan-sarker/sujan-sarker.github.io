@@ -89,7 +89,7 @@ author_profile: true
 <br/>
 
 # Favorite Quotes
------------
+-------------------
 
 [**Back to Top**](#)
 
