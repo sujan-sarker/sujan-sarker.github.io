@@ -91,9 +91,11 @@ author_profile: true
 # Favorite Quotes
 -----------
 
-[**Back to Top**](#publications)
+[**Back to Top**](#)
 
 <img src="https://tafseer-nayeem.github.io/images/quotes.png" alt="Favorite Quotes"
 	title="Favorite Quotes" width="840" height="70">
 
 *Image Credit: Google Image Search*
+
+[**Back to Top**](#)
