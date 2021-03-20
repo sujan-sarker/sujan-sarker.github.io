@@ -31,9 +31,9 @@ author_profile: true
 - Organizing committee member in the **BUBT CSE FIESTA 2012**, Dhaka, Bangladesh.
 - Organizing committee member in the **IUT ICT Fest 2011**, Dhaka, Bangladesh. 
 
-[**Back to Top**](#)
-
 ----------------------
+
+[**Back to Top**](#)
 
 \* [*invited*]
 

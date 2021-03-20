@@ -48,6 +48,6 @@ author_profile: true
 * Displaying Bangla Characters using Segment Displays (*Software Used: DSCH*).
 * Hall Management System Software (*Language: Turbo C with excellent GUI*).
 
-__________________________________________________
+----------------
 
 [**Back to Top**](#)
