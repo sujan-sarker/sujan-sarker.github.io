@@ -50,7 +50,7 @@ ___________________________________________
 <a href="https://tafseer-nayeem.github.io/education-awards/"> <img src="https://tafseer-nayeem.github.io/images/awards.png" alt="Awards"
 	title="Awards" width="550" height="30"> </a>
 
-----------------------
+--------------------------------------------
 
 [**Back to Top**](#)
 
