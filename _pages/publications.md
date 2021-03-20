@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[ [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works&sortby=pubdate) \| [**DBLP**](https://dblp.org/pid/125/2693.html) \| [**Favorite Quotes**](#favorite-quotes)]
+[ [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works&sortby=pubdate) \| [**DBLP**](https://dblp.org/pid/125/2693.html) \| [**Favorite Quotes**](#favorite-quotes) ]
 
 ## 2021
 -----------
