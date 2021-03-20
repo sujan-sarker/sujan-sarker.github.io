@@ -91,7 +91,7 @@ author_profile: true
 # Favorite Quotes
 -----------
 
-[**Back to Top**](#2021)
+[**Back to Top**](#publications)
 
 <img src="https://tafseer-nayeem.github.io/images/quotes.png" alt="Favorite Quotes"
 	title="Favorite Quotes" width="840" height="70">
