@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ## Ongoing Projects
-----------------
+---------------------
 
 ### [2020 - *Current* ]
------------
+------------------------
 * SHUVRO-21: A Comprehensive Tool for Bengali Text Documents.
 * Modeling Cold Start and User Experience in Recommender Systems.
 * Domain Independent Sentiment Classification.
@@ -23,7 +23,7 @@ author_profile: true
 -->
 
 ## Graduate Course Projects [2015-2017]
-----------------
+-----------------------------------------
 * **User Review Analysis of Google Play Store Apps** <br/>
 👉 [[Code]](https://github.com/tafseer-nayeem/CPSC5310-Machine_Learning) [[Data]](https://github.com/tafseer-nayeem/AppReview-dataset) [[Report]](https://tafseer-nayeem.github.io/files/Machine_Learning_Project_Report.pdf) [[Presentation]](https://tafseer-nayeem.github.io/files/Machine_Learning_Project_Presentation.pdf)
 * **Modeling Class Scheduling Using Linear Programming** <br/>
@@ -33,7 +33,7 @@ author_profile: true
 
 
 ## Undergraduate Course Projects [2008-2012]
-----------------
+---------------------------------------------
 * Developed  a system  that  recognizes  syntactically  correct  affirmative  and negative sentences (*Python*).
 * Built a user centered model *“Virtual Shop Guide”* for Online Cloth Store with dynamic fictitious graphic characters.
 * A  multi-player  Game  with  advanced  graphics  like  fog,  lighting,  particle system, reflections and collision detection with improved  speed and appearance (*OpenGl, C++*).

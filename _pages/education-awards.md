@@ -8,8 +8,7 @@ author_profile: true
 # Education
 
 ## M.Sc. in Computer Science
-___________________________________
-
+-----------------------------
 
 * [University of Lethbridge (UofL)](https://www.uleth.ca/), Alberta, Canada.
 * **CGPA:  4.00** <span style ="color:Green"> [*out of 4.00* ] </span>
@@ -20,7 +19,7 @@ ___________________________________
 
 
 ## B.Sc. in Computer Science and Information Technology
-___________________________________
+--------------------------------------------------------
 
 
 * [Islamic University of Technology (IUT)](https://www.iutoic-dhaka.edu/), Dhaka, Bangladesh.
@@ -33,9 +32,11 @@ ___________________________________
 <a href="https://tafseer-nayeem.github.io/education-awards/"> <img src="https://tafseer-nayeem.github.io/images/educations.png" alt="Education"
 	title="Education" width="500" height="50"> </a>
 	
-___________________________________________
+------------------------------------------------------
 
 # Awards
+---------
+
 * 🏆 [<span style="color:Red"> **Best Paper Nomination** </span>](http://coling2018.org/coling-2018-best-papers/) at **COLING 2018**.
 * 🏆  [<span style="color:Red"> **Area Chair Favorites** </span>](http://coling2018.org/coling-2018-best-papers/) paper at **COLING 2018**.
 * 🏆  **ACM SIGIR** Student Travel Grant (2017) [*Amount: 800 USD*]
