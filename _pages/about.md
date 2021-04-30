@@ -36,8 +36,6 @@ My name is Mir Tafseer Nayeem. I graduated with a M.Sc. degree in Computer Scien
 
 * 💻 Bengali Document Readability Checker [[Demo Video]](https://youtu.be/U05Pf9Y4tCQ).
 * 💻 Bengali Document Summarization Tool [[Demo Video]](https://youtu.be/LrnskktiXcg).
-* 💻 Unbiased Summarization of User Reviews [[Coming Soon]](https://www.youtube.com/channel/UCfFEgu4mEqFNoqyJOvjKtQg).
-
 
 ----------------------------------------
 
