@@ -9,46 +9,16 @@ author_profile: true
 
 ## 2021
 -----------
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax">[**Simple or Complex? Learning to Predict Readability of Bengali Texts**](https://arxiv.org/abs/2012.07701)&lt;br/&gt;<br>🤓 Susmoy Chakraborty\*, **Mir Tafseer Nayeem\***, and Wasi Uddin Ahmad &lt;span style ="color:BlueViolet"&gt; [\**Equal Contribution*]&lt;/span&gt; &lt;br/&gt;<br>📰 Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI 2021**) &lt;br/&gt; <br>👉 [&lt;span style ="color:Green"&gt; [**Code &amp; Dataset**] &lt;/span&gt;](https://github.com/tafseer-nayeem/BengaliReadability) [&lt;span style ="color:Green"&gt; [**Presentation**] &lt;/span&gt;](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_full.pdf) [&lt;span style ="color:Green"&gt; [**Poster**] &lt;/span&gt;](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_poster.pdf) [&lt;span style ="color:Green"&gt; [**Demo Video**] &lt;/span&gt;](https://youtu.be/U05Pf9Y4tCQ) [&lt;span style ="color:Green"&gt; [**Twitter Thread**] &lt;/span&gt;](https://twitter.com/mtnayeem/status/1334590638105378817?s=20)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">[**Unsupervised Abstractive Summarization of Bengali Text Documents**](https://www.aclweb.org/anthology/2021.eacl-main.224)&lt;br/&gt;<br>🤓 Radia Rayan Chowdhury\*, **Mir Tafseer Nayeem\***, Tahsin Tasnim Mim, Md. Saifur Rahman Chowdhury, and Taufiqul Jannat &lt;span style ="color:BlueViolet"&gt; [\**Equal Contribution*]&lt;/span&gt; &lt;br/&gt;<br>📰 16th Conference of the European Chapter of the Association for Computational Linguistics (**EACL 2021**)&lt;br/&gt;<br>👉 [&lt;span style ="color:Green"&gt; [**Code &amp; Dataset**] &lt;/span&gt;](https://github.com/tafseer-nayeem/BengaliSummarization) [&lt;span style ="color:Green"&gt; [**Presentation**] &lt;/span&gt;](https://tafseer-nayeem.github.io/files/EACL2021/eacl2021_presentation.pdf) [&lt;span style ="color:Green"&gt; [**Poster**] &lt;/span&gt;](https://tafseer-nayeem.github.io/files/EACL2021/eacl2021_poster.pdf) [&lt;span style ="color:Green"&gt; [**Demo Video**] &lt;/span&gt;](https://youtu.be/LrnskktiXcg) [&lt;span style ="color:Green"&gt; [**Twitter Thread**] &lt;/span&gt;](https://twitter.com/mtnayeem/status/1350551479283662848?s=20)</td>
-  </tr>
-</tbody>
-</table>
-
-
-
-
-
-
-<!-- * [**Simple or Complex? Learning to Predict Readability of Bengali Texts**](https://arxiv.org/abs/2012.07701)<br/>
+* [**Simple or Complex? Learning to Predict Readability of Bengali Texts**](https://arxiv.org/abs/2012.07701)<br/>
 🤓 Susmoy Chakraborty\*, **Mir Tafseer Nayeem\***, and Wasi Uddin Ahmad <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
 📰 Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI 2021**) <br/> 
 👉 [<span style ="color:Green"> [**Code & Dataset**] </span>](https://github.com/tafseer-nayeem/BengaliReadability) [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_full.pdf) [<span style ="color:Green"> [**Poster**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_poster.pdf) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/U05Pf9Y4tCQ) [<span style ="color:Green"> [**Twitter Thread**] </span>](https://twitter.com/mtnayeem/status/1334590638105378817?s=20)
--->
-<!-- * [**Unsupervised Abstractive Summarization of Bengali Text Documents**](https://www.aclweb.org/anthology/2021.eacl-main.224)<br/>
+
+* [**Unsupervised Abstractive Summarization of Bengali Text Documents**](https://www.aclweb.org/anthology/2021.eacl-main.224)<br/>
 🤓 Radia Rayan Chowdhury\*, **Mir Tafseer Nayeem\***, Tahsin Tasnim Mim, Md. Saifur Rahman Chowdhury, and Taufiqul Jannat <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
 📰 16th Conference of the European Chapter of the Association for Computational Linguistics (**EACL 2021**)<br/>
 👉 [<span style ="color:Green"> [**Code & Dataset**] </span>](https://github.com/tafseer-nayeem/BengaliSummarization) [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/EACL2021/eacl2021_presentation.pdf) [<span style ="color:Green"> [**Poster**] </span>](https://tafseer-nayeem.github.io/files/EACL2021/eacl2021_poster.pdf) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/LrnskktiXcg) [<span style ="color:Green"> [**Twitter Thread**] </span>](https://twitter.com/mtnayeem/status/1350551479283662848?s=20)
--->
+
 
 ## 2019
 -----------
