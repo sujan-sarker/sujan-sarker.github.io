@@ -11,7 +11,6 @@ author_profile: true
 -------------
 
 📧 **Email:** mir.nayeem [at] alumni [dot] uleth [dot] [*first 2 letters in “canada”*], <br />
-
 [comment]: # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tafseer.nayeem [at] gmail [dot] com <br />
 📒 **Website:** [https://tafseer-nayeem.github.io](https://tafseer-nayeem.github.io/) <br />
 
