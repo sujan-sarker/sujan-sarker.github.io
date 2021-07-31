@@ -29,9 +29,9 @@ author_profile: true
 * **Supervisor:** [Dr. Muhammad Mahbub Alam](https://scholar.google.com/citations?user=5sjCt8cAAAAJ&hl=en), Professor, CSE Department.
 
 
-<a href="https://tafseer-nayeem.github.io/education-awards/"> <img src="https://tafseer-nayeem.github.io/images/educations.png" alt="Education"
+<!-- <a href="https://tafseer-nayeem.github.io/education-awards/"> <img src="https://tafseer-nayeem.github.io/images/educations.png" alt="Education"
 	title="Education" width="500" height="50"> </a>
-	
+-->
 ------------------------------------------------------
 
 # Awards
