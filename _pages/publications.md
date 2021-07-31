@@ -60,11 +60,11 @@ author_profile: true
 
 * [**Towards Abstractive Multi-Document Summarization Using Submodular Function-Based Framework, Sentence Compression and Merging**](http://www.aclweb.org/anthology/I17-2071) <br/>
 🤓 Yllias Chali, Moin Mahmud Tanvee, and **Mir Tafseer Nayeem** <br/>
-📰 8th International Joint Conference on Natural Language Processing (**IJCNLP 2017**), Taipei, Taiwan.
+📰 8th International Joint Conference on Natural Language Processing ([**IJCNLP 2017**](https://aclanthology.org/venues/ijcnlp/)), Taipei, Taiwan.
 
 * [**Extract with Order for Coherent Multi-Document Summarization**](http://www.aclweb.org/anthology/W17-2407) <br/>
 🤓 **Mir Tafseer Nayeem** and Yllias Chali <br/>
-📰 55th Annual Meeting of the Association for Computational Linguistics (**ACL-2017 Workshop**), Vancouver, Canada. <br/>
+📰 55th Annual Meeting of the Association for Computational Linguistics ([**ACL-2017 Workshop**](http://acl2017.org/)), Vancouver, Canada. <br/>
 👉 [<span style ="color:Green"> [**Oral Presentation**] </span>](https://tafseer-nayeem.github.io/files/ACL_Workshop_2017_Presentation.pdf)
 
 
