@@ -72,7 +72,7 @@ author_profile: true
 -----------
 * [**Design of a Human Interaction Proof (HIP) using Human Cognition in Contextual Natural Conversation**](https://ieeexplore.ieee.org/document/6921454/) <br/>
 🤓 **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir <br/>
-📰 IEEE 13th International Conference on Cognitive Informatics and Cognitive Computing ([**IEEE ICCI*CC’14**](https://ieeexplore.ieee.org/xpl/conhome/6911098/proceeding)), London, UK.
+📰 13th IEEE International Conference on Cognitive Informatics and Cognitive Computing ([**IEEE ICCI*CC’14**](https://ieeexplore.ieee.org/xpl/conhome/6911098/proceeding)), London, UK.
 
 * [**Human Cognition in Automated Turing Test Design**](https://dl.acm.org/citation.cfm?id=2807119) <br/>
 🤓 **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir <br/>
@@ -83,7 +83,7 @@ author_profile: true
 -----------
 * [**Use of Human Cognition in HIP Design Via EmotIcons to Defend BOT Attacks**](https://ieeexplore.ieee.org/document/6417291/) <br/>
 🤓 **Mir Tafseer Nayeem**, Md. Saddam Hossain Mukta , Samsuddin Ahmed, and Md. Mahbubur Rahman <br/>
-📰 IEEE 15th International Conference on Computational Science and Engineering (**IEEE CSE 2012**), Nicosia, Cyprus. <br/>
+📰 15th IEEE International Conference on Computational Science and Engineering ([**IEEE CSE 2012**](http://www.cse2012.cs.ucy.ac.cy/)), Nicosia, Cyprus. <br/>
 👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/IEEE_CSE12_paper.pdf) <span style ="color:Green"> **[Oral Presentation]** </span>
 
 <br/>
