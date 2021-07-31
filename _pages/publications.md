@@ -34,7 +34,7 @@ author_profile: true
 
 * [**Automatic Individual Information Aggregation using Publicly Available Social Media Data**](https://ieeexplore.ieee.org/document/9038402) <br/>
 🤓 Sibendu Sarker, Wayne Franz, and **Mir Tafseer Nayeem** <br/>
-📰 22nd International Conference on Computer and Information Technology (**ICCIT 2019**), Dhaka, Bangladesh. <br/>
+📰 22nd International Conference on Computer and Information Technology ([**ICCIT 2019**](https://iccit.org.bd/2019/)), Dhaka, Bangladesh. <br/>
 👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/ICCIT_2019_paper.pdf)
 
 
