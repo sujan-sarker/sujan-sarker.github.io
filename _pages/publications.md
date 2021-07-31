@@ -16,7 +16,7 @@ author_profile: true
 
 * [**Unsupervised Abstractive Summarization of Bengali Text Documents**](https://www.aclweb.org/anthology/2021.eacl-main.224)<br/>
 🤓 Radia Rayan Chowdhury\*, **Mir Tafseer Nayeem\***, Tahsin Tasnim Mim, Md. Saifur Rahman Chowdhury, and Taufiqul Jannat <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
-📰 16th Conference of the European Chapter of the Association for Computational Linguistics (**EACL 2021**)<br/>
+📰 16th Conference of the European Chapter of the Association for Computational Linguistics ([**EACL 2021**](https://2021.eacl.org/))<br/>
 👉 [<span style ="color:Green"> [**Code & Dataset**] </span>](https://github.com/tafseer-nayeem/BengaliSummarization) [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/EACL2021/eacl2021_presentation.pdf) [<span style ="color:Green"> [**Poster**] </span>](https://tafseer-nayeem.github.io/files/EACL2021/eacl2021_poster.pdf) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/LrnskktiXcg) [<span style ="color:Green"> [**Twitter Thread**] </span>](https://twitter.com/mtnayeem/status/1350551479283662848?s=20)
 
 
