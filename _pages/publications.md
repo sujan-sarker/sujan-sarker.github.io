@@ -42,7 +42,7 @@ author_profile: true
 -----------
 * [**Abstractive Unsupervised Multi-Document Summarization using Paraphrastic Sentence Fusion**](http://aclweb.org/anthology/C18-1102) <br/>
 🤓 **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, and Yllias Chali <br/>
-📰 27th International Conference on Computational Linguistics (**COLING 2018**), Santa Fe, New Mexico, USA. <br/>
+📰 27th International Conference on Computational Linguistics ([**COLING 2018**](https://coling2018.org/)), Santa Fe, New Mexico, USA. <br/>
 👉 [<span style ="color:Green"> [**Oral Presentation**] </span>](https://tafseer-nayeem.github.io/files/COLING_2018_Presentation.pdf) [<span style ="color:Green"> [**Twitter Thread**] </span>](https://twitter.com/mtnayeem/status/1007565988047409152?s=20) <br/>
 🏆 [<span style="color:Red"> **Area Chair Favorite Paper** </span>](http://coling2018.org/coling-2018-best-papers/) <br/>
 🏆 [<span style="color:Red"> **Best Paper Nomination** </span>](http://coling2018.org/coling-2018-best-papers/)   
@@ -52,7 +52,7 @@ author_profile: true
 -----------
 * [**Paraphrastic Fusion for Abstractive Multi-Sentence Compression Generation**](https://dl.acm.org/citation.cfm?id=3133106) <br/>
 🤓 **Mir Tafseer Nayeem** and Yllias Chali <br/>
-📰 26th ACM International Conference on Information and Knowledge Management (**CIKM 2017**), Singapore. <br/>
+📰 26th ACM International Conference on Information and Knowledge Management ([**CIKM 2017**](http://www.cikmconference.org/CIKM2017/)), Singapore. <br/>
 👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CIKM_2017_paper.pdf) <br/>
 🏆 [<span style="color:Red"> **ACM SIGIR Student Travel Grant** </span>](https://sigir.org/general-information/travel-grants/)
 
