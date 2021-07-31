@@ -24,7 +24,7 @@ author_profile: true
 -----------
 * [**Neural Diverse Abstractive Sentence Compression Generation**](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14)<br/>
 🤓 **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, and Yllias Chali <br/>
-📰 41st European Conference on Information Retrieval (**ECIR 2019**), Cologne, Germany. <br/>
+📰 41st European Conference on Information Retrieval ([**ECIR 2019**](http://ecir2019.org/)), Cologne, Germany. <br/>
 👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/ECIR_2019_paper.pdf)
 
 * [**Neural Sentence Fusion for Diversity Driven Abstractive Multi-Document Summarization**](https://www.sciencedirect.com/science/article/pii/S0885230818303449) <br/>
