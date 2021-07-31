@@ -29,7 +29,7 @@ author_profile: true
 
 * [**Neural Sentence Fusion for Diversity Driven Abstractive Multi-Document Summarization**](https://www.sciencedirect.com/science/article/pii/S0885230818303449) <br/>
 🤓 Tanvir Ahmed Fuad\*, **Mir Tafseer Nayeem\***, Asif Mahmud, and Yllias Chali <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
-📰 **Computer Speech & Language**, Elsevier 58 (2019): 216-230. <br/>
+📰 [**Computer Speech & Language**](https://www.journals.elsevier.com/computer-speech-and-language), Elsevier 58 (2019): 216-230. <br/>
 👉 [<span style ="color:Green"> [**Code**] </span>](https://github.com/tafseer-nayeem/NeuFuse) [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CSL_Journal_2019.pdf) 
 
 * [**Automatic Individual Information Aggregation using Publicly Available Social Media Data**](https://ieeexplore.ieee.org/document/9038402) <br/>
