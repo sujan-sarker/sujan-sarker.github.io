@@ -10,9 +10,9 @@ author_profile: true
 
 ### [2020 - *Current* ]
 ------------------------
-* Modeling Cold Start and User Experience in Recommender Systems.
+[comment]: # * Modeling Cold Start and User Experience in Recommender Systems.
 * Domain Independent Sentiment Classification.
-* Information Extraction from Privacy Policy Documents.
+[comment]: # * Information Extraction from Privacy Policy Documents.
 
 <!-- ### [2019 - *Current* ]
 -----------
