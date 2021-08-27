@@ -5,7 +5,7 @@ permalink: /education-awards/
 author_profile: true
 ---
 
-# Education
+# 🎓 Education
 
 ## M.Sc. in Computer Science
 -----------------------------
