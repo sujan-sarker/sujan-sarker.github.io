@@ -5,9 +5,9 @@ permalink: /education-awards/
 author_profile: true
 ---
 
-# 🎓 Education
+# Education
 
-## M.Sc. in Computer Science
+## 🎓 M.Sc. in Computer Science
 -----------------------------
 
 * [University of Lethbridge (UofL)](https://www.uleth.ca/), Alberta, Canada.
@@ -18,7 +18,7 @@ author_profile: true
 * **Committee Members:** [Dr. Wendy Osborn](http://directory.uleth.ca/users/wendy.osborn), [Dr. John Anvik ](http://directory.uleth.ca/users/john.anvik)
 
 
-## B.Sc. in Computer Science and Information Technology
+## 🎓 B.Sc. in Computer Science and Information Technology
 --------------------------------------------------------
 
 
