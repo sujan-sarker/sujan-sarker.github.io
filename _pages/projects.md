@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Ongoing Projects
+## 💻 Ongoing Projects
 ---------------------
 
 ### [2020 - *Current* ]
@@ -23,7 +23,7 @@ author_profile: true
 * Automatic Summarization of Bangla Text Documents.
 -->
 
-## Graduate Course Projects [2015-2017]
+## 💻 Graduate Course Projects [2015-2017]
 -----------------------------------------
 * **User Review Analysis of Google Play Store Apps** <br/>
 👉 [[Code]](https://github.com/tafseer-nayeem/CPSC5310-Machine_Learning) [[Data]](https://github.com/tafseer-nayeem/AppReview-dataset) [[Report]](https://tafseer-nayeem.github.io/files/Machine_Learning_Project_Report.pdf) [[Presentation]](https://tafseer-nayeem.github.io/files/Machine_Learning_Project_Presentation.pdf)
@@ -33,7 +33,7 @@ author_profile: true
 👉 [[Code]](https://github.com/tafseer-nayeem/CPSC5210-VLSI_Design) [[Presentation]](https://tafseer-nayeem.github.io/files/VLSI_Design_Course_Presentation.pdf)
 
 
-## Undergraduate Course Projects [2008-2012]
+## 💻 Undergraduate Course Projects [2008-2012]
 ---------------------------------------------
 * Developed  a system  that  recognizes  syntactically  correct  affirmative  and negative sentences (*Python*).
 * Built a user centered model *“Virtual Shop Guide”* for Online Cloth Store with dynamic fictitious graphic characters.
