@@ -5,7 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 
-## 🧑‍💻 Professional Services
+## 👨‍💻 Professional Services
 -------------------------
 
 1. **Program Committee/Reviewer**
