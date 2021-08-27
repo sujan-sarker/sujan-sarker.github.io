@@ -5,7 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 
-## Professional Services
+## 🧑‍💻 Professional Services
 -------------------------
 
 1. **Program Committee/Reviewer**
@@ -16,7 +16,7 @@ author_profile: true
 2. **Journal Reviewer**
 	- [IJSSCI](https://www.igi-global.com/journal/international-journal-software-science-computational/1124), [Computer Speech & Language](https://www.journals.elsevier.com/computer-speech-and-language)
 
-## Invited Talks
+## 👨‍🏫 Invited Talks
 ----------------
 - <span style="color:Blue"> [Apr 2017] </span> - Talk on [Introduction to NLTK](https://tafseer-nayeem.github.io/files/Introduction_to_NLTK.pdf), University of Lethbrdige, Alberta, Canada. 
 
