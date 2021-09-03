@@ -8,7 +8,7 @@ author_profile: true
 # Education
 
 ## 🎓 M.Sc. in Computer Science
------------------------------
+--------------------------------
 
 * [University of Lethbridge (UofL)](https://www.uleth.ca/), Alberta, Canada.
 * **CGPA:  4.00** <span style ="color:Green"> [*out of 4.00* ] </span>
@@ -19,7 +19,7 @@ author_profile: true
 
 
 ## 🎓 B.Sc. in Computer Science and Information Technology
---------------------------------------------------------
+-----------------------------------------------------------
 
 
 * [Islamic University of Technology (IUT)](https://www.iutoic-dhaka.edu/), Dhaka, Bangladesh.
