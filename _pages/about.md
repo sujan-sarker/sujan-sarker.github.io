@@ -12,19 +12,17 @@ Thanks for stopping by!
 
 My name is Sujan Sarker. I graduated with a M.Sc. degree in Computer Science and Engineering from the [University of Dhaka(DU)](https://www.du.ac.bd/), Dhaka, Bangladesh. Now, I am appointed as a lecturer in Department of Robotics and Mechatronics in DU. My research interests include, but are not limited to, Natural Language Processing, Computational Social Science, and Recommender Systems. My work was nominated for [<span style="color:Red"> **Best Paper Award**</span>](http://coling2018.org/coling-2018-best-papers/) and selected as <span style="color:Red"> **Area Chair Favorite Paper** </span> at [COLING 2018](http://coling2018.org). Currently, I am working as a faculty member at [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/cse), Dhaka, Bangladesh. 
 
-**For additional information, please see my [CV](https://tafseer-nayeem.github.io/cv/) and [publications](https://tafseer-nayeem.github.io/publications/).**
+**For additional information, please see my [CV](https://sujansarker.github.io/cv/) and [publications](https://sujansarker.github.io/publications/).**
 
 
-<!-- <a href="https://tafseer-nayeem.github.io/publications/"> <img src="https://tafseer-nayeem.github.io/images/pubs.png" alt="Publication Venues"
+<!-- <a href="https://sujansarker.github.io/publications/"> <img src="https://sujansarker.github.io/images/pubs.png" alt="Publication Venues"
 	title="Publication Venues" width="600" height="200"> </a>
 -->
 
 
 ## Recent News
 
-* 📢 <span style="color:Blue"> [Jan 2021] </span> - One paper got accepted at [EACL 2021](https://2021.eacl.org/).
-* 📢 <span style="color:Blue"> [Dec 2020] </span> - One paper got accepted at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
-* 📢 <span style="color:Blue"> [May 2019] </span> - One [journal paper](https://www.sciencedirect.com/science/article/pii/S0885230818303449) got accepted to  [Computer Speech & Language](https://www.journals.elsevier.com/computer-speech-and-language).
+* 📢 <span style="color:Blue"> [Oct 2021] </span> - One [journal paper](https://www.sciencedirect.com/science/article/pii/S0921889021001871) got accepted to  [Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems).
 * 📢 <span style="color:Blue"> [Jan 2019] </span> - One [paper](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14) got accepted at [ECIR 2019](http://ecir2019.org/).
 * 📢 <span style="color:Blue"> [Jun 2018] </span> - Nominated for the [**Best Paper Award**](http://coling2018.org/coling-2018-best-papers/) 🏆 at COLING 2018.
 * 📢 <span style="color:Blue"> [May 2018] </span> - One [paper](http://aclweb.org/anthology/C18-1102) got accepted at COLING 2018 as [**Area Chair Favorites**](http://coling2018.org/coling-2018-best-papers/) 🏆. 
