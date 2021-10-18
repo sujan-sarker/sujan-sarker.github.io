@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mir Tafseer Nayeem"
+title                    : "Sujan Sarker"
 title_separator          : "-"
-name                     : &name "Mir Tafseer Nayeem"
+name                     : &name "Sujan Sarker"
 description              : &description "personal description"
 url                      : https://tafseer-nayeem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tafseer-nayeem/tafseer-nayeem.github.io"
+repository               : "sujansarker/sujansarker.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mir Tafseer Nayeem"
+  name             : "Sujan Sarker"
   avatar           : "profile.jpg"
-  bio              : "I want to enable machines to interact intelligently with people via natural language."
+  bio              : "Utilizing edge infrastructure to enhance the capability of multi-robot system, Designing intelligent robots to efficiently communicate with humans. "
   location         : "127.0.0.1"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works&sortby=pubdate"
-  DBLP             : "https://dblp.uni-trier.de/pers/hd/n/Nayeem:Mir_Tafseer"
-  email            :  tafseer.nayeem@gmail.com
+  googlescholar    : "https://scholar.google.com/citations?user=uCSts6gAAAAJ&hl=en"
+  DBLP             : ""
+  email            :  sujan@du.ac.bd
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tafseer-nayeem"
+  github           : "sujansarker"
   google_plus      :
   keybase          :
   instagram        :
