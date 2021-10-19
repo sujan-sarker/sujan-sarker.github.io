@@ -10,8 +10,7 @@ author_profile: true
 ## 2021
 -----------
 * [**Optimal Selection of Crowdsourcing Workers Balancing Their Utilities and Platform Profit**](https://ieeexplore.ieee.org/abstract/document/8731644)<br/>
-🤓 Zahan Zib Sarowar Dhrubo, Md. Ashiful Islam Hridoy, Lafifa Jamal, **Sujan Sarker**, Mohammad
-Shidujaman <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
+🤓 Sujan Sarker, Md Abdur Razzaque, Mohammad Mehedi Hassan, Ahmad Almogren, Giancarlo Fortino, Mengchu Zhou <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
 
 * [**User mobility and quality-of-experience aware placement of virtual network functions in 5g**](https://www.sciencedirect.com/science/article/abs/pii/S0140366419314227)<br/>
 🤓 Palash Roy, Anika Tahsin, **Sujan Sarker**, Tamal Adhikary, Md Abdur Razzaque, Mohammad Mehedi Hassan <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
