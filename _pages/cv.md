@@ -10,12 +10,12 @@ author_profile: true
 ## Contact Me
 -------------
 
-📧 **Email:** tafseer.nayeem [at] gmail [dot] com <br /> 
+📧 **Email:** sujan [at] du [dot] ac [dot] bd <br /> 
 
 [comment]: # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; mir.nayeem [at] alumni [dot] uleth [dot] [*first 2 letters in “canada”*], <br />
-📒 **Website:** [https://tafseer-nayeem.github.io](https://tafseer-nayeem.github.io/) <br />
+📒 **Website:** [https://sujansarker.github.io/](https://sujansarker.github.io/) <br />
 
-You can also find me on [Twitter](https://twitter.com/mtnayeem) and [Github](https://github.com/tafseer-nayeem).
+You can also find me on [Twitter](https://twitter.com/mtnayeem) and [Github](https://github.com/sujansarker).
 
 
 **Address:**
