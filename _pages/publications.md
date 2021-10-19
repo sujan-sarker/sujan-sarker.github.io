@@ -5,18 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-[ [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works&sortby=pubdate) \| [**DBLP**](https://dblp.org/pid/125/2693.html) \| [**Favorite Quotes**](#favorite-quotes) ]
+[ [**Google Scholar**](https://scholar.google.com/citations?user=uCSts6gAAAAJ&hl=en) \|
 
-## 2021
------------
 * [**Optimal Selection of Crowdsourcing Workers Balancing Their Utilities and Platform Profit**](https://ieeexplore.ieee.org/abstract/document/8731644)<br/>
 🤓 Sujan Sarker, Md Abdur Razzaque, Mohammad Mehedi Hassan, Ahmad Almogren, Giancarlo Fortino, Mengchu Zhou <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
 
 * [**User mobility and quality-of-experience aware placement of virtual network functions in 5g**](https://www.sciencedirect.com/science/article/abs/pii/S0140366419314227)<br/>
 🤓 Palash Roy, Anika Tahsin, **Sujan Sarker**, Tamal Adhikary, Md Abdur Razzaque, Mohammad Mehedi Hassan <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
 
-## 2019
------------
 * [**A Multiconstrained QoS Aware MAC Protocol for Cluster-Based Cognitive Radio Sensor Networks**](https://journals.sagepub.com/doi/full/10.1155/2015/262871)<br/>
 🤓 Mir Mehedi Ahsan Pritom, **Sujan Sarker**, Md Abdur Razzaque, Mohammad Mehedi Hassan, M Anwar Hossain, Abdulhameed Alelaiwi <br/>
 
@@ -26,38 +22,23 @@ author_profile: true
 * [**Tradeoffs between sensing quality and energy efficiency for context monitoring applications**](https://ieeexplore.ieee.org/abstract/document/7400699) <br/>
 🤓 Sujan Sarker, Amit Kumar Nath, Abdur Razzaque <br/>
 
-
-## 2018
------------
 * [**Deep Learning–Driven Automated Detection of COVID-19 from Radiography Images: a Comparative Analysis**](https://link.springer.com/article/10.1007/s12559-020-09779-5) <br/>
 🤓 Sejuti Rahman, Sujan Sarker, Md Abdullah Al Miraj, Ragib Amin Nihal, AKM Nadimul Haque, Abdullah Al Noman <br/> 
 
-
-## 2017
------------
 * [**Automated COVID-19 Detection from Chest X-Ray Images: A High-Resolution Network (HRNet) Approach**](https://link.springer.com/article/10.1007/s42979-021-00690-w) <br/>
 🤓 Sifat Ahmed, Tonmoy Hossain, Oishee Bintey Hoque, Sujan Sarker, Sejuti Rahman, Faisal Muhammad Shah <br/>
-
-
 
 * [**Energy-efficient scheduling of small cells in 5G: A meta-heuristic approach**](https://www.sciencedirect.com/science/article/abs/pii/S1084804521000138) <br/>
 🤓 Md Shahin Alom Shuvo, Md Azad Rahaman Munna, Sujan Sarker, Tamal Adhikary, Md Abdur Razzaque, Mohammad Mehedi Hassan, Gianluca Aloi, Giancarlo Fortino <br/>
 
-
-## 2014
------------
 * [**Distributed task allocation in Mobile Device Cloud exploiting federated learning and subjective logic**](https://www.sciencedirect.com/science/article/abs/pii/S1383762120302162) <br/>
 🤓 Palash Roy, Sujan Sarker, Md Abdur Razzaque, Md Mamun-or-Rashid, Mohmmad Mehedi Hassan, Giancarlo Fortino <br/>
 
 * [**Optimal Worker Selection for Maximizing Quality-of-Service of Online Food Delivery System**](https://ieeexplore.ieee.org/abstract/document/9068059) <br/>
 🤓 Farhana Huq, Nahar Sultana, Sujan Sarkar, Md Abdur Razzaque, Mosaddek Hossain Kamal Tushar <br/>
 
-
-## 2012
------------
 * [**Robotics and artificial intelligence in healthcare during COVID-19 pandemic: A systematic review**](https://www.sciencedirect.com/science/article/pii/S0921889021001871) <br/>
 🤓 *Sujan Sarker, Lafifa Jamal, Syeda Faiza Ahmed, Niloy Irtisam <br/>
-
 
 * [**Skeleton-Based Human Action Recognition on Large-Scale Datasets**](https://link.springer.com/chapter/10.1007/978-3-030-75490-7_5) <br/>
 🤓 Tonmoy Hossain, Sujan Sarker, Sejuti Rahman, Md Atiqur Rahman Ahad <br/>
