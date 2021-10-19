@@ -56,12 +56,39 @@ Shidujaman <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/
 
 ## 2012
 -----------
-* [**Use of Human Cognition in HIP Design Via EmotIcons to Defend BOT Attacks**](https://ieeexplore.ieee.org/document/6417291/) <br/>
-🤓 **Mir Tafseer Nayeem**, Md. Saddam Hossain Mukta , Samsuddin Ahmed, and Md. Mahbubur Rahman <br/>
-📰 15th IEEE International Conference on Computational Science and Engineering ([**IEEE CSE 2012**](http://www.cse2012.cs.ucy.ac.cy/)), Nicosia, Cyprus. <br/>
-👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/IEEE_CSE12_paper.pdf) <span style ="color:Green"> **[Oral Presentation]** </span>
+* [**Robotics and artificial intelligence in healthcare during COVID-19 pandemic: A systematic review**](https://www.sciencedirect.com/science/article/pii/S0921889021001871) <br/>
+🤓 *Sujan Sarker, Lafifa Jamal, Syeda Faiza Ahmed, Niloy Irtisam <br/>
 
-<br/>
+
+* [**Skeleton-Based Human Action Recognition on Large-Scale Datasets**](https://link.springer.com/chapter/10.1007/978-3-030-75490-7_5) <br/>
+🤓 Tonmoy Hossain, Sujan Sarker, Sejuti Rahman, Md Atiqur Rahman Ahad <br/>
+
+* [**Pathfinder: A Fog Assisted Vision-Based System for Optimal Path Selection of Service Robots**](https://ieeexplore.ieee.org/abstract/document/9306573) <br/>
+🤓 Niloy Irtisam, Riad Ahmed, Mohammad Moniruzzaman Akash, Raiyaan Abdullah, Sujan Sarker, Sejuti Rahman, Lafifa Jamal <br/>
+
+* [**Simulation of Pattern Formation of Swarm withMinimum Shape Parameters**](https://ieeexplore.ieee.org/abstract/document/9306556) <br/>
+🤓 Md Tahmeed Abdullah, Md Jubair Ahmed Sourov, Sejuti Rahman, Sujan Sarker <br/>
+
+* [**Development of a Sign Language for Total Paralysis and Interpretation using Deep Learning**](https://ieeexplore.ieee.org/abstract/document/9367362) <br/>
+🤓 **Zahan Zib Sarowar Dhrubo, Md Ashiful Islam Hridoy, Lafifa Jamal, Sujan Sarker, Mohammad Shidujaman <br/>
+
+* [**Minimizing Execution Cost of User Application Codes in Mobile Device Cloud**](https://ieeexplore.ieee.org/abstract/document/9067996) <br/>
+🤓 Sajeeb Saha, Md Ahsan Habib, Sujan Sarkar, Md Abdur Razzaque, Md Mustafizur Rahman <br/>
+
+* [**Deep Reinforcement Learning: A New Frontier in Computer Vision Research**](https://link.springer.com/chapter/10.1007/978-3-030-75490-7_2) <br/>
+🤓 Sejuti Rahman, Sujan Sarker, AKM Nadimul Haque, Monisha Mushtary Uttsha <br/>
+
+* [**Skeleton-Based Activity Recognition: Preprocessing and Approaches**](https://link.springer.com/chapter/10.1007%2F978-3-030-68590-4_2) <br/>
+🤓 Sujan Sarker, Sejuti Rahman, Tonmoy Hossain, Syeda Faiza Ahmed, Lafifa Jamal, Md Atiqur Rahman Ahad <br/>
+
+* [**Minimizing Execution Cost of User Application Codes in Mobile Device Cloud**](https://ieeexplore.ieee.org/abstract/document/9067996) <br/>
+🤓 Sajeeb Saha, Md Ahsan Habib, Sujan Sarkar, Md Abdur Razzaque, Md Mustafizur Rahman <br/>
+
+* [**Multi-Mode Project Scheduling with Limited Resource and Budget Constraints**](https://ieeexplore.ieee.org/abstract/document/8660864) <br/>
+🤓 Babe Sultana, Jannatul Ferdous Katha, Sujan Sarker, Md Abdur Razzaque <br/>
+
+* [**Optimizing Deployment Period of Service Replication in 5G Edge Network**](https://ieeexplore.ieee.org/abstract/document/8660902) <br/>
+🤓 Md Shakhawat Hossain, SM Hasib Reza, Sujan Sarker, Md Abdur Razzaque <br/>
 
 # Favorite Quotes
 -------------------
