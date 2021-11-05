@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2021
 -----------
-* **Sujan Sarker**, Lafifa Jamal, Syeda Faiza Ahmed, Niloy Irtisam, **"Robotics and artificial intelligence in healthcare during COVID-19 pandemic: A systematic review"**, Robotics and Autonomous Systems, Volume 146, 2021. (**IF: 3.120**) [**PDF**](https://www.sciencedirect.com/science/article/pii/S0921889021001871)
+* **Sujan Sarker**, Lafifa Jamal, Syeda Faiza Ahmed, Niloy Irtisam, [**"Robotics and artificial intelligence in healthcare during COVID-19 pandemic: A systematic review"**](https://www.sciencedirect.com/science/article/pii/S0921889021001871), Robotics and Autonomous Systems, Volume 146, 2021 (**IF: 3.120**).
 * [**Simple or Complex? Learning to Predict Readability of Bengali Texts**](https://ojs.aaai.org/index.php/AAAI/article/view/17495)<br/>
 🤓 Susmoy Chakraborty\*, **Mir Tafseer Nayeem\***, and Wasi Uddin Ahmad <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
 📰 Thirty-Fifth AAAI Conference on Artificial Intelligence ([**AAAI 2021**](https://aaai.org/Conferences/AAAI-21/)) <br/> 
