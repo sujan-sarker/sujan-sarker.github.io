@@ -5,70 +5,88 @@ permalink: /publications/
 author_profile: true
 ---
 
-[ [**Google Scholar**](https://scholar.google.com/citations?user=uCSts6gAAAAJ&hl=en) \|
+[ [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works&sortby=pubdate) \| [**DBLP**](https://dblp.org/pid/125/2693.html) \| [**Favorite Quotes**](#favorite-quotes) ]
 
-* [**Optimal Selection of Crowdsourcing Workers Balancing Their Utilities and Platform Profit**](https://ieeexplore.ieee.org/abstract/document/8731644)<br/>
-🤓 Sujan Sarker, Md Abdur Razzaque, Mohammad Mehedi Hassan, Ahmad Almogren, Giancarlo Fortino, Mengchu Zhou <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
+## 2021
+-----------
+* [**Simple or Complex? Learning to Predict Readability of Bengali Texts**](https://ojs.aaai.org/index.php/AAAI/article/view/17495)<br/>
+🤓 Susmoy Chakraborty\*, **Mir Tafseer Nayeem\***, and Wasi Uddin Ahmad <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
+📰 Thirty-Fifth AAAI Conference on Artificial Intelligence ([**AAAI 2021**](https://aaai.org/Conferences/AAAI-21/)) <br/> 
+👉 [<span style ="color:Green"> [**Code & Dataset**] </span>](https://github.com/tafseer-nayeem/BengaliReadability) [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_full.pdf) [<span style ="color:Green"> [**Poster**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_poster.pdf) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/U05Pf9Y4tCQ) [<span style ="color:Green"> [**Twitter Thread**] </span>](https://twitter.com/mtnayeem/status/1334590638105378817?s=20)
 
-* [**User mobility and quality-of-experience aware placement of virtual network functions in 5g**](https://www.sciencedirect.com/science/article/abs/pii/S0140366419314227)<br/>
-🤓 Palash Roy, Anika Tahsin, **Sujan Sarker**, Tamal Adhikary, Md Abdur Razzaque, Mohammad Mehedi Hassan <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
+* [**Unsupervised Abstractive Summarization of Bengali Text Documents**](https://www.aclweb.org/anthology/2021.eacl-main.224)<br/>
+🤓 Radia Rayan Chowdhury\*, **Mir Tafseer Nayeem\***, Tahsin Tasnim Mim, Md. Saifur Rahman Chowdhury, and Taufiqul Jannat <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
+📰 16th Conference of the European Chapter of the Association for Computational Linguistics ([**EACL 2021**](https://2021.eacl.org/))<br/>
+👉 [<span style ="color:Green"> [**Code & Dataset**] </span>](https://github.com/tafseer-nayeem/BengaliSummarization) [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/EACL2021/eacl2021_presentation.pdf) [<span style ="color:Green"> [**Poster**] </span>](https://tafseer-nayeem.github.io/files/EACL2021/eacl2021_poster.pdf) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/LrnskktiXcg) [<span style ="color:Green"> [**Twitter Thread**] </span>](https://twitter.com/mtnayeem/status/1350551479283662848?s=20)
 
-* [**A Multiconstrained QoS Aware MAC Protocol for Cluster-Based Cognitive Radio Sensor Networks**](https://journals.sagepub.com/doi/full/10.1155/2015/262871)<br/>
-🤓 Mir Mehedi Ahsan Pritom, **Sujan Sarker**, Md Abdur Razzaque, Mohammad Mehedi Hassan, M Anwar Hossain, Abdulhameed Alelaiwi <br/>
 
-* [**AI-enabled mobile multimedia service instance placement scheme in mobile edge computing**](https://www.sciencedirect.com/science/article/abs/pii/S1389128620312160) <br/>
-🤓 Palash Roy, Sujan Sarker, Md Abdur Razzaque, Mohammad Mehedi Hassan, Salman A AlQahtani, Gianluca Aloi, Giancarlo Fortino <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
+## 2019
+-----------
+* [**Neural Diverse Abstractive Sentence Compression Generation**](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14)<br/>
+🤓 **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, and Yllias Chali <br/>
+📰 41st European Conference on Information Retrieval ([**ECIR 2019**](http://ecir2019.org/)), Cologne, Germany. <br/>
+👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/ECIR_2019_paper.pdf)
 
-* [**Tradeoffs between sensing quality and energy efficiency for context monitoring applications**](https://ieeexplore.ieee.org/abstract/document/7400699) <br/>
-🤓 Sujan Sarker, Amit Kumar Nath, Abdur Razzaque <br/>
+* [**Neural Sentence Fusion for Diversity Driven Abstractive Multi-Document Summarization**](https://www.sciencedirect.com/science/article/pii/S0885230818303449) <br/>
+🤓 Tanvir Ahmed Fuad\*, **Mir Tafseer Nayeem\***, Asif Mahmud, and Yllias Chali <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
+📰 [**Computer Speech & Language**](https://www.journals.elsevier.com/computer-speech-and-language), Elsevier 58 (2019): 216-230. <br/>
+👉 [<span style ="color:Green"> [**Code**] </span>](https://github.com/tafseer-nayeem/NeuFuse) [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CSL_Journal_2019.pdf) 
 
-* [**Deep Learning–Driven Automated Detection of COVID-19 from Radiography Images: a Comparative Analysis**](https://link.springer.com/article/10.1007/s12559-020-09779-5) <br/>
-🤓 Sejuti Rahman, Sujan Sarker, Md Abdullah Al Miraj, Ragib Amin Nihal, AKM Nadimul Haque, Abdullah Al Noman <br/> 
+* [**Automatic Individual Information Aggregation using Publicly Available Social Media Data**](https://ieeexplore.ieee.org/document/9038402) <br/>
+🤓 Sibendu Sarker, Wayne Franz, and **Mir Tafseer Nayeem** <br/>
+📰 22nd International Conference on Computer and Information Technology ([**ICCIT 2019**](https://iccit.org.bd/2019/)), Dhaka, Bangladesh. <br/>
+👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/ICCIT_2019_paper.pdf)
 
-* [**Automated COVID-19 Detection from Chest X-Ray Images: A High-Resolution Network (HRNet) Approach**](https://link.springer.com/article/10.1007/s42979-021-00690-w) <br/>
-🤓 Sifat Ahmed, Tonmoy Hossain, Oishee Bintey Hoque, Sujan Sarker, Sejuti Rahman, Faisal Muhammad Shah <br/>
 
-* [**Energy-efficient scheduling of small cells in 5G: A meta-heuristic approach**](https://www.sciencedirect.com/science/article/abs/pii/S1084804521000138) <br/>
-🤓 Md Shahin Alom Shuvo, Md Azad Rahaman Munna, Sujan Sarker, Tamal Adhikary, Md Abdur Razzaque, Mohammad Mehedi Hassan, Gianluca Aloi, Giancarlo Fortino <br/>
+## 2018
+-----------
+* [**Abstractive Unsupervised Multi-Document Summarization using Paraphrastic Sentence Fusion**](http://aclweb.org/anthology/C18-1102) <br/>
+🤓 **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, and Yllias Chali <br/>
+📰 27th International Conference on Computational Linguistics ([**COLING 2018**](https://coling2018.org/)), Santa Fe, New Mexico, USA. <br/>
+👉 [<span style ="color:Green"> [**Oral Presentation**] </span>](https://tafseer-nayeem.github.io/files/COLING_2018_Presentation.pdf) [<span style ="color:Green"> [**Twitter Thread**] </span>](https://twitter.com/mtnayeem/status/1007565988047409152?s=20) <br/>
+🏆 [<span style="color:Red"> **Area Chair Favorite Paper** </span>](http://coling2018.org/coling-2018-best-papers/) <br/>
+🏆 [<span style="color:Red"> **Best Paper Nomination** </span>](http://coling2018.org/coling-2018-best-papers/)   
 
-* [**Distributed task allocation in Mobile Device Cloud exploiting federated learning and subjective logic**](https://www.sciencedirect.com/science/article/abs/pii/S1383762120302162) <br/>
-🤓 Palash Roy, Sujan Sarker, Md Abdur Razzaque, Md Mamun-or-Rashid, Mohmmad Mehedi Hassan, Giancarlo Fortino <br/>
 
-* [**Optimal Worker Selection for Maximizing Quality-of-Service of Online Food Delivery System**](https://ieeexplore.ieee.org/abstract/document/9068059) <br/>
-🤓 Farhana Huq, Nahar Sultana, Sujan Sarkar, Md Abdur Razzaque, Mosaddek Hossain Kamal Tushar <br/>
+## 2017
+-----------
+* [**Paraphrastic Fusion for Abstractive Multi-Sentence Compression Generation**](https://dl.acm.org/citation.cfm?id=3133106) <br/>
+🤓 **Mir Tafseer Nayeem** and Yllias Chali <br/>
+📰 26th ACM International Conference on Information and Knowledge Management ([**CIKM 2017**](http://www.cikmconference.org/CIKM2017/)), Singapore. <br/>
+👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CIKM_2017_paper.pdf) <br/>
+🏆 [<span style="color:Red"> **ACM SIGIR Student Travel Grant** </span>](https://sigir.org/general-information/travel-grants/)
 
-* [**Robotics and artificial intelligence in healthcare during COVID-19 pandemic: A systematic review**](https://www.sciencedirect.com/science/article/pii/S0921889021001871) <br/>
-🤓 *Sujan Sarker, Lafifa Jamal, Syeda Faiza Ahmed, Niloy Irtisam <br/>
 
-* [**Skeleton-Based Human Action Recognition on Large-Scale Datasets**](https://link.springer.com/chapter/10.1007/978-3-030-75490-7_5) <br/>
-🤓 Tonmoy Hossain, Sujan Sarker, Sejuti Rahman, Md Atiqur Rahman Ahad <br/>
 
-* [**Pathfinder: A Fog Assisted Vision-Based System for Optimal Path Selection of Service Robots**](https://ieeexplore.ieee.org/abstract/document/9306573) <br/>
-🤓 Niloy Irtisam, Riad Ahmed, Mohammad Moniruzzaman Akash, Raiyaan Abdullah, Sujan Sarker, Sejuti Rahman, Lafifa Jamal <br/>
+* [**Towards Abstractive Multi-Document Summarization Using Submodular Function-Based Framework, Sentence Compression and Merging**](http://www.aclweb.org/anthology/I17-2071) <br/>
+🤓 Yllias Chali, Moin Mahmud Tanvee, and **Mir Tafseer Nayeem** <br/>
+📰 8th International Joint Conference on Natural Language Processing ([**IJCNLP 2017**](https://aclanthology.org/venues/ijcnlp/)), Taipei, Taiwan.
 
-* [**Simulation of Pattern Formation of Swarm withMinimum Shape Parameters**](https://ieeexplore.ieee.org/abstract/document/9306556) <br/>
-🤓 Md Tahmeed Abdullah, Md Jubair Ahmed Sourov, Sejuti Rahman, Sujan Sarker <br/>
+* [**Extract with Order for Coherent Multi-Document Summarization**](http://www.aclweb.org/anthology/W17-2407) <br/>
+🤓 **Mir Tafseer Nayeem** and Yllias Chali <br/>
+📰 55th Annual Meeting of the Association for Computational Linguistics ([**ACL-2017 Workshop**](http://acl2017.org/)), Vancouver, Canada. <br/>
+👉 [<span style ="color:Green"> [**Oral Presentation**] </span>](https://tafseer-nayeem.github.io/files/ACL_Workshop_2017_Presentation.pdf)
 
-* [**Development of a Sign Language for Total Paralysis and Interpretation using Deep Learning**](https://ieeexplore.ieee.org/abstract/document/9367362) <br/>
-🤓 **Zahan Zib Sarowar Dhrubo, Md Ashiful Islam Hridoy, Lafifa Jamal, Sujan Sarker, Mohammad Shidujaman <br/>
 
-* [**Minimizing Execution Cost of User Application Codes in Mobile Device Cloud**](https://ieeexplore.ieee.org/abstract/document/9067996) <br/>
-🤓 Sajeeb Saha, Md Ahsan Habib, Sujan Sarkar, Md Abdur Razzaque, Md Mustafizur Rahman <br/>
+## 2014
+-----------
+* [**Design of a Human Interaction Proof (HIP) using Human Cognition in Contextual Natural Conversation**](https://ieeexplore.ieee.org/document/6921454/) <br/>
+🤓 **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir <br/>
+📰 13th IEEE International Conference on Cognitive Informatics and Cognitive Computing ([**IEEE ICCI*CC’14**](https://ieeexplore.ieee.org/xpl/conhome/6911098/proceeding)), London, UK.
 
-* [**Deep Reinforcement Learning: A New Frontier in Computer Vision Research**](https://link.springer.com/chapter/10.1007/978-3-030-75490-7_2) <br/>
-🤓 Sejuti Rahman, Sujan Sarker, AKM Nadimul Haque, Monisha Mushtary Uttsha <br/>
+* [**Human Cognition in Automated Turing Test Design**](https://dl.acm.org/citation.cfm?id=2807119) <br/>
+🤓 **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir <br/>
+📰 International Journal of Software Science and Computational Intelligence ([**IJSSCI**](https://dl.acm.org/toc/ijssci-igi/2014/6/4)) 6.4 (2014): 1-19.
 
-* [**Skeleton-Based Activity Recognition: Preprocessing and Approaches**](https://link.springer.com/chapter/10.1007%2F978-3-030-68590-4_2) <br/>
-🤓 Sujan Sarker, Sejuti Rahman, Tonmoy Hossain, Syeda Faiza Ahmed, Lafifa Jamal, Md Atiqur Rahman Ahad <br/>
 
-* [**Minimizing Execution Cost of User Application Codes in Mobile Device Cloud**](https://ieeexplore.ieee.org/abstract/document/9067996) <br/>
-🤓 Sajeeb Saha, Md Ahsan Habib, Sujan Sarkar, Md Abdur Razzaque, Md Mustafizur Rahman <br/>
+## 2012
+-----------
+* [**Use of Human Cognition in HIP Design Via EmotIcons to Defend BOT Attacks**](https://ieeexplore.ieee.org/document/6417291/) <br/>
+🤓 **Mir Tafseer Nayeem**, Md. Saddam Hossain Mukta , Samsuddin Ahmed, and Md. Mahbubur Rahman <br/>
+📰 15th IEEE International Conference on Computational Science and Engineering ([**IEEE CSE 2012**](http://www.cse2012.cs.ucy.ac.cy/)), Nicosia, Cyprus. <br/>
+👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/IEEE_CSE12_paper.pdf) <span style ="color:Green"> **[Oral Presentation]** </span>
 
-* [**Multi-Mode Project Scheduling with Limited Resource and Budget Constraints**](https://ieeexplore.ieee.org/abstract/document/8660864) <br/>
-🤓 Babe Sultana, Jannatul Ferdous Katha, Sujan Sarker, Md Abdur Razzaque <br/>
-
-* [**Optimizing Deployment Period of Service Replication in 5G Edge Network**](https://ieeexplore.ieee.org/abstract/document/8660902) <br/>
-🤓 Md Shakhawat Hossain, SM Hasib Reza, Sujan Sarker, Md Abdur Razzaque <br/>
+<br/>
 
 # Favorite Quotes
 -------------------
