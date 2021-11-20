@@ -31,7 +31,7 @@ author_profile: true
 
 ## 2018
 -----------  
-*  B Sultana, JF Katha, **S Sarker**, MA Razzaque, [**"Multi-Mode Project Scheduling with Limited Resource and Budget Constraints"**](https://ieeexplore.ieee.org/abstract/document/8660864), 2018 International Conference on Innovation in Engineering and Technology (ICIET), Bangladesh. Dec 2018. [<span style="color:Red"> **Best Paper Award** </span>]
+*  B Sultana, JF Katha, **S Sarker**, MA Razzaque, [**"Multi-Mode Project Scheduling with Limited Resource and Budget Constraints"**](https://ieeexplore.ieee.org/abstract/document/8660864), 2018 International Conference on Innovation in Engineering and Technology (ICIET), Bangladesh. Dec 2018. <span style="color:Red"> **[Best Paper Award]** </span>
 *  MS Hossain, SMH Reza, **S Sarker**, MA Razzaque, [**"Optimizing Deployment Period of Service Replication in 5G Edge Network"**](https://ieeexplore.ieee.org/abstract/document/8660902), 2018 International Conference on Innovation in Engineering and Technology (ICIET), Bangladesh. Dec 2018.
 
 ## 2016
