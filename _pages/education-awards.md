@@ -7,7 +7,7 @@ author_profile: true
 
 # Education
 
-## 🎓 M.S. in Computer Science
+## 🎓 M.S. in Computer Science and Engineering (CSE)
 --------------------------------
 
 * [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh.
