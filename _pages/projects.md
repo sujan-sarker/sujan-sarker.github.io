@@ -12,21 +12,19 @@ author_profile: true
 ------------------------
 * **IHABOT: Intelligent Hospital Assistance Robot to Fight Contagion by Reducing Doctor-Patient Interaction**, Funding Agency: Centennial Research Grant, University of Dhaka.
 
-## 💻 Undergraduate Course Projects [2008-2012]
+## 💻 Undergraduate Course Projects [2009-2013]
 ---------------------------------------------
-* Developed  a system  that  recognizes  syntactically  correct  affirmative  and negative sentences (*Python*).
-* Built a user centered model *“Virtual Shop Guide”* for Online Cloth Store with dynamic fictitious graphic characters.
-* A  multi-player  Game  with  advanced  graphics  like  fog,  lighting,  particle system, reflections and collision detection with improved  speed and appearance (*OpenGl, C++*).
-* A multi-player & multi-level mobile game using NetBeans Game Builder (*J2ME*).
-* JDM: A Multithreaded Java Download Manager with real life features (*JAVA*).
-* Online Cloth Store with advanced features (*ASP.net, JavaScript and AJAX*).
-* Swap or Exchange Website integrated with paypal.com (*PHP, MySQL*).
-* Personal Scheduler and Appointment Manager (*PHP framework Code Igniter, MySQL*).
-* Case Study: Implementing and documenting a Web Based Music CD Store using UML.
-* Analysis and Design of Routine Management System (*Visual Basic, MS Access*).
-* Cafeteria Management System Software (*Visual Basic, MS Access*).
-* Displaying Bangla Characters using Segment Displays (*Software Used: DSCH*).
-* Hall Management System Software (*Language: Turbo C with excellent GUI*).
+* Developed traditional multi-player game Ludo (C, C++, OpenGL) 
+* Built digital two player Tic Tac Toe game using logic gates
+* Developed a remote controlled helicopter using microcontroller programming    
+* Built a text editor with some extra functionalities using object oriented programming (Java)
+* Developed a LAN massenger and file sharing application using Java Socket programming
+* Developed a web based automated routine management system for any educational institution usng PHP and MySQL
+* Developed a web based application for managing student's information using PHP, MySQL, Ajax, jQuery
+* Developed a full functional E-Commerce website using codeigniter framework
+* Developed a web service for calculator application using Java and Apache Tomcat server
+* Wesign and write a compiler for C language using lex and yacc
+
 
 --------------------------
 
