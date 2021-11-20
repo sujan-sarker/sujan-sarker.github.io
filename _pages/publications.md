@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[ [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=uCSts6gAAAAJ&view_op=list_works&sortby=pubdate) \| [**DBLP**](https://dblp.org/pid/183/5530.html) \| [**Favorite Quotes**](#) ]
+[ [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=uCSts6gAAAAJ&view_op=list_works&sortby=pubdate) \| [**DBLP**](https://dblp.org/pid/183/5530.html)]
 
 ## 2021
 -----------
@@ -48,15 +48,3 @@ author_profile: true
 * MMA Pritom, **Sujan Sarker**, MA Razzaque, MM Hassan, MA Hossain, [**"A Multi-constrained QoS Aware MAC Protocol for Cluster-based Cognitive Radio Sensor Networks"**](https://journals.sagepub.com/doi/full/10.1155/2015/262871), International Journal of Distributed Sensor Networks, vol. 11, no. 5, 2015 (**IF:  1.151**). 
 
 <br/>
-
-# Favorite Quotes
--------------------
-
-[**Back to Top**](#)
-
-<img src="https://tafseer-nayeem.github.io/images/quotes.png" alt="Favorite Quotes"
-	title="Favorite Quotes" width="840" height="70">
-
-*Image Source: Google Image Search*
-
-[**Back to Top**](#)
