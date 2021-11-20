@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download Full CV](https://sujan-sarker.github.io/files/resume_sujan.pdf) <span style ="color:Green"> [<ins>*Last Updated on Oct 20, 2021*</ins>] </span>
+[Download Full CV](https://sujan-sarker.github.io/files/resume_sujan.pdf) <span style ="color:Green"> [<ins>*Last Updated on Nov 20, 2021*</ins>] </span>
 
 ## Contact Me
 -------------
