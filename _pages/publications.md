@@ -23,25 +23,11 @@ author_profile: true
 ## 2020
 -----------
 * Palash Roy, **Sujan Sarker**, Md. Abdur Razzaque, Mohammad Mehedi Hassan, Salman A. AlQahtani, Gianluca Aloi, Giancarlo Fortino, [**"AI-enabled mobile multimedia service instance placement scheme in mobile edge computing"**](https://www.sciencedirect.com/science/article/abs/pii/S1389128620312160), Computer Networks, Volume 182, 2020 (**IF:  3.111**). 
-* Palash Roy, Anika Tahsin, \textbf{Sujan Sarker}, Tamal Adhikary, Md. Abdur Razzaque, Mohammad Mehedi Hassan, [**"User mobility and Quality-of-Experience aware placement of Virtual Network Functions in 5G"**](https://www.sciencedirect.com/science/article/abs/pii/S0140366419314227), Computer Communications, Volume 150, 2020 (**IF:  2.816**). 
+* Palash Roy, Anika Tahsin, **Sujan Sarker**, Tamal Adhikary, Md. Abdur Razzaque, Mohammad Mehedi Hassan, [**"User mobility and Quality-of-Experience aware placement of Virtual Network Functions in 5G"**](https://www.sciencedirect.com/science/article/abs/pii/S0140366419314227), Computer Communications, Volume 150, 2020 (**IF:  2.816**). 
 
 ## 2019
 -----------
-* [**Neural Diverse Abstractive Sentence Compression Generation**](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14)<br/>
-🤓 **Mir Tafseer Nayeem**, Tanvir Ahmed Fuad, and Yllias Chali <br/>
-📰 41st European Conference on Information Retrieval ([**ECIR 2019**](http://ecir2019.org/)), Cologne, Germany. <br/>
-👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/ECIR_2019_paper.pdf)
-
-* [**Neural Sentence Fusion for Diversity Driven Abstractive Multi-Document Summarization**](https://www.sciencedirect.com/science/article/pii/S0885230818303449) <br/>
-🤓 Tanvir Ahmed Fuad\*, **Mir Tafseer Nayeem\***, Asif Mahmud, and Yllias Chali <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
-📰 [**Computer Speech & Language**](https://www.journals.elsevier.com/computer-speech-and-language), Elsevier 58 (2019): 216-230. <br/>
-👉 [<span style ="color:Green"> [**Code**] </span>](https://github.com/tafseer-nayeem/NeuFuse) [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CSL_Journal_2019.pdf) 
-
-* [**Automatic Individual Information Aggregation using Publicly Available Social Media Data**](https://ieeexplore.ieee.org/document/9038402) <br/>
-🤓 Sibendu Sarker, Wayne Franz, and **Mir Tafseer Nayeem** <br/>
-📰 22nd International Conference on Computer and Information Technology ([**ICCIT 2019**](https://iccit.org.bd/2019/)), Dhaka, Bangladesh. <br/>
-👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/ICCIT_2019_paper.pdf)
-
+* **Sujan Sarker**, MA Razzaque, MM Hassan, A Almogren, G Fortino, M Zhou, [**"Optimal Selection of Crowdsourcing Workers Balancing Their Utilities and Platform Profit"**](https://ieeexplore.ieee.org/abstract/document/8731644), IEEE Internet of Things Journal, vol. 6, no. 5, 2019 (**IF:  9.936**). 
 
 ## 2018
 -----------
@@ -53,43 +39,13 @@ author_profile: true
 🏆 [<span style="color:Red"> **Best Paper Nomination** </span>](http://coling2018.org/coling-2018-best-papers/)   
 
 
-## 2017
+## 2016
 -----------
-* [**Paraphrastic Fusion for Abstractive Multi-Sentence Compression Generation**](https://dl.acm.org/citation.cfm?id=3133106) <br/>
-🤓 **Mir Tafseer Nayeem** and Yllias Chali <br/>
-📰 26th ACM International Conference on Information and Knowledge Management ([**CIKM 2017**](http://www.cikmconference.org/CIKM2017/)), Singapore. <br/>
-👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/CIKM_2017_paper.pdf) <br/>
-🏆 [<span style="color:Red"> **ACM SIGIR Student Travel Grant** </span>](https://sigir.org/general-information/travel-grants/)
 
 
-
-* [**Towards Abstractive Multi-Document Summarization Using Submodular Function-Based Framework, Sentence Compression and Merging**](http://www.aclweb.org/anthology/I17-2071) <br/>
-🤓 Yllias Chali, Moin Mahmud Tanvee, and **Mir Tafseer Nayeem** <br/>
-📰 8th International Joint Conference on Natural Language Processing ([**IJCNLP 2017**](https://aclanthology.org/venues/ijcnlp/)), Taipei, Taiwan.
-
-* [**Extract with Order for Coherent Multi-Document Summarization**](http://www.aclweb.org/anthology/W17-2407) <br/>
-🤓 **Mir Tafseer Nayeem** and Yllias Chali <br/>
-📰 55th Annual Meeting of the Association for Computational Linguistics ([**ACL-2017 Workshop**](http://acl2017.org/)), Vancouver, Canada. <br/>
-👉 [<span style ="color:Green"> [**Oral Presentation**] </span>](https://tafseer-nayeem.github.io/files/ACL_Workshop_2017_Presentation.pdf)
-
-
-## 2014
+## 2015
 -----------
-* [**Design of a Human Interaction Proof (HIP) using Human Cognition in Contextual Natural Conversation**](https://ieeexplore.ieee.org/document/6921454/) <br/>
-🤓 **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir <br/>
-📰 13th IEEE International Conference on Cognitive Informatics and Cognitive Computing ([**IEEE ICCI*CC’14**](https://ieeexplore.ieee.org/xpl/conhome/6911098/proceeding)), London, UK.
-
-* [**Human Cognition in Automated Turing Test Design**](https://dl.acm.org/citation.cfm?id=2807119) <br/>
-🤓 **Mir Tafseer Nayeem**, Md Mamunur Rashid Akand, Nazmus Sakib, and Md. Wasi Ul Kabir <br/>
-📰 International Journal of Software Science and Computational Intelligence ([**IJSSCI**](https://dl.acm.org/toc/ijssci-igi/2014/6/4)) 6.4 (2014): 1-19.
-
-
-## 2012
------------
-* [**Use of Human Cognition in HIP Design Via EmotIcons to Defend BOT Attacks**](https://ieeexplore.ieee.org/document/6417291/) <br/>
-🤓 **Mir Tafseer Nayeem**, Md. Saddam Hossain Mukta , Samsuddin Ahmed, and Md. Mahbubur Rahman <br/>
-📰 15th IEEE International Conference on Computational Science and Engineering ([**IEEE CSE 2012**](http://www.cse2012.cs.ucy.ac.cy/)), Nicosia, Cyprus. <br/>
-👉 [<span style ="color:Green"> [**PDF**] </span>](https://tafseer-nayeem.github.io/files/IEEE_CSE12_paper.pdf) <span style ="color:Green"> **[Oral Presentation]** </span>
+* MMA Pritom, **Sujan Sarker**, MA Razzaque, MM Hassan, MA Hossain, [**"A Multi-constrained QoS Aware MAC Protocol for Cluster-based Cognitive Radio Sensor Networks"**](https://journals.sagepub.com/doi/full/10.1155/2015/262871), International Journal of Distributed Sensor Networks, vol. 11, no. 5, 2015 (**IF:  1.151**). 
 
 <br/>
 
