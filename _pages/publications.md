@@ -24,10 +24,15 @@ author_profile: true
 -----------
 * Palash Roy, **Sujan Sarker**, Md. Abdur Razzaque, Mohammad Mehedi Hassan, Salman A. AlQahtani, Gianluca Aloi, Giancarlo Fortino, [**"AI-enabled mobile multimedia service instance placement scheme in mobile edge computing"**](https://www.sciencedirect.com/science/article/abs/pii/S1389128620312160), Computer Networks, Volume 182, 2020 (**IF:  3.111**). 
 * Palash Roy, Anika Tahsin, **Sujan Sarker**, Tamal Adhikary, Md. Abdur Razzaque, Mohammad Mehedi Hassan, [**"User mobility and Quality-of-Experience aware placement of Virtual Network Functions in 5G"**](https://www.sciencedirect.com/science/article/abs/pii/S0140366419314227), Computer Communications, Volume 150, 2020 (**IF:  2.816**). 
+* Zahan Zib Sarowar Dhrubo, Md. Ashiful Islam Hridoy, Lafifa Jamal, **Sujan Sarker**, Mohammad Shidujaman, [**"Development of a Sign Language for Total Paralysis and Interpretation using Deep Learning"**](https://ieeexplore.ieee.org/abstract/document/9367362), IEEE International Conference on Image Processing and Robotics (ICIPRoB), Negombo, Srilanka, March 2020.
+* N Irtisam, R Ahmed, MM Akash, R Abdullah, **S Sarker**, S Rahman, L Jamal, [**"Pathfinder: A Fog Assisted Vision-Based System for Optimal Path Selection of Service Robots"**](https://ieeexplore.ieee.org/abstract/document/9306573), 2020 9th International Conference on Informatics, Electronics \& Vision (ICIEV), Kitakyushu, Japan. Aug 2020.
+* M. T. Abdullah, M. J. A. Sourov, S. Rahman and **S. Sarker**, [**"Simulation of Pattern Formation of Swarm withMinimum Shape Parameters"**](https://ieeexplore.ieee.org/abstract/document/9306556), 2020 9th International Conference on Informatics, Electronics \& Vision (ICIEV), Kitakyushu, Japan. Aug 2020.
 
 ## 2019
 -----------
 * **Sujan Sarker**, MA Razzaque, MM Hassan, A Almogren, G Fortino, M Zhou, [**"Optimal Selection of Crowdsourcing Workers Balancing Their Utilities and Platform Profit"**](https://ieeexplore.ieee.org/abstract/document/8731644), IEEE Internet of Things Journal, vol. 6, no. 5, 2019 (**IF:  9.936**). 
+*  S. Saha, M. A. Habib, **S. Sarkar**, M. A. Razzaque and M. M. Rahman, [**"Minimizing Execution Cost of User Application Codes in Mobile Device Cloud"**](https://ieeexplore.ieee.org/abstract/document/9067996), 2019 International Conference on Sustainable Technologies for Industry 4.0 (STI), Dhaka, Bangladesh, 2019. <span style="color:Red"> **[Best Paper Award]** </span>
+*  F. Huq, N. Sultana, **S. Sarkar**, M. A. Razzaque and M. H. Kamal Tushar, [**"Optimal Worker Selection for Maximizing Quality-of-Service of Online Food Delivery System"**](https://ieeexplore.ieee.org/abstract/document/9068059), 2019 International Conference on Sustainable Technologies for Industry 4.0 (STI), Dhaka, Bangladesh, 2019. 
 
 ## 2018
 -----------  
