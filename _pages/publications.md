@@ -20,6 +20,10 @@ author_profile: true
 * **Sujan Sarker**, Sejuti Rahman, Tonmoy Hossain, Syeda Faiza Ahmed, Lafifa Jamal, and Md. Atiqur Rahman Ahad, [**"Skeleton-Based Activity Recognition: Preprocessing and Approaches"**](https://link.springer.com/chapter/10.1007\%2F978-3-030-68590-4_2), Contactless Human Activity Analysis, Springer Nature Switzerland AG (2021). 
 * Sejuti Rahman, **Sujan Sarker**, A. K. M. Nadimul Haque and Monisha Mushtary Uttsha, [**"Deep Reinforcement Learning: A New Frontier in Computer Vision Research"**](https://link.springer.com/chapter/10.1007/978-3-030-75490-7_2), Vision, Sensing and Analytics: Integrative Approaches. Springer, Cham, 2021. 
 
+## 2020
+-----------
+* Palash Roy, **Sujan Sarker**, Md. Abdur Razzaque, Mohammad Mehedi Hassan, Salman A. AlQahtani, Gianluca Aloi, Giancarlo Fortino, [**"AI-enabled mobile multimedia service instance placement scheme in mobile edge computing"**](https://www.sciencedirect.com/science/article/abs/pii/S1389128620312160), Computer Networks, Volume 182, 2020 (**IF:  3.111**). 
+* Palash Roy, Anika Tahsin, \textbf{Sujan Sarker}, Tamal Adhikary, Md. Abdur Razzaque, Mohammad Mehedi Hassan, [**"User mobility and Quality-of-Experience aware placement of Virtual Network Functions in 5G"**](https://www.sciencedirect.com/science/article/abs/pii/S0140366419314227), Computer Communications, Volume 150, 2020 (**IF:  2.816**). 
 
 ## 2019
 -----------
