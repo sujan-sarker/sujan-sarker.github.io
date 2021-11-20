@@ -7,15 +7,15 @@ author_profile: true
 
 # Education
 
-## 🎓 M.Sc. in Computer Science
+## 🎓 M.S. in Computer Science
 --------------------------------
 
-* [University of Lethbridge (UofL)](https://www.uleth.ca/), Alberta, Canada.
-* **CGPA:  4.00** <span style ="color:Green"> [*out of 4.00* ] </span>
-* **Thesis Title:** [*"Methods of Sentence Extraction, Abstraction, and Ordering for Automatic Text Summarization"*](https://opus.uleth.ca/bitstream/handle/10133/4993/NAYEEM_MIR_TAFSEER_MSC_2017.pdf) 
-* **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/MSc_Thesis_Presenation.pdf) 
-* **Supervisor:** [Dr. Yllias Chali](http://www.cs.uleth.ca/~chali/), Professor, CS Department.
-* **Committee Members:** [Dr. Wendy Osborn](http://directory.uleth.ca/users/wendy.osborn), [Dr. John Anvik ](http://directory.uleth.ca/users/john.anvik)
+* [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh.
+* **CGPA:  3.92** <span style ="color:Green"> [*out of 4.00* ] </span>
+* **Thesis Title:** [*"Optimal Selection of Crowdsourcing Workers Balancing their Utilities and Platform Profit"*](https://sujan-sarker.github.io/files/MS_thesis_report_sujan.pdf) 
+* **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://sujan-sarker.github.io/files/MS_thesis_presenation.pdf) 
+* **Supervisor:** [Dr. Md. Abdur Razzaque](https://www.cse.du.ac.bd/profile/?faculty=AR), Professor, Department of Computer Science and Engineering, University of dhaka.
+* **Committee Members:** [Dr. A. B. M. Alim Al Islam](https://cse.buet.ac.bd/faculty_list/detail/razi), [DR. MD. MAMUN-OR-RASHID ](https://www.cse.du.ac.bd/profile/?faculty=MR)
 
 
 ## 🎓 B.Sc. in Computer Science and Information Technology
