@@ -13,7 +13,7 @@ author_profile: true
 * [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh.
 * **CGPA:  3.92** <span style ="color:Green"> [*out of 4.00* ] </span>
 * **Thesis Title:** [*"Optimal Selection of Crowdsourcing Workers Balancing their Utilities and Platform Profit"*](https://sujan-sarker.github.io/files/MS_thesis_report_sujan.pdf) 
-* **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://sujan-sarker.github.io/files/MS_thesis_presentation.pdf) 
+* **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://sujan-sarker.github.io/files/MS_thesis_presentation.pptx) 
 * **Supervisor:** [Dr. Md. Abdur Razzaque](https://www.cse.du.ac.bd/profile/?faculty=AR), Professor, Department of Computer Science and Engineering, University of dhaka.
 * **Committee Members:** [Dr. A. B. M. Alim Al Islam](https://cse.buet.ac.bd/faculty_list/detail/razi), [DR. MD. MAMUN-OR-RASHID ](https://www.cse.du.ac.bd/profile/?faculty=MR)
 
