@@ -10,16 +10,10 @@ author_profile: true
 ## 2021
 -----------
 * **Sujan Sarker**, Lafifa Jamal, Syeda Faiza Ahmed, Niloy Irtisam, [**"Robotics and artificial intelligence in healthcare during COVID-19 pandemic: A systematic review"**](https://www.sciencedirect.com/science/article/pii/S0921889021001871), Robotics and Autonomous Systems, Volume 146, 2021 (**IF: 3.120**).
-* [**Simple or Complex? Learning to Predict Readability of Bengali Texts**](https://ojs.aaai.org/index.php/AAAI/article/view/17495)<br/>
-🤓 Susmoy Chakraborty\*, **Mir Tafseer Nayeem\***, and Wasi Uddin Ahmad <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
-📰 Thirty-Fifth AAAI Conference on Artificial Intelligence ([**AAAI 2021**](https://aaai.org/Conferences/AAAI-21/)) <br/> 
-👉 [<span style ="color:Green"> [**Code & Dataset**] </span>](https://github.com/tafseer-nayeem/BengaliReadability) [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_full.pdf) [<span style ="color:Green"> [**Poster**] </span>](https://tafseer-nayeem.github.io/files/AAAI2021/aaai2021_poster.pdf) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/U05Pf9Y4tCQ) [<span style ="color:Green"> [**Twitter Thread**] </span>](https://twitter.com/mtnayeem/status/1334590638105378817?s=20)
-
-* [**Unsupervised Abstractive Summarization of Bengali Text Documents**](https://www.aclweb.org/anthology/2021.eacl-main.224)<br/>
-🤓 Radia Rayan Chowdhury\*, **Mir Tafseer Nayeem\***, Tahsin Tasnim Mim, Md. Saifur Rahman Chowdhury, and Taufiqul Jannat <span style ="color:BlueViolet"> [\**Equal Contribution*]</span> <br/>
-📰 16th Conference of the European Chapter of the Association for Computational Linguistics ([**EACL 2021**](https://2021.eacl.org/))<br/>
-👉 [<span style ="color:Green"> [**Code & Dataset**] </span>](https://github.com/tafseer-nayeem/BengaliSummarization) [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/EACL2021/eacl2021_presentation.pdf) [<span style ="color:Green"> [**Poster**] </span>](https://tafseer-nayeem.github.io/files/EACL2021/eacl2021_poster.pdf) [<span style ="color:Green"> [**Demo Video**] </span>](https://youtu.be/LrnskktiXcg) [<span style ="color:Green"> [**Twitter Thread**] </span>](https://twitter.com/mtnayeem/status/1350551479283662848?s=20)
-
+* Sejuti Rahman, **Sujan Sarker**, Md Abdullah Al Miraj, Ragib Amin Nihal, A. K. M. Nadimul Haque, Abdullah Al Noman, [**"Deep Learning–Driven Automated Detection of COVID-19 from Radiography Images: a Comparative Analysis"**](https://link.springer.com/article/10.1007/s12559-020-09779-5), Cognitive Computation, 2021 (**IF: 4.307**).
+* Sifat Ahmed, Tonmoy Hossain, Oishee Bintey Hoque, **Sujan Sarker**, Sejuti Rahman, Faisal Muhammad Shah, [**"Automated COVID-19 Detection from Chest X-Ray Images : A High Resolution Network (HRNet) Approach"**](https://link.springer.com/article/10.1007/s42979-021-00690-w), SN Computer Science 2, no. 4 (2021): 1-17.
+* Md. Shahin Alom Shuvo, Md. Azad Rahaman Munna, **Sujan Sarker**, Tamal Adhikary, Md. Abdur Razzaque, Mohammad Mehedi Hassan, Gianluca Aloi, Giancarlo Fortino, [**"Energy-efficient scheduling of small cells in 5G: A meta-heuristic approach"**](https://www.sciencedirect.com/science/article/abs/pii/S1084804521000138), Journal of Network and Computer Applications, Volume 178, 2021 (**IF: 5.570**).
+*  Palash Roy, **Sujan Sarker**, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Mohmmad Mehedi Hassan, Giancarlo Fortino, [**"Distributed task allocation in Mobile Device Cloud exploiting federated learning and subjective logic"**](https://www.sciencedirect.com/science/article/abs/pii/S1084804521000138), Journal of Systems Architecture, Volume 113, 2021 (**IF: 2.552**). 
 
 ## 2019
 -----------
