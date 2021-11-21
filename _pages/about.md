@@ -12,7 +12,7 @@ Thanks for stopping by!
 
 My name is Sujan Sarker. I graduated with a M.Sc. degree in Computer Science and Engineering from the [University of Dhaka(DU)](https://www.du.ac.bd/), Dhaka, Bangladesh. Now, I am appointed as a lecturer in Department of Robotics and Mechatronics in DU. My research interests include, but are not limited to, Natural Language Processing, Computational Social Science, and Recommender Systems. My work was nominated for [<span style="color:Red"> **Best Paper Award**</span>](http://coling2018.org/coling-2018-best-papers/) and selected as <span style="color:Red"> **Area Chair Favorite Paper** </span> at [COLING 2018](http://coling2018.org). Currently, I am working as a faculty member at [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/cse), Dhaka, Bangladesh. 
 
-**For additional information, please see my [CV](https://sujansarker.github.io/cv/) and [publications](https://sujansarker.github.io/publications/).**
+**For additional information, please see my [CV](https://sujan-sarker.github.io/cv/) and [publications](https://sujan-sarker.github.io/publications/).**
 
 
 <!-- <a href="https://sujansarker.github.io/publications/"> <img src="https://sujansarker.github.io/images/pubs.png" alt="Publication Venues"
@@ -32,17 +32,17 @@ My name is Sujan Sarker. I graduated with a M.Sc. degree in Computer Science and
 * 📢 <span style="color:Blue"> [Aug 2017] </span> - I attended [ACL 2017](http://acl2017.org/) in Vancouver, and presented a [workshop paper](http://www.aclweb.org/anthology/W17-2407).  
 * 📢 <span style="color:Blue"> [Apr 2017] </span> - Gave a talk on [Introduction to NLTK.](https://tafseer-nayeem.github.io/files/Introduction_to_NLTK.pdf)
 
-## Recent Project Demonstrations 
+<!-- ## Recent Project Demonstrations 
 
 * 💻 Bengali Document Readability Checker [[Demo Video]](https://youtu.be/U05Pf9Y4tCQ).
 * 💻 Bengali Document Summarization Tool [[Demo Video]](https://youtu.be/LrnskktiXcg).
-
+-->
 ----------------------------------------
 
 [**Back to Top**](#)
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=320&t=m&d=ipF0iF0Q-RsFHP1VWejYRbFjf-eSQyozfam19f0UfGo'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=320&t=m&d=ipF0iF0Q-RsFHP1VWejYRbFjf-eSQyozfam19f0UfGo'></script> -->
 
 
 
