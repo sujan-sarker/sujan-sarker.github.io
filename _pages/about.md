@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for stopping by!
-
-My name is Sujan Sarker. I graduated with a M.Sc. degree in Computer Science and Engineering from the [University of Dhaka(DU)](https://www.du.ac.bd/), Dhaka, Bangladesh. Now, I am appointed as a lecturer in Department of Robotics and Mechatronics in DU. My research interests include, but are not limited to, Natural Language Processing, Computational Social Science, and Recommender Systems. My work was nominated for [<span style="color:Red"> **Best Paper Award**</span>](http://coling2018.org/coling-2018-best-papers/) and selected as <span style="color:Red"> **Area Chair Favorite Paper** </span> at [COLING 2018](http://coling2018.org). Currently, I am working as a faculty member at [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/cse), Dhaka, Bangladesh. 
+Thanks for visiting!
+I am Sujan Sarker. I have completed my Master of Science (M.S.) and Bachelor of Science (B.Sc.) degrees in Computer Science and Engineering (CSE) from the  Department of Computer Science and Engineering, [University of Dhaka(DU)](https://www.du.ac.bd/), Dhaka, Bangladesh. Now, I am working as an assistant professor at the Department of Robotics and Mechatronics in the same university. My research interests include, but are not limited to, Mobile crowdsensing, Edge computing, Internet of Things (IoT), Multi-agent Systems, and Human Robot Interaction (HRI).  
 
 **For additional information, please see my [CV](https://sujan-sarker.github.io/cv/) and [publications](https://sujan-sarker.github.io/publications/).**
 
