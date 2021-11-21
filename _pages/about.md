@@ -21,7 +21,7 @@ My name is Sujan Sarker. I graduated with a M.Sc. degree in Computer Science and
 
 
 ## Recent News
-
+* 📢 <span style="color:Blue"> [Oct 2021] </span> - One conference paper got accepted to  [NSysS 2021](https://cse.buet.ac.bd/nsyss2021/).
 * 📢 <span style="color:Blue"> [Oct 2021] </span> - One [journal paper](https://www.sciencedirect.com/science/article/pii/S0921889021001871) got accepted to  [Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems).
 * 📢 <span style="color:Blue"> [Jan 2019] </span> - One [paper](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_14) got accepted at [ECIR 2019](http://ecir2019.org/).
 * 📢 <span style="color:Blue"> [Jun 2018] </span> - Nominated for the [**Best Paper Award**](http://coling2018.org/coling-2018-best-papers/) 🏆 at COLING 2018.
