@@ -13,23 +13,23 @@ author_profile: true
 * [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh.
 * **CGPA:  3.92** <span style ="color:Green"> [*out of 4.00* ] </span>
 * **Thesis Title:** [*"Optimal Selection of Crowdsourcing Workers Balancing their Utilities and Platform Profit"*](https://sujan-sarker.github.io/files/MS_thesis_report_sujan.pdf) 
-* **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://sujan-sarker.github.io/files/MS_thesis_presentation.pptx) 
+* **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://sujan-sarker.github.io/files/MS_thesis_presentation.pdf) 
 * **Supervisor:** [Dr. Md. Abdur Razzaque](https://www.cse.du.ac.bd/profile/?faculty=AR), Professor, Department of Computer Science and Engineering, University of dhaka.
 * **Committee Members:** [Dr. A. B. M. Alim Al Islam](https://cse.buet.ac.bd/faculty_list/detail/razi), [DR. MD. MAMUN-OR-RASHID ](https://www.cse.du.ac.bd/profile/?faculty=MR)
 
 
-## 🎓 B.Sc. in Computer Science and Information Technology
+## 🎓 B.Sc. in Computer Science and Engineering (CSE)
 -----------------------------------------------------------
 
 
-* [Islamic University of Technology (IUT)](https://www.iutoic-dhaka.edu/), Dhaka, Bangladesh.
-* **CGPA:  3.92** <span style ="color:Green"> [*out of 4.00* ] </span>
-* **Thesis title:** [*"Designing a Probabilistic Path Selection Model for Vehicular Networks"*](https://tafseer-nayeem.github.io/files/BSc_Thesis.pdf) 
-* **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/BSc_Thesis_Presentation.pdf) 
-* **Supervisor:** [Dr. Muhammad Mahbub Alam](https://scholar.google.com/citations?user=5sjCt8cAAAAJ&hl=en), Professor, CSE Department.
+* [University of Dhaka](https://www.du.ac.bd/), Dhaka, Bangladesh.
+* **CGPA:  3.82** <span style ="color:Green"> [*out of 4.00* ] </span>
+* **Thesis title:** [*"Multi-constraint QoS Aware MAC Protocol for Cluster Based Cognitive Radio Sensor Networks"*](https://sujan-sarker.github.io/files/BSc_thesis_report_sujan.pdf) 
+* **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://sujan-sarker.github.io/files/BSc_thesis_presentation.pdf) 
+* **Supervisor:** [Dr. Md. Abdur Razzaque](https://www.cse.du.ac.bd/profile/?faculty=AR), Professor, Department of Computer Science and Engineering, University of dhaka.
 
 
-<!-- <a href="https://tafseer-nayeem.github.io/education-awards/"> <img src="https://tafseer-nayeem.github.io/images/educations.png" alt="Education"
+<!-- <a href="https://tafseer-nayeem.github.io/education-awards/"> <img src="https://sujan-sarker.github.io/images/educations.png" alt="Education"
 	title="Education" width="500" height="50"> </a>
 -->
 ------------------------------------------------------
