@@ -9,12 +9,12 @@ author_profile: true
 -------------------------
 
 1. **Program Committee/Reviewer**
-	- **2021:** [AAAI](https://aaai.org/Conferences/AAAI-21/)*
-	- **2020:** [ICCIT](http://iccit.org.bd/2020/) 
-	- **2019:** [ACL](https://acl2019.org/EN/index.xhtml.html)*, [ICIET](http://www.enggtech.du.ac.bd/iciet-2019/)
-	- **2015:** [IEEE SysCon](https://2021.ieeesyscon.org/)
+	- **2021:** [STI](http://fse.green.edu.bd/sti-2021/), [NSysS](https://cse.buet.ac.bd/nsyss2021/) 
+	- **2020:** [STI](http://fse.green.edu.bd/sti-2021/)
+	- **2019:** [ICIET](http://www.enggtech.du.ac.bd/iciet-2019/)
+	
 2. **Journal Reviewer**
-	- [IJSSCI](https://www.igi-global.com/journal/international-journal-software-science-computational/1124), [Computer Speech & Language](https://www.journals.elsevier.com/computer-speech-and-language)
+	- [IEEE Internet of Things Journal](https://ieee-iotj.org/), [IEEE Access](https://ieeeaccess.ieee.org/)
 
 ## 👨‍🏫 Invited Talks
 ----------------
