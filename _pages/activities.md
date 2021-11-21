@@ -16,21 +16,27 @@ author_profile: true
 2. **Journal Reviewer**
 	- [IEEE Internet of Things Journal](https://ieee-iotj.org/), [IEEE Access](https://ieeeaccess.ieee.org/)
 
-## 👨‍🏫 Invited Talks
+## 👨‍🏫 Invited Talks, Seminars and Workshops
 ----------------
-- <span style="color:Blue"> [Apr 2017] </span> - Talk on [Introduction to NLTK](https://tafseer-nayeem.github.io/files/Introduction_to_NLTK.pdf), University of Lethbrdige, Alberta, Canada. 
+- <span style="color:Blue"> [October 19, 2019] </span> - Talk on [IEEE highlighting the motto and benefits of IEEE membership](#), University of Dhaka, Bangladesh
+- <span style="color:Blue"> [August 02, 2019] </span> - Seminar Talk on [Research Methodology](#), Rajshahi University of Engineering and Technology (RUET), Bangladesh
+- <span style="color:Blue"> [June 19, 2019] </span> - Workshop on [Introduction to Optimization](#), Department of Computer Science and Engineering, Green University of Bangladesh 
+- <span style="color:Blue"> [March 20, 2019] </span> - Workshop on [Python Programming](#), Department of Computer Science and Engineering, Green University of Bangladesh 
+-
 
-## 👨‍⚖️ Leadership Activities
+## 👨‍⚖️ Other Activities
 ------------------------
-- Organizing Committee Member & Researcher, **Commonwealth of Learning ([COL](https://www.col.org/)) TEL AUST** Project [<span style ="color:Green"> [**Report**] </span>](http://oasis.col.org/handle/11599/3220)
-- Member, Logistics & IT Support Committee, [ICCIT 2020](http://iccit.org.bd/2020/)
-- **Organizer and Host:** [Intel Nervana AI Academy - Workshop](https://www.intel.ai/).
-- Member, *Bangladeshi Students' Organization at the University of Lethbridge* ([**BSOUL**](https://www.facebook.com/BSOULpage/)), Alberta, Canada. 
-- Convener, Project Showcasing, **AUST CSE WEEK 2018**, Dhaka, Bangladesh.
-- Organizing committee member in the **AUST CSE Fest 2013 and 2014**, Dhaka, Bangladesh.
-- Organizing committee member in the **BUBT CSE FIESTA 2012**, Dhaka, Bangladesh.
-- Organizing committee member in the **IUT ICT Fest 2011**, Dhaka, Bangladesh. 
-
+- <span style="color:Blue"> [2021 - Present] Branch Counselor, IEEE Student Branch, University of Dhaka
+- <span style="color:Blue"> [2021] Adjudicator, Bangabandhu Innovation Grant (BIG 2021)
+- <span style="color:Blue"> [Sep 2019 - Present] Student Advisor, Department of Robotics and Mechatronics Engineering, University of Dhaka	
+- <span style="color:Blue"> [Jan 2019 – Present] Moderator, RMEDU Student Club, Department of Robotics and Mechatronics Engineering, University of Dhaka 
+- <span style="color:Blue"> [2019] Publicity Coordinator, IEEE Computer Society Bangladesh Chapter
+- <span style="color:Blue"> [2018 - 2019] Trainer, nformation Technology Engineers Examination (ITEE) Intensive Couse, The Project for Skill’s Development of ICT Engineers Targeting Japanese Market (Funded by BCC and JICA) 
+- <span style="color:Blue"> [2019] Student Activity Coordinator, IEEE Robotics and Automation Society Bangladesh Chapter 
+- <span style="color:Blue"> [2019] Judge, 2nd Bangladesh Robot Olympiad
+- <span style="color:Blue"> [2019] Mentor, IEEE Computer Society SBC, University of Dhaka
+- <span style="color:Blue"> [Jan 2019 – Present]
+	
 ----------------------
 
 [**Back to Top**](#)
