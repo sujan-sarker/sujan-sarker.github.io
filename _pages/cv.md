@@ -9,7 +9,7 @@ author_profile: true
 **M.S. in Computer Science and Engineering (CSE)** <br />
 Department of Computer Science and Engineering <br />
 University of Dhaka (DU) <br />
-<span style ="color:blue"> [2013] </span> 
+<span style ="color:blue"> [2016] </span> 
 <br /> <br />
 **B.Sc. in Computer Science and Engineering (CSE)** <br />
 Department of Computer Science and Engineering <br />
