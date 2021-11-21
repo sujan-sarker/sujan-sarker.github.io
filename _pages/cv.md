@@ -9,7 +9,40 @@ author_profile: true
 **M.S. in Computer Science and Engineering (CSE)** <br />
 Department of Computer Science and Engineering <br />
 University of Dhaka (DU) <br />
-<span style ="color:blue"> ** 2013 **</span>
+<span style ="color:blue"> [2013] </span> 
+<br />
+**B.Sc. in Computer Science and Engineering (CSE)** <br />
+Department of Computer Science and Engineering <br />
+University of Dhaka (DU) <br />
+<span style ="color:blue"> [2013] </span> 
+<br />
+
+## Employment
+-------------
+**Assistant Professor** <br />
+Department of Robotics and Mechatronics Engineering <br />
+University of Dhaka (DU) <br />
+<span style ="color:blue"> [October 2021 - Present] </span> 
+<br />
+**Lecturer** <br />
+Department of Robotics and Mechatronics Engineering <br />
+University of Dhaka (DU) <br />
+<span style ="color:blue"> [November 2018 - September 2021] </span> 
+<br />
+**Assistant Professor** <br />
+Department of Computer Science and Engineering <br />
+Ahsanullah University of Science and Technology (AUST) <br />
+<span style ="color:blue"> [April 2018 - October 2018] </span> 
+<br />
+**Lecturer** <br />
+Department of Computer Science and Engineering <br />
+Ahsanullah University of Science and Technology (AUST) <br />
+<span style ="color:blue"> [October 2014 - March 2018] </span> 
+<br />
+**Trainee Software Engineer** <br />
+Therap Services, LLC, Dhaka <br />
+<span style ="color:blue"> [April 2014 - June 2014] </span> 
+<br />
 
 [Download Full CV](https://sujan-sarker.github.io/files/resume_sujan.pdf) <span style ="color:Green"> [<ins>*Last Updated on Nov 20, 2021*</ins>] </span>
 
