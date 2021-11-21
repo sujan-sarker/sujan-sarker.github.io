@@ -4,6 +4,12 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
+## Education
+-------------
+**M.S. in Computer Science and Engineering (CSE)** <br />
+Department of Computer Science and Engineering <br />
+University of Dhaka (DU) <br />
+<span style ="color:blue"> ** 2013 **</span>
 
 [Download Full CV](https://sujan-sarker.github.io/files/resume_sujan.pdf) <span style ="color:Green"> [<ins>*Last Updated on Nov 20, 2021*</ins>] </span>
 
