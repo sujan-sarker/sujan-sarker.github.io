@@ -38,8 +38,9 @@ author_profile: true
 # Awards
 ---------
 
-* 🏆 <span style="color:Red"> **[Best Paper Award]** </span> in [ICIET 2018](https://cse.du.ac.bd/iciet/).
-* 🏆  <span style="color:Red"> **[Best Paper Award]** </span> in [STI 2019](http://fse.green.edu.bd/sti-2019/).
+* 🏆 <span style="color:Red"> **[Best Paper Award]** </span> in [ICIET 2018](https://cse.du.ac.bd/iciet/)
+* 🏆  <span style="color:Red"> **[Best Paper Award]** </span> in [STI 2019](http://fse.green.edu.bd/sti-2019/)
+* 🏆  <span style="color:Red"> **[Best Poster Paper Award]** </span> in [STI 2019](http://fse.green.edu.bd/sti-2019/)
 * 🏆 ICT Fellowship by ICT Division, Government of the People’s Republic of Bangladesh (2015 - 2016) [*Amount: 240,000 BDT*]
 * 🏆 Innovative Asia Short-term Scholarship for Short-term Program of Innovative Asia: Cutting-edgetechnologies on Robotics and AIorganized by Japan International Cooperation Agency (JICA) incollaboration with Shibaura Institute of Technology (February 24, 2020 to March 7, 2020)
 
