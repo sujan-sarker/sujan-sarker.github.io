@@ -26,6 +26,7 @@ I am Sujan Sarker. I have completed my Master of Science (M.S.) and Bachelor of 
 * 📢 <span style="color:Blue"> [Oct 2021] </span> - One [journal paper](https://www.sciencedirect.com/science/article/pii/S0921889021001871) got accepted to  [Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems).
 * 📢 <span style="color:Blue"> [Oct 2020] </span> - One [journal paper](https://www.springer.com/journal/12559) got accepted to  [Cognitive Computation](https://link.springer.com/article/10.1007/s12559-020-09779-5).
 * 📢 <span style="color:Blue"> [Feb 2020] </span> - Got acceptance for ***Short-term Program of Innovative Asia (Cutting-edge Technologies on Robotics and AI)***, Shibaura Institute of Technology, Japan .
+* 📢 <span style="color:Blue"> [Dec 2019] </span> - one [poster paper](https://sujan-sarker.github.io/files/STI_30_Poster_Paper.pdf) <span style="color:Red"> **[Best Poster Paper Award]** </span> in [STI 2019](http://fse.green.edu.bd/sti-2019/).
 *  📢 <span style="color:Blue"> [Dec 2019] </span> - Got <span style="color:Red"> **[Best Paper Award]** </span> in [STI 2019](http://fse.green.edu.bd/sti-2019/).
 *  📢 <span style="color:Blue"> [Dec 2018] </span> - Got <span style="color:Red"> **[Best Paper Award]** </span> in [ICIET 2018](https://cse.du.ac.bd/iciet/).
 
