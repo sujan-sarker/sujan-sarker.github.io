@@ -22,6 +22,7 @@ I am Sujan Sarker. I have completed my Master of Science (M.S.) and Bachelor of 
 
 
 ## Recent News
+* 📢 <span style="color:Blue"> [Oct 2021] </span> - Received 90+ citations in my publications in [google scholar](https://scholar.google.com/citations?user=uCSts6gAAAAJ&hl=en).
 * 📢 <span style="color:Blue"> [Oct 2021] </span> - One [long paper](https://cse.buet.ac.bd/nsyss2021/papers/) got accepted to  [NSysS 2021](https://cse.buet.ac.bd/nsyss2021/).
 * 📢 <span style="color:Blue"> [Oct 2021] </span> - One [journal paper](https://www.sciencedirect.com/science/article/pii/S0921889021001871) got accepted to  [Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems).
 * 📢 <span style="color:Blue"> [Oct 2020] </span> - One [journal paper](https://www.springer.com/journal/12559) got accepted to  [Cognitive Computation](https://link.springer.com/article/10.1007/s12559-020-09779-5).
