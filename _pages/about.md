@@ -11,7 +11,7 @@ redirect_from:
 Thanks for visiting!
 
 
-I am Sujan Sarker. I have completed my Master of Science (M.S.) and Bachelor of Science (B.Sc.) degrees in Computer Science and Engineering (CSE) from the  Department of Computer Science and Engineering, [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh. Now, I am working as an assistant professor at the Department of Robotics and Mechatronics in the same university. My research interests include, but are not limited to, Mobile crowdsensing, Edge computing, Internet of Things (IoT), Multi-agent Systems, and Human Robot Interaction (HRI).  
+I am Sujan Sarker. I have completed my Master of Science (M.S.) and Bachelor of Science (B.Sc.) degrees in Computer Science and Engineering (CSE) from the  Department of Computer Science and Engineering, [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh. Now, I am working as an assistant professor at the Department of Robotics and Mechatronics in the same university. My research interests include, but are not limited to, Mobile crowdsensing, Edge computing, Internet of Things (IoT), Multi-agent Systems, Cyber Physical Systems, and Human Robot Interaction (HRI).  
 
 **For additional information, please see my [CV](https://sujan-sarker.github.io/cv/) and [publications](https://sujan-sarker.github.io/publications/).**
 
