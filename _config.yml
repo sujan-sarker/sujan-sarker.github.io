@@ -83,7 +83,7 @@ author:
   name             : "Sujan Sarker"
   avatar           : "profile.jpg"
   bio              : "Utilizing edge infrastructure to enhance the capability of multi-robot system, Designing intelligent robots to efficiently communicate with humans. "
-  location         : "127.0.0.1"
+  location         : #"127.0.0.1"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uCSts6gAAAAJ&hl=en"
