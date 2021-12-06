@@ -9,6 +9,9 @@ author_profile: true
 
 ## 2021
 -----------
+* Md. Tanvir Arafat, Mehedi Hasan Emon, **Sujan Sarker**, Md. Abdur Razzaque, Md. Mustafizur
+Rahmana, Mohammad Mehedi Hassan, [**"A Game of Trade between Quality and Cost for Worker
+Recruitment in Spatial Crowdsensing"**](#), IEEE Internet of Things Journal <span style ="color:Green"> **[Under first round review]** </span>.
 * Pranjol Kumar Nandi, Md. Rejaul Islam Reaj, **Sujan Sarker**, Md. Abdur Razzaque, Md. Mamun-or-Rashid, [**"Task Offloading to Edge Cloud Balancing Utility and Cost for Energy Harvesting IoT"**](#), IEEE Transactions on Emerging Topics in Computing <span style ="color:Green"> **[Under first round review]** </span>.
 * Nawmi Nujhat, Fahmida Haque Shanta, **Sujan Sarker**, Polash Roy, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Mohammad Mehedi Hasan, [**"Task Execution Exploiting Grey Wolf Optimization in Collaborative Edge Computing"**](#), IEEE Transactions on Services Computing <span style ="color:Green"> **[Under first round review]** </span>.
 * **Sujan Sarker**, Lafifa Jamal, Syeda Faiza Ahmed, Niloy Irtisam, [**"Robotics and artificial intelligence in healthcare during COVID-19 pandemic: A systematic review"**](https://www.sciencedirect.com/science/article/pii/S0921889021001871), Robotics and Autonomous Systems, Volume 146, 2021 (**IF: 3.120**).
