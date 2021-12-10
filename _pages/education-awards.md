@@ -24,7 +24,7 @@ author_profile: true
 
 * [University of Dhaka](https://www.du.ac.bd/), Dhaka, Bangladesh.
 * **CGPA:  3.82** <span style ="color:Green"> [*out of 4.00* ] </span>
-* **Thesis title:** [*"Multi-constraint QoS Aware MAC Protocol for Cluster Based Cognitive Radio Sensor Networks"*](https://sujan-sarker.github.io/files/BSc_thesis_report_sujan.pdf) 
+* **Thesis title:** [*"Multi-constraint QoS Aware MAC Protocol for Cluster Based Cognitive Radio Sensor Networks"*]
 * **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://sujan-sarker.github.io/files/BSc_thesis_presentation.pdf) 
 * **Supervisor:** [Dr. Md. Abdur Razzaque](https://www.cse.du.ac.bd/profile/?faculty=AR), Professor, Department of Computer Science and Engineering, University of dhaka.
 
