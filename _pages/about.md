@@ -32,7 +32,7 @@ I am Sujan Sarker, a second-year Ph.D. student in Computer Science at the Univer
 *  📢 <span style="color:Blue"> [Dec 2019] </span> - Got <span style="color:Red"> **[Best Paper Award]** </span> in [STI 2019](http://fse.green.edu.bd/sti-2019/).
 *  📢 <span style="color:Blue"> [Dec 2018] </span> - Got <span style="color:Red"> **[Best Paper Award]** </span> in [ICIET 2018](https://cse.du.ac.bd/iciet/).
 
-
+-->
 <!-- ## Recent Project Demonstrations 
 
 * 💻 Bengali Document Readability Checker [[Demo Video]](https://youtu.be/U05Pf9Y4tCQ).
@@ -43,7 +43,5 @@ I am Sujan Sarker, a second-year Ph.D. student in Computer Science at the Univer
 [**Back to Top**](#)
 
 
-<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=320&t=m&d=ipF0iF0Q-RsFHP1VWejYRbFjf-eSQyozfam19f0UfGo'></script> -->
-
--->
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=320&t=m&d=ipF0iF0Q-RsFHP1VWejYRbFjf-eSQyozfam19f0UfGo'></script> --
 
