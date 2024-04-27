@@ -11,7 +11,7 @@ redirect_from:
 Thanks for visiting!
 
 
-I am Sujan Sarker. I have completed my Master of Science (M.S.) and Bachelor of Science (B.Sc.) degrees in Computer Science and Engineering (CSE) from the  Department of Computer Science and Engineering, [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh. Now, I am working as an assistant professor at the Department of Robotics and Mechatronics in the same university. My research interests include, but are not limited to Wireless Sensor Networks, Mobile crowdsensing, Edge Computing, Mobile Device Cloud, Internet of Things (IoT), Distributed Systems, Cyber Physical Systems, Human Robot Interaction (HRI), and Machine Learning Applications.  
+I am Sujan Sarker, a second-year Ph.D. student in Computer Science at the University of Virginia. I am working as a Graduate Research Assistant at the Collaborative Robotics Lab under the supervision of Prof. Tariq Iqbal. I have completed my Master of Science (M.S.) and Bachelor of Science (B.Sc.) degrees in Computer Science and Engineering (CSE) from the  Department of Computer Science and Engineering, [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh. Now, I am also an assistant professor (On leave) at the Department of Robotics and Mechatronics at the same university. My research interests include, but are not limited to, Wireless Sensor Networks, Mobile crowdsensing, Edge Computing, Mobile Device Cloud, Internet of Things (IoT), Distributed Systems, Cyber-Physical Systems, Human-Robot Interaction (HRI), and Machine Learning Applications.  
 
 **For additional information, please see my [CV](https://sujan-sarker.github.io/cv/) and [publications](https://sujan-sarker.github.io/publications/).**
 
@@ -20,7 +20,7 @@ I am Sujan Sarker. I have completed my Master of Science (M.S.) and Bachelor of 
 	title="Publication Venues" width="600" height="200"> </a>
 -->
 
-
+<!--
 ## Recent News
 * 📢 <span style="color:Blue"> [Dec 2021] </span> - Received 100+ citations in my publications in [google scholar](https://scholar.google.com/citations?user=uCSts6gAAAAJ&hl=en).
 * 📢 <span style="color:Blue"> [Oct 2021] </span> - One [long paper](https://cse.buet.ac.bd/nsyss2021/papers/) got accepted to  [NSysS 2021](https://cse.buet.ac.bd/nsyss2021/).
@@ -45,5 +45,5 @@ I am Sujan Sarker. I have completed my Master of Science (M.S.) and Bachelor of 
 
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=320&t=m&d=ipF0iF0Q-RsFHP1VWejYRbFjf-eSQyozfam19f0UfGo'></script> -->
 
-
+-->
 
