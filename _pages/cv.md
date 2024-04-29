@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-## Education
+<!--## Education
 -------------
 **M.S. in Computer Science and Engineering (CSE)** <br />
 Department of Computer Science and Engineering <br />
@@ -43,13 +43,13 @@ Ahsanullah University of Science and Technology (AUST) <br />
 Therap Services, LLC, Dhaka <br />
 <span style ="color:blue"> [April 2014 - June 2014] </span> 
 <br /> <br />
-
-[Download Full CV](https://sujan-sarker.github.io/files/resume_sujan.pdf) <span style ="color:Green"> [<ins>*Last Updated on DEC 6, 2021*</ins>] </span>
+-->
+[Full CV](https://sujan-sarker.github.io/files/resume_sujan.pdf) <span style ="color:Green"> [<ins>*Last Updated on Apr, 2024*</ins>] </span>
 
 ## Contact Me
 -------------
 
-📧 **Email:** sujan [at] du [dot] ac [dot] bd <br /> 
+📧 **Email:** zzr2hs [at] virginia [dot] edu <br /> 
 
 📒 **Website:** [https://sujan-sarker.github.io/](https://sujan-sarker.github.io/) <br />
 
@@ -58,13 +58,11 @@ You can find me on [Github](https://github.com/sujan-sarker).
 
 **Address:**
 <address>
-Department of Robotics and Mechatronics Engineering (RME), <br /> 
-University of Dhaka (DU). <br /> 
-Kazi Motaher Hossain Bhaban (Annex Building), <br />
-Dhaka -1000, Bangladesh. <br /> 
+Olsson Hall 263 <br />
+151 Engineer’s Way <br />
 </address> 
 <br /> 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.524703274322!2d90.39505751370858!3d23.728661484600106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8e8c03d3fb5%3A0x103f3f66abb57714!2sRobotics%20And%20Mechatronics%20Engineering%2C%20University%20of%20Dhaka!5e0!3m2!1sen!2sbd!4v1637428725795!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.524703274322!2d90.39505751370858!3d23.728661484600106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8e8c03d3fb5%3A0x103f3f66abb57714!2sRobotics%20And%20Mechatronics%20Engineering%2C%20University%20of%20Dhaka!5e0!3m2!1sen!2sbd!4v1637428725795!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>-->
 
 ----------------------------------------
 
