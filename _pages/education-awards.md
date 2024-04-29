@@ -7,6 +7,12 @@ author_profile: true
 
 # Education
 
+## 🎓 PhD Student in Computer Science (Ongoing)
+--------------------------------
+* [University of Virginia (UVA)](https://www.virginia.edu/), Virginia, USA.
+* **CGPA:  4.00** <span style ="color:Green"> [*out of 4.00* ] </span>
+* **Supervisor:** [Dr. Tariq Iqbal](https://engineering.virginia.edu/faculty/tariq-iqbal), Assistant Professor, Systems Engineering, Computer Science
+  
 ## 🎓 M.S. in Computer Science and Engineering (CSE)
 --------------------------------
 
