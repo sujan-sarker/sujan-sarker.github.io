@@ -11,9 +11,6 @@ author_profile: true
 -----------
 * **S. Sarker**, H. Green, T. Iqbal [**"Effects of Robot’s Policies on Perception of Fairness in Human-Robot Collaborative Tasks"**](#), ACM Transactions on Human-Robot Interaction <span style ="color:Green"> **[Under review]** </span>.
 * M. M. Islam, A. Gladstone, **S. Sarker**, G. Nanduru, T. Iqbal [**"Embodied Referring Expression Comprehension Through Multimodal Residual Learning"**](#), European Conference on Computer Vision (ECCV) 2024 <span style ="color:Green"> **[Under review]** </span>.
-<!--* Md. Tanvir Arafat, Mehedi Hasan Emon, **Sujan Sarker**, Md. Abdur Razzaque, Md. Mustafizur
-Rahmana, Mohammad Mehedi Hassan, [**"A Game of Trade between Quality and Cost for Worker
-Recruitment in Spatial Crowdsensing"**](#), IEEE Internet of Things Journal <span style ="color:Green"> **[Under first round review]** </span>.-->
 * **Sujan Sarker**, Md. Tanvir Arafat, Aiman Lameesa, Mahbuba Afrin, Redowan Mahmud, Md. Abdur Razzaque, Tariq Iqbal, [**"FOLD: Fog-dew infrastructure-aided optimal workload distribution for cloud robotic operations"**](#), Internet of Things, Volume 26, 2024 (**IF: 5.90**)
 * Nawmi Nujhat, Fahmida Haque Shanta, **Sujan Sarker**, Polash Roy, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Mohammad Mehedi Hasan,Giancarlo Fortino, [**"Task offloading exploiting grey wolf optimization in collaborative edge computing"**](#), Journal of Cloud Computing, Volume 13, no. 23, 2024 (**IF: 4.40**).
 * Pranjol Kumar Nandi, Md. Rejaul Islam Reaj, **Sujan Sarker**, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Palash Roy, [**"Task offloading to edge cloud balancing utility and cost for energy harvesting Internet of Things"**](#), Journal of Network and Computer Applications Volume 221, 2024 (**IF: 8.70**).
@@ -21,9 +18,13 @@ Recruitment in Spatial Crowdsensing"**](#), IEEE Internet of Things Journal <spa
 ## 2023
 -----------
 * S. Rahman, **S. Sarker**, A. K. M. N. Haque, M. M. Uttsha, M. F. Islam and S. Deb, [**"AI-driven Stroke Rehabilitation Systems and Assessments: A Systematic Review"**](#), IEEE Transactions on Neural Systems and Rehabilitation Engineering, Volume 31, 2023 (**IF: 4.528**).
+
+  
 ## 2022
 -----------
 * F. Huq, N. Sultana, **S. Sarker**, M. A. Razzaque and M. M. Hassan, [**"Profit and Satisfaction Aware Order Assignment for Online Food Delivery Systems Exploiting Water Wave Optimization"**](#), IEEE Access, Volume 10, 2022 (**IF: 3.476**).
+
+  
 ## 2021
 -----------
 * **Sujan Sarker**, Lafifa Jamal, Syeda Faiza Ahmed, Niloy Irtisam, [**"Robotics and artificial intelligence in healthcare during COVID-19 pandemic: A systematic review"**](https://www.sciencedirect.com/science/article/pii/S0921889021001871), Robotics and Autonomous Systems, Volume 146, 2021 (**IF: 3.120**).
