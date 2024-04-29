@@ -7,13 +7,25 @@ author_profile: true
 
 [ [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=uCSts6gAAAAJ&view_op=list_works&sortby=pubdate) \| [**DBLP**](https://dblp.org/pid/183/5530.html)]
 
+## 2024
+-----------
+* **S. Sarker**, H. Green, T. Iqbal [**"Effects of Robot’s Policies on Perception of Fairness in Human-Robot Collaborative Tasks"**](#), ACM Transactions on Human-Robot Interaction <span style ="color:Green"> **[Under review]** </span>.
+* M. M. Islam, A. Gladstone, **S. Sarker**, G. Nanduru, T. Iqbal [**"Embodied Referring Expression Comprehension Through Multimodal Residual Learning"**](#), European Conference on Computer Vision (ECCV) 2024 <span style ="color:Green"> **[Under review]** </span>.
+<!--* Md. Tanvir Arafat, Mehedi Hasan Emon, **Sujan Sarker**, Md. Abdur Razzaque, Md. Mustafizur
+Rahmana, Mohammad Mehedi Hassan, [**"A Game of Trade between Quality and Cost for Worker
+Recruitment in Spatial Crowdsensing"**](#), IEEE Internet of Things Journal <span style ="color:Green"> **[Under first round review]** </span>.-->
+* **Sujan Sarker**, Md. Tanvir Arafat, Aiman Lameesa, Mahbuba Afrin, Redowan Mahmud, Md. Abdur Razzaque, Tariq Iqbal, [**"FOLD: Fog-dew infrastructure-aided optimal workload distribution for cloud robotic operations"**](#), Internet of Things, Volume 26, 2024 (**IF: 5.90**)
+* Nawmi Nujhat, Fahmida Haque Shanta, **Sujan Sarker**, Polash Roy, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Mohammad Mehedi Hasan,Giancarlo Fortino, [**"Task offloading exploiting grey wolf optimization in collaborative edge computing"**](#), Journal of Cloud Computing, Volume 13, no. 23, 2024 (**IF: 4.40**).
+* Pranjol Kumar Nandi, Md. Rejaul Islam Reaj, **Sujan Sarker**, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Palash Roy, [**"Task offloading to edge cloud balancing utility and cost for energy harvesting Internet of Things"**](#), Journal of Network and Computer Applications Volume 221, 2024 (**IF: 8.70**).
+
+## 2023
+-----------
+* S. Rahman, **S. Sarker**, A. K. M. N. Haque, M. M. Uttsha, M. F. Islam and S. Deb, [**"AI-driven Stroke Rehabilitation Systems and Assessments: A Systematic Review"**](#), IEEE Transactions on Neural Systems and Rehabilitation Engineering, Volume 31, 2023 (**IF: 4.528**).
+## 2022
+-----------
+* F. Huq, N. Sultana, **S. Sarker**, M. A. Razzaque and M. M. Hassan, [**"Profit and Satisfaction Aware Order Assignment for Online Food Delivery Systems Exploiting Water Wave Optimization"**](#), IEEE Access, Volume 10, 2022 (**IF: 3.476**).
 ## 2021
 -----------
-* Md. Tanvir Arafat, Mehedi Hasan Emon, **Sujan Sarker**, Md. Abdur Razzaque, Md. Mustafizur
-Rahmana, Mohammad Mehedi Hassan, [**"A Game of Trade between Quality and Cost for Worker
-Recruitment in Spatial Crowdsensing"**](#), IEEE Internet of Things Journal <span style ="color:Green"> **[Under first round review]** </span>.
-* Pranjol Kumar Nandi, Md. Rejaul Islam Reaj, **Sujan Sarker**, Md. Abdur Razzaque, Md. Mamun-or-Rashid, [**"Task Offloading to Edge Cloud Balancing Utility and Cost for Energy Harvesting IoT"**](#), IEEE Transactions on Emerging Topics in Computing <span style ="color:Green"> **[Under first round review]** </span>.
-* Nawmi Nujhat, Fahmida Haque Shanta, **Sujan Sarker**, Polash Roy, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Mohammad Mehedi Hasan, [**"Task Execution Exploiting Grey Wolf Optimization in Collaborative Edge Computing"**](#), IEEE Transactions on Services Computing <span style ="color:Green"> **[Under first round review]** </span>.
 * **Sujan Sarker**, Lafifa Jamal, Syeda Faiza Ahmed, Niloy Irtisam, [**"Robotics and artificial intelligence in healthcare during COVID-19 pandemic: A systematic review"**](https://www.sciencedirect.com/science/article/pii/S0921889021001871), Robotics and Autonomous Systems, Volume 146, 2021 (**IF: 3.120**).
 * Sejuti Rahman, **Sujan Sarker**, Md Abdullah Al Miraj, Ragib Amin Nihal, A. K. M. Nadimul Haque, Abdullah Al Noman, [**"Deep Learning–Driven Automated Detection of COVID-19 from Radiography Images: a Comparative Analysis"**](https://link.springer.com/article/10.1007/s12559-020-09779-5), Cognitive Computation, 2021 (**IF: 4.307**).
 * Sifat Ahmed, Tonmoy Hossain, Oishee Bintey Hoque, **Sujan Sarker**, Sejuti Rahman, Faisal Muhammad Shah, [**"Automated COVID-19 Detection from Chest X-Ray Images : A High Resolution Network (HRNet) Approach"**](https://link.springer.com/article/10.1007/s42979-021-00690-w), SN Computer Science 2, no. 4 (2021): 1-17.
