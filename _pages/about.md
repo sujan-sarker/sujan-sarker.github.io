@@ -11,7 +11,7 @@ redirect_from:
 Thanks for visiting!
 
 
-I am Sujan Sarker, a second-year Ph.D. student in Computer Science at the University of Virginia. I am working as a Graduate Research Assistant at the Collaborative Robotics Lab under the supervision of Prof. Tariq Iqbal. I have completed my Master of Science (M.S.) and Bachelor of Science (B.Sc.) degrees in Computer Science and Engineering (CSE) from the  Department of Computer Science and Engineering, [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh. Now, I am also an assistant professor (On leave) at the Department of Robotics and Mechatronics at the same university. My research interests include, but are not limited to, Wireless Sensor Networks, Mobile crowdsensing, Edge Computing, Mobile Device Cloud, Internet of Things (IoT), Distributed Systems, Cyber-Physical Systems, Human-Robot Interaction (HRI), and Machine Learning Applications.  
+I am Sujan Sarker, a fourth-year Ph.D. student in Computer Science at the University of Virginia. I am working as a Graduate Research Assistant at the Collaborative Robotics Lab under the supervision of Prof. Tariq Iqbal. I have completed my Master of Science (M.S.) and Bachelor of Science (B.Sc.) degrees in Computer Science and Engineering (CSE) from the  Department of Computer Science and Engineering, [University of Dhaka (DU)](https://www.du.ac.bd/), Dhaka, Bangladesh. I am also an assistant professor (on leave) in the Department of Robotics and Mechatronics at the same university. My research interests include Embodied AI, Multi-agent Collaboration, and Human-Robot Interactions.
 
 **For additional information, please see my [CV](https://sujan-sarker.github.io/cv/) and [publications](https://sujan-sarker.github.io/publications/).**
 
