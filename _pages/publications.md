@@ -9,8 +9,11 @@ author_profile: true
 
 ## 2024
 -----------
+* M. M. Islam, A. Gladstone, **S. Sarker**, G. Nanduru, T. Iqbal [**"Embodied Referring Expression Comprehension in Human-Robot Interaction"**](#), International Conference on Human-Robot Interaction (HRI)  2026 <span style ="color:Green"> **[Accepted]** </span>.
+* **Sujan Sarker**, Mohammad Samin Yasar, and Tariq Iqba [**"A Vision-Language Framework for Hierarchical Multi-Agent Collaboration"**](#), IEEE Robotics and Automation Letters (RA-L) <span style ="color:Green"> **[Under Review]** </span>.
+
 * **S. Sarker**, H. Green, T. Iqbal [**"Effects of Robot’s Policies on Perception of Fairness in Human-Robot Collaborative Tasks"**](#), ACM Transactions on Human-Robot Interaction <span style ="color:Green"> **[Under review]** </span>.
-* M. M. Islam, A. Gladstone, **S. Sarker**, G. Nanduru, T. Iqbal [**"Embodied Referring Expression Comprehension Through Multimodal Residual Learning"**](#), European Conference on Computer Vision (ECCV) 2024 <span style ="color:Green"> **[Under review]** </span>.
+
 * **Sujan Sarker**, Md. Tanvir Arafat, Aiman Lameesa, Mahbuba Afrin, Redowan Mahmud, Md. Abdur Razzaque, Tariq Iqbal, [**"FOLD: Fog-dew infrastructure-aided optimal workload distribution for cloud robotic operations"**](#), Internet of Things, Volume 26, 2024 (**IF: 5.90**)
 * Nawmi Nujhat, Fahmida Haque Shanta, **Sujan Sarker**, Polash Roy, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Mohammad Mehedi Hasan,Giancarlo Fortino, [**"Task offloading exploiting grey wolf optimization in collaborative edge computing"**](#), Journal of Cloud Computing, Volume 13, no. 23, 2024 (**IF: 4.40**).
 * Pranjol Kumar Nandi, Md. Rejaul Islam Reaj, **Sujan Sarker**, Md. Abdur Razzaque, Md. Mamun-or-Rashid, Palash Roy, [**"Task offloading to edge cloud balancing utility and cost for energy harvesting Internet of Things"**](#), Journal of Network and Computer Applications Volume 221, 2024 (**IF: 8.70**).
