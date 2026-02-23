@@ -9,12 +9,15 @@ author_profile: true
 -------------------------
 
 1. **Program Committee/Reviewer**
+    - **2025:** HRI, ICRA, AAAI, IJCAI
+    - **2024:** HRI, ICRA
 	- **2021:** [STI](http://fse.green.edu.bd/sti-2021/), [NSysS](https://cse.buet.ac.bd/nsyss2021/) 
 	- **2020:** [STI](http://fse.green.edu.bd/sti-2021/)
 	- **2019:** [ICIET](http://www.enggtech.du.ac.bd/iciet-2019/)
 	
-2. **Journal Reviewer**
+3. **Journal Reviewer**
 	- [IEEE Internet of Things Journal](https://ieee-iotj.org/), [IEEE Access](https://ieeeaccess.ieee.org/)
+    - ACM Transactions on Human-Robot Interaction (THRI) 
 
 ## 👨‍🏫 Invited Talks, Seminars and Workshops
 ----------------
