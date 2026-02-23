@@ -44,7 +44,7 @@ Therap Services, LLC, Dhaka <br />
 <span style ="color:blue"> [April 2014 - June 2014] </span> 
 <br /> <br />
 -->
-[Full CV](https://sujan-sarker.github.io/files/resume_sujan.pdf) <span style ="color:Green"> [<ins>*Last Updated on Apr, 2024*</ins>] </span>
+[Full CV](https://sujan-sarker.github.io/files/sujan_sarker_cv.pdf) <span style ="color:Green"> [<ins>*Last Updated on Apr, 2024*</ins>] </span>
 
 ## Contact Me
 -------------
