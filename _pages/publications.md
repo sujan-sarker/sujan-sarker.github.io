@@ -10,10 +10,12 @@ author_profile: true
 
 ## 2026
 -----------
-* M. M. Islam, A. Gladstone, **S. Sarker**, G. Nanduru, T. Iqbal [**"Embodied Referring Expression Comprehension in Human-Robot Interaction"**](#), International Conference on Human-Robot Interaction (HRI), 2026 <span style ="color:Green"> **[Accepted]** </span>.
-* **Sujan Sarker**, Mohammad Samin Yasar, and Tariq Iqba [**"A Vision-Language Framework for Hierarchical Multi-Agent Collaboration"**](#), IEEE Robotics and Automation Letters (RA-L) <span style ="color:Green"> **[Under Review]** </span>.
+* M. M. Islam, A. Gladstone, **S. Sarker**, G. Nanduru, and T. Iqbal [**"Embodied Referring Expression Comprehension in Human-Robot Interaction"**](#), International Conference on Human-Robot Interaction (HRI), 2026 <span style ="color:Green"> **[Accepted]** </span>.
+* **S. Sarker**, Mohammad Samin Yasar, and Tariq Iqba [**"A Vision-Language Framework for Hierarchical Multi-Agent Collaboration"**](#), IEEE Robotics and Automation Letters (RA-L) <span style ="color:Green"> **[Under Review]** </span>.
 
-* **S. Sarker**, H. Green, T. Iqbal [**"Effects of Robot’s Policies on Perception of Fairness in Human-Robot Collaborative Tasks"**](#), ACM Transactions on Human-Robot Interaction <span style ="color:Green"> **[Under review]** </span>.
+* **S. Sarker**, S. Hasan, and T. Iqba [**"Leveraging Preferences for Adaptive Decision-Making in Human-Agent Interaction"**](#), IEEE Robotics and Automation Letters (RA-L) <span style ="color:Green"> **[Under Review]** </span>. 
+
+* **S. Sarker**, H. Green, T. Iqbal [**"Effects of Robot’s Policies on Perception of Fairness in Human-Robot Collaborative Tasks"**](#), ACM Transactions on Human-Robot Interaction (THRI) <span style ="color:Green"> **[Under review]** </span>.
 
 ## 2024
 -----------
